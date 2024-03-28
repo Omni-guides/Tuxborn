@@ -22,6 +22,8 @@ Using the brilliant Anvil Modlist as a base, Tuxborn creates a balance of game f
 gameplay changes, and a performance-focused selection of graphical enhancements across the board. 
 
 As we work through the development of Tuxborn, future versions will include Additional or Overhauled Quest Content, NPC/Character Enhancements, Extra Weapons and Armours, and more!
+
+Downloading a Wabbajack Modlist gives you everything you need - **you do not need to install ModOrganizer yourself, or copy mods to the Vanilla Skyrim directory, everything is already done for you!**
  
 
 The current Loadorder Library can be found here: [Tuxborn](https://loadorderlibrary.com/lists/tuxborn)
