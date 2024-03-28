@@ -8,9 +8,9 @@
 
 Introducing **Tuxborn**, the first Wabbajack Modlist specifically designed from the ground up with the Steam Deck in mind, and inspired by the likes of Septimus, Redoran and Eldryn.
 
-The Modlist currently in an early Alpha Stage, so support will be minimal at best during this time while we develop the Modlist. If you wish to chat about Tuxborn, or Wabbajack Modlists on Steam Deck/Linux in general, then drop by the #unofficial-linux-help channel of the Official Wabbajack Discord.
+The Modlist is currently in an early Alpha Stage, so support will be minimal at best during this time while we develop the Modlist. If you wish to chat about Tuxborn, or Wabbajack Modlists on Steam Deck/Linux in general, then drop by the #unofficial-linux-help channel of the Official Wabbajack Discord.
 
-Tuxborn was created to fill a gap in the Wabbajack Modlist landscape – A Modlist that specifically targets the Performance Profile of the Valve Steam Deck. While there are other Wabbajack Modlists that can be made to run on Steam Deck, they usually require some modification to get the performance or compatibility desired – With Tuxborn, the aim is to have that out of the box, with no additional modifications necessary.
+Tuxborn was created to fill a gap in the Wabbajack Modlist landscape – A Modlist that specifically targets the performance profile of the Valve Steam Deck. While there are other Wabbajack Modlists that can be made to run on Steam Deck, they usually require some modification to get the performance or compatibility desired – With Tuxborn, the aim is to have that out of the box, with no additional modifications necessary.
 
 Tuxborn supports only the Anniversary Edition of Skyrim, updated to **v1.6.1170**. Anniversary Edition is **not optional**.
 
@@ -21,16 +21,15 @@ Tuxborn balances enhanced visuals with smooth performance, ensuring an immersive
 Using the brilliant Anvil Modlist as a base, Tuxborn creates a balance of game fixes and QoL improvements, a carefully selected mix of Enairim and Simonrim
 gameplay changes, and a performance-focused selection of graphical enhancements across the board. 
 
-As we work through the development of Tuxborn, future versions will include Additional or Overhauled Quest Content, NPC/Character Enhancements, Extra Weapons and Armours, and more!
+As we work through the development of Tuxborn, future versions will include additional or overhauled Quest Content, NPC/Character Enhancements, Extra Weapons and Armours, and more!
 
 Downloading a Wabbajack Modlist gives you everything you need - **you do not need to install ModOrganizer yourself, or copy mods to the Vanilla Skyrim directory, everything is already done for you!**. Use the ModOrganizer.exe file located in the Install Directory you select in Wabbajack to start and launch the modlist.
  
-
 The current Loadorder Library can be found here: [Tuxborn](https://loadorderlibrary.com/lists/tuxborn)
 
 ### Performance
 
-As noted, this Modlist is designed for the performance profile of the Steam Deck, but that doesn’t mean it’s limited to that platform! It’s also a great, lightweight list for less powerful systems. There are three Profiles included that you can choose from depending on your performance desire, or system used (if not the Steam Deck):
+As noted, this Modlist is designed for the performance profile of the Steam Deck, but that doesn’t mean it’s limited to that device! It’s also a great, lightweight list for less powerful systems. There are three Profiles included that you can choose from depending on your performance desire, or system used (if not the Steam Deck):
  
 Tuxborn – Deck: This profile aims for a locked 40FPS experience on the Steam Deck
 Tuxborn - Deck CS: This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.
@@ -42,11 +41,11 @@ Please Note: Due to the need for shader cache building on the Steam Deck, there 
 
 # Installation
 
-For best results, you should consider fully uninstalling and reinstalling Skyrim from your Windows system prior to installing the Modlist. This will ensure that there are no additional, unneeded or unclean files that could interrupt or make the Wabbajack installation process fail.
+For best results, you should consider fully uninstalling and reinstalling Skyrim from your Windows system prior to installing the Modlist via Wabbajack. This will ensure that there are no additional, unneeded or unclean files that could interrupt or make the Wabbajack installation process fail.
 
 It is strongly recommended that you have a Nexus Premium account, otherwise you will need to manually download each of the mods, when prompted by Wabbajack.
 
-For both the installation via Wabbajack and playing the modlist (either on Windows or on Steam Deck/Linux), you will need to have launched Vanilla Skyrim at least once, and have downloaded all the Anniversary Edition Creation Club content from within Skyrim.
+For both the installation via Wabbajack and playing the modlist (either on Windows or on Steam Deck/Linux), **you will need to have launched Vanilla Skyrim at least once, and have downloaded all the Anniversary Edition Creation Club content from within Skyrim.**
 
 ### Wabbajack
 
@@ -56,7 +55,7 @@ On your Windows system, install [Visual C++ x64](https://aka.ms/vs/16/release/v
 
 Download the Wabbajack application from [here](https://www.wabbajack.org/) and place it in a folder such as C:\Games\Wabbajack – Do not place it in Program Files, Downloads, or on your Desktop.
 
-Download the .wabbajack file from the [Tuxborn Nexusmods Page](https://www.nexusmods.com/skyrimspecialedition/mods/114206?tab=description). This will download a 7zip file archive with the .wabbajack file contained within.
+Download the .wabbajack file from the [Tuxborn Nexusmods Page](https://www.nexusmods.com/skyrimspecialedition/mods/114206?tab=description). This will download a 7zip file archive with the .wabbajack file contained within. Extract it somewhere easily accessible.
 
 Open Wabbajack, and click the “Install from Disk” option.
 
@@ -64,7 +63,7 @@ Open Wabbajack, and click the “Install from Disk” option.
 
 Browse to where you downloaded and extracted the Tuxborn.wabbajack file, select it, and click OK.
 
-Enter the details for where you want to store the Modlist Installation and Downloads directories, do not select a directory in Downloads, Program Files or on the Desktop - use something like C:\Games\Tuxborn instead.
+Enter the details for where you want to store the Modlist Installation and Downloads directories - do not select a directory in Downloads, Program Files or on the Desktop - use something like C:\Games\Tuxborn instead.
 
 Click the Cog icon in the top-right of Wabbajack, then 'login' next to the Nexus Mods button and enter your Nexusmods account details.
 
