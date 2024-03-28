@@ -23,7 +23,7 @@ gameplay changes, and a performance-focused selection of graphical enhancements 
 
 As we work through the development of Tuxborn, future versions will include Additional or Overhauled Quest Content, NPC/Character Enhancements, Extra Weapons and Armours, and more!
 
-Downloading a Wabbajack Modlist gives you everything you need - **you do not need to install ModOrganizer yourself, or copy mods to the Vanilla Skyrim directory, everything is already done for you!**
+Downloading a Wabbajack Modlist gives you everything you need - **you do not need to install ModOrganizer yourself, or copy mods to the Vanilla Skyrim directory, everything is already done for you!**. Use the ModOrganizer.exe file located in the Install Directory you select in Wabbajack to start and launch the modlist.
  
 
 The current Loadorder Library can be found here: [Tuxborn](https://loadorderlibrary.com/lists/tuxborn)
