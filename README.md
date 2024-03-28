@@ -23,9 +23,8 @@ gameplay changes, and a performance-focused selection of graphical enhancements 
 
 As we work through the development of Tuxborn, future versions will include Additional or Overhauled Quest Content, NPC/Character Enhancements, Extra Weapons and Armours, and more!
  
-The current Loadorder Library can be found here: 
 
-[Tuxborn LoadOrder Library](https://loadorderlibrary.com/lists/tuxborn)
+The current Loadorder Library can be found here: [Tuxborn](https://loadorderlibrary.com/lists/tuxborn)
 
 ### Performance
 
