@@ -46,6 +46,8 @@ For best results, you should consider fully uninstalling and reinstalling Skyrim
 
 It is strongly recommended that you have a Nexus Premium account, otherwise you will need to manually download each of the mods, when prompted by Wabbajack.
 
+For both the installation via Wabbajack and playing the modlist (either on Windows or on Steam Deck/Linux), you will need to have launched Vanilla Skyrim at least once, and have downloaded all the Anniversary Edition Creation Club content from within Skyrim.
+
 ### Wabbajack
 
 As it stands, the Wabbajack application must be Installed and run on a Windows system, it cannot be installed on Steam Deck/Linux directly.
