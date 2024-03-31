@@ -59,7 +59,7 @@ Download the .wabbajack file from the [Tuxborn Nexusmods Page](https://www.nexus
 
 Open Wabbajack, and click the “Install from Disk” option.
 
-<img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_FromDisk.png?raw=true" width="400">
+<img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_FromDisk.png" width="400">
 
 Browse to where you downloaded and extracted the Tuxborn.wabbajack file, select it, and click OK.
 
@@ -69,7 +69,7 @@ Click the Cog icon in the top-right of Wabbajack, then 'login' next to the Nexus
 
 Once ready, click the Play button in Wabbajack to begin the Wabbajack process.
 
-<img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_WJReady.png?raw=true" width="400">
+<img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_WJReady.png" width="400">
 
 Downloading any Wabbajack Modlist can take a while - how quickly it completes will depend on the speed of your internet connection and processing power of your PC.
 
@@ -83,6 +83,12 @@ After transferring the data to the Steam Deck, follow the few steps [here](https
 
 (Alternatively) If you prefer, you can manually configure the Modlist on Steam Deck/Linux by following the steps in the manual Tuxborn guide, [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Skyrim:-Tuxborn).
 
+### Optionally remove unneeded mods
+
+Due to TOS for some mods, and also to maintain the ability to modify this modlist to your liking, the following mods are included when you install it. However, if you are not planning to make any modifications, you can save some disk space (especially useful on the Deck!) by deleteing the following mods:
+
+<img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus-CanBeDeleted.png" width="400">
+
 ---
  
 # Starting the Game
@@ -91,14 +97,14 @@ After transferring the data to the Steam Deck, follow the few steps [here](https
 
 As detailed above, there are three MO2 Profiles to choose from. Select the profile you want to use in the top left of MO2.
 
-<img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_SelectProfile.png?raw=true" width="400">
+<img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_SelectProfile.png" width="400">
 
  
 ### Click Play!
 
 To start the Modlist, make sure “Tuxborn” is selected, and then click Play!
 
-<img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_ClickPlay.png?raw=true" width="400">
+<img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_ClickPlay.png" width="400">
 
 ⚠️ ❗ UNDER NO CIRCUMSTANCESPRESS THE “UNLOCK” BUTTON WHEN YOU HAVE LOADED SOMETHING THROUGH MOD-ORGANIZER.
 YOU WILL BREAK MANY MANY THINGS. DO NOT PRESS THE BUTTON! ⚠️ ❗
@@ -108,19 +114,19 @@ YOU WILL BREAK MANY MANY THINGS. DO NOT PRESS THE BUTTON! ⚠️ ❗
 
 After making your Character, PLEASE WAIT until there are no longer any notification messages show in the top-left of the screen.
 
-<img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_In-gameNotifications.png?raw=true" width="400">
+<img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_In-gameNotifications.png" width="400">
 
 Explore the room and read the note on the table before you leave by activating the button behind the table, or by talking to the dragon to select your alternate start.
 
 There are no MCM options that need to be altered before you start playing. If desired however, you can load the included SmoothCam Preset.
 
-<img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_SmoothCamPreset.png?raw=true" width="400">
+<img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_SmoothCamPreset.png" width="400">
 
 ### Updating the Modlist
 
 Before updating please backup your saves and CharGen presets, just in case. Repeat the same steps with Wabbajack from the Installation section, but make sure you toggle on the “Overwrite Existing Modlist” checkboxin the bottom right.
 
-<img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_WJOverwrite.png?raw=true﻿" width="400">
+<img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_WJOverwrite.png" width="400">
 
 
 Unless otherwise stated, generally Modlist version 0.0.X updates are save-safe, any others are not.
