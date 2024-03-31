@@ -4,7 +4,7 @@
 
 # Introduction
 
-### About Tuxborn
+### <ins>About Tuxborn</ins>
 
 Introducing **Tuxborn**, the first Wabbajack Modlist specifically designed from the ground up with the Steam Deck in mind, and inspired by the likes of Septimus, Redoran and Eldryn.
 
@@ -14,7 +14,7 @@ Tuxborn was created to fill a gap in the Wabbajack Modlist landscape – A Modli
 
 Tuxborn supports only the Anniversary Edition of Skyrim, updated to **v1.6.1170**. Anniversary Edition is **not optional**.
 
-### Features
+### <ins>Features</ins>
 
 Tuxborn balances enhanced visuals with smooth performance, ensuring an immersive experience optimized for the Steam Deck's screen and resolution. Our curated selection of mods seamlessly integrates high-quality content, all while maintaining our commitment to keeping frame rates smooth.
 
@@ -24,10 +24,24 @@ gameplay changes, and a performance-focused selection of graphical enhancements 
 As we work through the development of Tuxborn, future versions will include additional or overhauled Quest Content, NPC/Character Enhancements, Extra Weapons and Armours, and more!
 
 Downloading a Wabbajack Modlist gives you everything you need - **you do not need to install ModOrganizer yourself, or copy mods to the Vanilla Skyrim directory, everything is already done for you!**. Use the ModOrganizer.exe file located in the Install Directory you select in Wabbajack to start and launch the modlist.
- 
-The current Loadorder Library can be found here: [Tuxborn](https://loadorderlibrary.com/lists/tuxborn)
 
-### Performance
+A full list of mods included in the list can be found on the [Load Order Library](https://loadorderlibrary.com/lists/tuxborn) page, but as a brief overview:
+
+**Gameplay Changes (Simonrim):** 
+
+**Gameplay Changes (Enairim):** 
+
+**NPC Changes:** We have been careful to enhance the visuals for NPCs throughout the game world, without going for the "supermodels everywhere" look.
+
+**Miscellaneous changes:**
+
+Tuxborn includes the [Pronouns](https://www.nexusmods.com/skyrimspecialedition/mods/43816) mod, allowing you to select your preferred pronouns. As per the mod page details
+
+_Selecting they/them pronouns could prevent you from completing certain quests that don't provide gender-neutral dialogue alternatives. To combat this issue, I've developed the Pronouns Patcher, which allows They/Them players to default to fallback pronouns in those cases. Run the Pronouns Patcher via xEdit, then set your fallback pronouns in the MCM._
+
+We've done the xEdit bit for you, but you will still have to set your fallback pronoun via the MCM in-game.
+
+### <ins>Performance</ins>
 
 As noted, this Modlist is designed for the performance profile of the Steam Deck, but that doesn’t mean it’s limited to that device! It’s also a great, lightweight list for less powerful systems. There are three Profiles included that you can choose from depending on your performance desire, or system used (if not the Steam Deck):
  
@@ -47,7 +61,7 @@ It is strongly recommended that you have a Nexus Premium account, otherwise you 
 
 For both the installation via Wabbajack and playing the modlist (either on Windows or on Steam Deck/Linux), **you will need to have launched Vanilla Skyrim at least once, and have downloaded all the Anniversary Edition Creation Club content from within Skyrim.**
 
-### Wabbajack
+### <ins>Wabbajack</ins>
 
 As it stands, the Wabbajack application must be Installed and run on a Windows system, it cannot be installed on Steam Deck/Linux directly.
 
@@ -75,7 +89,7 @@ Downloading any Wabbajack Modlist can take a while - how quickly it completes wi
 
 If you are going to be playing on a Windows system, you can skip ahead to Starting the Game.
 
-### Steam Deck/Linux
+### <ins>Steam Deck/Linux</ins>
 
 Once the Wabbajack download and install process has completed successfully in Wabbajack, you will need to transfer the data to your Steam Deck or Linux system. There are a number of ways to do this – you can see a few options on the Omni-Guides Github here <To Insert link to transfer guide>.
 
@@ -93,14 +107,14 @@ Due to TOS for some mods, and also to maintain the ability to modify this modlis
  
 # Starting the Game
 
-### Profiles
+### <ins>Profiles</ins>
 
 As detailed above, there are three MO2 Profiles to choose from. Select the profile you want to use in the top left of MO2.
 
 <img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_SelectProfile.png" width="400">
 
  
-### Click Play!
+### <ins>Click Play!</ins>
 
 To start the Modlist, make sure “Tuxborn” is selected, and then click Play!
 
@@ -110,7 +124,7 @@ To start the Modlist, make sure “Tuxborn” is selected, and then click Play!
 YOU WILL BREAK MANY MANY THINGS. DO NOT PRESS THE BUTTON! ⚠️ ❗
 
  
-### In-Game
+### <ins>In-Game</ins>
 
 After making your Character, PLEASE WAIT until there are no longer any notification messages show in the top-left of the screen.
 
@@ -122,7 +136,7 @@ There are no MCM options that need to be altered before you start playing. If de
 
 <img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_SmoothCamPreset.png" width="400">
 
-### Updating the Modlist
+### <ins>Updating the Modlist</ins>
 
 Before updating please backup your saves and CharGen presets, just in case. Repeat the same steps with Wabbajack from the Installation section, but make sure you toggle on the “Overwrite Existing Modlist” checkboxin the bottom right.
 
