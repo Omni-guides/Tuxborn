@@ -159,7 +159,7 @@ Unless otherwise stated, generally Modlist version 0.0.X updates are save-safe, 
 
 # Conclusion and Thanks
 
-Omni and Ouroboros would like to thank the entire Wabbajack community for being so awesome, but with a special mention for Althro, Cacophony and Arnold, who have been a great help in us getting this far.
+Omni and Ouroboros would like to thank the entire Wabbajack community for being so awesome, but with a special mention for Althro, Cacophony, Arnold and Foamimi, who have been a great help in us getting this far.
 
 <p align="center">
 <img src="https://staticdelivery.nexusmods.com/mods/1704/images/114206/114206-1710857643-828352312.jpeg" width="400">
