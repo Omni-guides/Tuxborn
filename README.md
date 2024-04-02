@@ -142,6 +142,8 @@ After making your Character, PLEASE WAIT until there are no longer any notificat
 
 Explore the room and read the note on the table before you leave, either by activating the button behind the table or by talking to the dragon to select your alternate start.
 
+**PLEASE NOTE: There is currently a bug with the "I live in my own home" alternate start from Alternate Perspective, which may result in the game thinking you own a different Player Home than you chose, but with no way to get inside. It has been reported to the mod author.**
+
 There are no MCM options that **need** to be altered before you start playing. If desired however, you can load the included SmoothCam Preset.
 
 <img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/TuxbornNexus/TuxbornNexus_SmoothCamPreset.png" width="400">
