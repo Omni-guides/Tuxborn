@@ -13,7 +13,7 @@ The Modlist is currently in an early Alpha Stage, so support will be minimal at 
 
 Tuxborn was created to fill a gap in the Wabbajack Modlist landscape – A Modlist that specifically targets the performance profile of the Valve Steam Deck. While there are other Wabbajack Modlists that can be made to run on Steam Deck (a lot of our inspiration comes from the likes of Septimus, Redoran and Eldryn), most lists usually require some modification to get the performance or compatibility desired on the Steam Deck – With Tuxborn, the aim is to have that out of the box, with no additional modifications necessary.
 
-Tuxborn supports only the Anniversary Edition of Skyrim on Steam, updated to **v1.6.1170**. Anniversary Edition is **not optional**.
+Tuxborn supports only the Anniversary Edition of Skyrim on Steam, updated to **v1.6.1170**. You **must own Skyrim Anniversary Edition** to run Tuxborn.
 
 
 ### <ins>Features</ins>
