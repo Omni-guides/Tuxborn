@@ -2,6 +2,10 @@
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_Banner.png" width="800">
 </p>
 
+<div align="center">
+<a href="https://discord.gg/xRrHRsb5e9">Discord</a> | <a href="https://github.com/Omni-guides/Tuxborn/blob/main/Changelog.md">Changelog</a> | <a href="https://loadorderlibrary.com/lists/tuxborn">Mod List & Load Order</a> | <a href="https://www.nexusmods.com/skyrimspecialedition/mods/114206">Nexus</a>
+</div>
+
 # Introduction
 
 
@@ -9,7 +13,7 @@
 
 Introducing **Tuxborn**, the first Wabbajack Modlist specifically designed from the ground up with the Steam Deck in mind!
 
-The Modlist is currently in an early Alpha Stage, so support will be minimal at best during this time while we develop the Modlist. If you wish to chat about Tuxborn, or Wabbajack Modlists on Steam Deck/Linux in general, then drop by the #unofficial-linux-help channel of the Official Wabbajack Discord.
+The Modlist is currently in an early Alpha Stage, so support will be minimal at best during this time while we develop the Modlist. If you wish to chat about Tuxborn, join the [Aetherius Modding Discord](https://discord.gg/xRrHRsb5e9) and look for us in the #modlist-betas channel, or if you just want to chat about Wabbajack Modlists on Steam Deck/Linux in general, then drop by the #unofficial-linux-help channel of the [Official Wabbajack Discord](https://discord.gg/wabbajack).
 
 Tuxborn was created to fill a gap in the Wabbajack Modlist landscape – A Modlist that specifically targets the performance profile of the Valve Steam Deck. While there are other Wabbajack Modlists that can be made to run on Steam Deck (a lot of our inspiration comes from the likes of Septimus, Redoran and Eldryn), most lists usually require some modification to get the performance or compatibility desired on the Steam Deck – With Tuxborn, the aim is to have that out of the box, with no additional modifications necessary.
 
