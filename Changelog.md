@@ -1,5 +1,230 @@
 # Tuxborn Changelog
 
+# 0.3.0 - Enhancing Skyrim and Playing Dress Up
+
+Updated
+
+- Skyrim on Skooma
+- Vanilla hair remake
+- Glass Armors and Weapons 
+- DynDOLOD
+- Community Shaders
+- Wetness Effects
+- Embers XD
+- Photo Mode
+- Skyrim Scenery
+- Unofficial Skyrim Modders Patch
+- Volkiharbor
+- Crashlogger
+- Animeted Ice Floes
+- SSE Engine Fixes
+
+Removed
+
+- Alternate Perspective (responisable for some issues)
+- Size Matters and First Person Magic (replaced by CFPAO)
+
+Added
+
+- Artificer - Xavbio Textures Addon HalfRes
+- Artificer - Xavbio Textures - 3BA
+- Artificer - Xavbio Textures - HIMBO
+- DynDOLOD TexGen Fixes
+- Extended Cut - Saints and Seducers Paper Map for FWMF
+- Yet Another Music Merge - ECSS Patch
+- Saints and Seducers - Mysticism Rebalance
+- Necromantic Grimoire - Mysticism Rebalance
+- Necromantic Grimoire - Mysticism Rebalance
+- Bloodskal Blade - Tweaks and Enhancements
+- Nemesis Creature Behaviour Compatibility
+- Precision - Accurate Melee Collisions
+- Precision Creatures
+- Disable Follower Collision
+- Face Discoloration Fix
+- CFPAO
+- Optional Quick Start - SE
+- ImGui
+
+- Dawnguard Quests as Vampire
+- Finding Helgi and Laelette
+- Thieves Guild Requirements SE - Settings Loader
+- Thieves Guild Requirements SE
+- Carriage and Ferry Travel Overhaul - Fixes and Winterhold
+- Carriages and Stables Dialogue Bundle - CFTO
+- Carriage and Ferry Travel Overhaul (Formerly Complete Fast Travel Overhaul)
+- Knight of the North
+- RAE - Quest Requirements - ECSS Patch
+- Skyrim Extended Cut - Saints and Seducers - My optimized textures by Xtudo
+- Skyrim Extended Cut - Saints and Seducers
+- On a Crimson Trail
+- The Gift Of Saturalia
+- Simple Fishing Overhaul - Animations and Improved Quest Dialogue
+- Ghosts of the Tribunal - Reduced Cut
+- Tamrielic Distribution
+- The Cause - Rare Curios Patch
+- Forgotten Curios - A Creation Club Artifact Overhaul
+- Moonlight Tales Mini - Highly Compatible Werewolf and Werebear Addon
+- Dwemer Spectres - CC Armor Integration
+- Dwemer Spectres Special Edition
+- Mihail's CC Zombies Overhaul - Compatibility Tweak
+- Mihail's CC Zombies Overhaul (SE's Creation Club- AE)
+- Mihail's CC Goblins Overhaul - Compatibility Tweak
+- Mihail's CC Goblins Overhaul - My optimized textures SE by Xtudo
+- Mihail's CC Goblins Overhaul (SE's Creation Club- AE)
+- Mihail's Frost Giant Overhaul - Cleaned and Upscaled Textures
+- Frost Giant Overhaul- Mihail Monsters and Animals (SE-AE version) (''karstaag'')
+- mihailemperorpenguin - CCSurvival
+- Emperor Penguins- Mihail Monsters and Animals (SE-AE version) (''bird'')
+- Undead Snow Elves - My optimized textures SE-AE
+- Undead Snow Elves- Mihail Monsters and Animals (SE-AE version) (''falmer'')
+- Imps and Homonculus- Mihail Monsters and Animals (SE-AE version)
+- Scamps and Banekins- Mihail Monsters and Animals (SE-AE version) (''daedra'')
+- Wraiths - My patches SE-AE - 2K textures
+- Wraiths - My patches SE-AE
+- Wraiths SE
+- Ogres SE - Fixes by Xtudo
+- Ogres SE
+- Web Mothers Around Skyrim
+- EMPEROR - Giant Crab Overhaul
+- GRAHL - The Ice Troll (Bloodmoon Creature Restoration Project) SE
+- Udefrykte. Uderfrykte. Udyrfrykte. (Bloodmoon Creature Restoration Project)
+- Cannibal Draugr on Solstheim (Bloodmoon Creature Restoration Project)
+- King-Priest - Enhanced Dragon Priests
+- The Restless Dead SE - Cannibal Draugr
+- The Restless Dead - USSEP
+- The Restless Dead - Believable Weapons Patch
+- The Restless Dead SE Update v1.2.1
+- The Restless Dead (A Draugr and Skeleton Overhaul)
+- Madmen-ReducedPoison
+- Madmen - Patch FOMOD
+- Madmen - A Forsworn Overhaul
+- Lawless - Patch Hub
+- Lawless - A Bandit Overhaul
+- Hokoron - Enemy Overhaul
+- Dynamic Random Dragons
+- Infinite Dragon Variants
+- Dragon War - A Dragon Overhaul
+- Enemies_separator
+- Improved Follower Dialogue - Lydia
+- Serana Dialogue Edit - Skyrim Special Edition
+- CDB - More Dialogue Options Patch
+- Companions Dialogue Bundle - Dialogue Fix
+- Companions Dialogue Bundle
+- Dialogue Expansion - Imperial Soldiers
+- Dialogue Expansion - Windhelm
+- Dialogue Expansion - Shor's Stone
+- Dialogue Expansion - Indaryn-Ingun-Asgeir-Alessandra
+- Immersive Rejections
+- Guard Dialogue Overhaul SE
+- Carriages and Stables Dialogue Bundle - Wild Horses
+- Carriages and Stables Dialogue Bundle
+- Talkative Hagravens - 2023 Halloween Special (SE-AE version)
+- Brawl Lines Expansion and Fixes
+- Vampire Lines Expansion
+- Forsworn and Thalmor Lines Expansion
+- Civil War Lines Expansion
+- Bandit Lines Expansion
+- RDO - USSEP Patches Final
+- Relationship Dialogue Overhaul - RDO SE
+- Misc Dialogue Edits
+- More Dialogue Options
+- More to Say - Sissel's Book Quest
+- More to Say
+- Face Sculptor Expanded
+- Infiltration QE - Lawless (Bandit War) Patch
+- Infiltration - Quest Expansion
+- The Heart of Dibella - Quest Expansion
+- The Innocence Lost - Quest Expansion
+- College of Winterhold - Quest Expansion
+- The Whispering Door - Quest Expansion
+- Caught Red Handed - USSEP Patch
+- Caught Red Handed - Quest Expansion
+- Nilheim - Misc Quest Expansion
+- House of Horrors - Quest Expansion
+- The Only Cure - Quest Expansion
+- Paarthurnax - Quest Expansion
+- Dynamic Lowered Hoods
+- Dynamic Armor Variants
+- CBBE Practical Female CC Divine Crusader
+- Practical Female Divine Crusader Armor
+- CBBE Practical Female CC Civil War Champions
+- Practical Female Civil War Champions Armor
+- CBBE Practical Female CC Vigil Enforcer Armor
+- Practical Female Vigil Enforcer Armor
+- CBBE Practical Female CC Elven Hunter
+- Practical Female Elven Hunter Armor
+- CBBE Practical Female CC Iron Plate
+- Practical Female Iron Plate Armor
+- CBBE Practical Female CC Steel Soldier
+- Practical Female Steel Soldier Armor
+- CBBE Practical Female CC Ebony Plate
+- Practical Female Ebony Plate Armor
+- Practical Female Armor - Updated CBBE 3BA Bodyslide Files
+- Practical Female Armors
+- Creation Club Open Helmets
+- Artificer - Improved Closedfaced Helmets
+- Improved Closefaced Helmets Fixes
+- Improved closefaced helmets
+- Traveling Mage by Xtudo - Ancano - No Cape - SPID
+- Traveling mage Armor SPID
+- RMB SPIDified - Toughened Traveler
+- RMB SPIDified Common Clothes and Armors
+- RMB SPIDified - Core
+- SPID for Kvetchi Mercenary Set by Pulcharmsolis
+- Infiltrator Armor SPID
+- Vampire Armor Expansion - SPID
+- Creation Club Backpacks to NPCs - SPID
+- Civil War Champions Outfits for Officers (SPID)
+- Travelling Mage - HIMBO V5
+- Traveling Mage CBBE 3BA
+- Traveling Mage - My version SE-AE by Xtudo
+- Traveling Mage HDT-SMP Armor
+- Hornophobic-Vampire Clothing and Armor Expansion-3BA Conversion
+- Vampire Armor Expansion - Hotfix
+- Vampire Armor Expansion
+- East Empire Company Armor - HIMBO Refit
+- East Empire Company Armor
+- Toughened Traveler Outfit (3BA) with Alternate (CBBE Bodyslide)
+- Toughened Traveler Outfit - HIMBO Refit
+- Toughened Traveler Outfit
+- Lunar Guard Armor for HIMBO
+- Lunar Guard Armor 3BA Bodyslide
+- Lunar Guard Armor
+- Moon Monk's Robes HIMBO
+- Moon Monk 3BA Bodyslide
+- Moon Monk's Robes
+- Kvetchi Mercenary Armour 3BA with HDT-SMP Cloth Physics
+- Kvetchi Mercenary Set - HIMBO
+- Kvetchi Set - SE by Xtudo - 2K textures patch
+- Kvetchi Mercenary Set - My patches and tweaks SE by Xtudo
+- Kvetchi Mercenary Set
+- Elmlock Armor and Blade - ESP Update
+- Elmlock Armor and Blade (CBBE - HIMBO)
+- Illusive Infiltrator Armor
+- The Hinterland Ranger - HDT-SMP
+- Dwemer Armor SE - CBBE 3BA
+- Dwemer Armor SE - HIMBO Refit
+- Dwemer Armor - Ancient Dwemer Metal patch
+- Dwemer Armor SE - My patches and fixes by Xtudo
+- Dwemer Armor SE
+- Sons of Skyrim v2.0 - 3BA
+- Sons of Skyrim - HIMBO
+- Ancient Dwemer Metal - My patches - Sons of Skyrim
+- SOS V2.0 - SE by Xtudo - Smaller Shields
+- Sons of Skyrim v2.0 - My patches and fixes by Xtudo SE
+- Sons of Skyrim
+- Common Clothes and Armors - HIMBO conversion
+- Common Clothes and Armors -3BA- Bodyslide
+- Ancient Dwemer Metal - My patches - Common Clothes and Armors
+- Common Clothes and Armors
+- Immersive Armor HIMBO Conversion V2
+- Realistic Immersive Armors Retexture 3BA Bodyslide Files
+- Immersive Armors - Primitive Nord Armor Male Meshes Fix
+- Immersive Armors Retexture and Mesh Fixes SE
+- Ancient Dwemer Metal - My patches - Immersive Armors
+- Immersive Armors - Settings Loader
+- Immersive Armors
+
 # 0.2.0 - NPC and PC update
 
 New mods:
