@@ -72,7 +72,7 @@ For the actual modlist install, it is strongly recommended that you have a Nexus
 
 For both the installation via Wabbajack and playing the modlist (either on Windows or on Steam Deck/Linux), **you will need to have launched Vanilla Skyrim at least once, and have downloaded all the Anniversary Edition Creation Club content from within Skyrim.** Failure to do so may result in the modlist install failing, especially due to the mismatch of Curious naming versions.
 
-Downloads for Tuxborn are currently 52GB, and the resulting modlist install size on disk is 122GB, so **you will need at least a total of 174GB** free disk space on your Windows system to install Tuxborn. If you are transferring and playing on Steam Deck, you do not need the Downloads, only the Install directory, so you will need at least 122GB of free space on the Steam Deck or SD Card. This can be reduced slightly, detailed at the end of the Installation section of this page.
+Downloads for Tuxborn are currently 60GB, and the resulting modlist install size on disk is 112GB, so **you will need at least a total of 174GB** free disk space on your Windows system to install Tuxborn. If you are transferring and playing on Steam Deck, you do not need the Downloads, only the Install directory, so you will need at least 122GB of free space on the Steam Deck or SD Card. 
 
 ### <ins>Wabbajack</ins>
 
