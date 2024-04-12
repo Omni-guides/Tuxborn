@@ -112,13 +112,6 @@ After transferring the data to the Steam Deck, follow the few steps [here](https
 (Alternatively) If you prefer, you can manually configure the Modlist on Steam Deck/Linux by following the steps in the manual Tuxborn guide, [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Skyrim:-Tuxborn).
 
 
-### Optionally remove unneeded mods
-
-Due to TOS for some mods, and also to maintain the ability to further modify this modlist to your liking, the following mods are included when you install it via Wabbajack. However, if you are not planning to make any modifications, you can save some disk space (especially useful on the Deck!) by deleteing the following mods:
-
-<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn-CanBeDeleted.png" width="400">
-
-
 ---
 
  
