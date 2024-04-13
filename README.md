@@ -134,7 +134,9 @@ YOU WILL BREAK MANY MANY THINGS. DO NOT PRESS THE BUTTON! ⚠️ ❗
 
 ### <ins>In-Game</ins>
 
-Tuxborn makes use of the Optional Quick Start mod - this means that you can skip straight to the end of the cave exit from Helgen and create your character there, skipping the introduction. After making your Character, PLEASE WAIT until there are no longer any notification messages show in the top-left of the screen.
+Tuxborn makes use of the Optional Quick Start mod - this means that you can skip straight to the end of the cave exit from Helgen and create your character there, skipping the introduction. **IT IS STRONGLY RECOMMENDED THAT YOU DO NOT CHOOSE THE VANILLA START**, this can lead to the cart flipping all over the place and other exciting issues.
+
+After making your Character, PLEASE WAIT until there are no longer any notification messages show in the top-left of the screen.
 
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_In-gameNotifications.png" width="400">
 
