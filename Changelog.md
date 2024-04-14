@@ -1,5 +1,20 @@
 # Tuxborn Changelog
 
+# 0.3.1 - Small bug fix update
+
+Removed
+
+- EVG Conditionals extended (injured-stamina-magicka-nakedness)
+
+Added
+
+- aMidianBorn Book of Silence - Creatures
+- Mari's flora
+- No Stagger Mod
+- Sprint Sneak Movement Speed Fix
+- Complete Widescreen Fix 219 for Vanilla and SkyUI
+- Sprint Sneak Movement Speed Fix
+
 # 0.3.0 - Enhancing Skyrim and Playing Dress Up
 
 Updated
