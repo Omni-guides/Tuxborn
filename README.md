@@ -146,6 +146,49 @@ There are no MCM options that **need** to be altered before you start playing. I
 
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_SmoothCamPreset.png" width="400">
 
+### <ins>Important Quest/Level Requirements</ins>
+
+Beyond Reach - At level 25 in a large city in Skyrim
+VIGILANT - After level 25 and House of Horrors in the Windpeak Inn
+GLENMORIL - After level 25, Discerning the Transmundane, At the Summit of Apocrpyha and Act 4 of Vigilant at the maingate of Falkreath 
+UNSLAAD - After level 25, Dragonslayer, At the Summit of Apocrpyha and Act 4 of Vigilant by touching the doll in the High Hrothgar courtyard 
+Gray Cowl - After level 10, be the dragonborn and finish the thieves guild. Steal something to start.  
+Moonpath - Part of Lotd, will start when collected enough for the museum
+Moon and Star - After the Way of the Voice in any settlment in Skyrim
+AHO - Visit the Braidwood Inn and investigate a suspicious orc at Mixwater Mill 
+Helgen Reborn - At level 20 and after Bleak Falls in any Settlement in Skyrim
+Forgotten City - At level 25 in any settlment in Skyrim
+Undeath - At level 30 with Enchanting 50 and Conjuration 75 look for a note in the Silver-Blood Inn
+The Wheel of Time - Other side of the river of the Riverwood mill
+
+If the follower/quest isn't listed above, please can check the orginal mods page for how to start.
+
+
+---
+
+
+# Reporting a bug or issue
+To file a bug report, you must have NO **ADDITIONAL MODS OR HAVE MADE ANY CHANGES TO THE MODLIST**. Always include which profile you are running (Deck, Deck CS or Desktop)
+
+CTD/freezing - Please include the following information:
+- Is it repeatable or not?
+- What where you doing at the time, where are you, with whom?
+- Which proton version have you selected (If running on Steam Deck/Linux)?
+- Always include the crashlog in Documents\My Games\Skyrim Special Edition\SKSE or /home/user/.local/share/Steam/steamapps/compatdata/$APPID/pfx/drive_c/users/steamuser/My Documents/My Games/Skyrim Special Edition/SKSE/crash-$DATE.log if on Deck/Linux. Protontricks will tell you the $APPID.
+- Where possible, include your nearest save game. This can be found in Tuxborn/Profiles/[Profile Name]/Saves
+
+World conflict/Weirdness
+- Please Include at least one screen shot.
+- Is it just ugly or does it get in the way/break something?
+- Make a new save and include it the report. Save games can be found in Tuxborn/Profiles/[Profile Name]/Saves
+
+Broken Quests
+- Does reload a earlier save and redoing it fix the issue?
+- Make sure it's broken and that you are not just missing something.
+- What were you doing at the time, where are you, with whom?
+- Did you do anything weird before hand or use setstage in the console?
+- Make a new save and include it the report + plus your most recent save before that. Save games can be found in Tuxborn/Profiles/[Profile Name]/Saves
+
 
 ### <ins>Updating the Modlist</ins>
 
