@@ -6,8 +6,6 @@
 <a href="https://discord.gg/xRrHRsb5e9">Discord</a> | <a href="https://github.com/Omni-guides/Tuxborn/blob/main/Changelog.md">Changelog</a> | <a href="https://loadorderlibrary.com/lists/tuxborn">Mod List & Load Order</a> | <a href="https://www.nexusmods.com/skyrimspecialedition/mods/114206">Nexus</a>
 </div>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ouruboros)
-
 # Introduction
 
 
@@ -20,6 +18,8 @@ The Modlist is currently in an early Alpha Stage, so support will be minimal at 
 Tuxborn was created to fill a gap in the Wabbajack Modlist landscape – A Modlist that specifically targets the performance profile of the Valve Steam Deck. While there are other Wabbajack Modlists that can be made to run on Steam Deck (a lot of our inspiration comes from the likes of Septimus, Redoran and Eldryn), most lists usually require some modification to get the performance or compatibility desired on the Steam Deck – With Tuxborn, the aim is to have that out of the box, with no additional modifications necessary.
 
 Tuxborn supports only the Anniversary Edition of Skyrim on Steam, updated to **v1.6.1170**. You **must own Skyrim Anniversary Edition** to run Tuxborn.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ouruboros)
 
 
 ### <ins>Features</ins>
