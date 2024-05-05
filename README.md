@@ -6,6 +6,8 @@
 <a href="https://discord.gg/xRrHRsb5e9">Discord</a> | <a href="https://github.com/Omni-guides/Tuxborn/blob/main/Changelog.md">Changelog</a> | <a href="https://loadorderlibrary.com/lists/tuxborn">Mod List & Load Order</a> | <a href="https://www.nexusmods.com/skyrimspecialedition/mods/114206">Nexus</a>
 </div>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ouruboros)
+
 # Introduction
 
 
@@ -72,7 +74,7 @@ For the actual modlist install, it is strongly recommended that you have a Nexus
 
 For both the installation via Wabbajack and playing the modlist (either on Windows or on Steam Deck/Linux), **you will need to have launched Vanilla Skyrim at least once, and have downloaded all the Anniversary Edition Creation Club content from within Skyrim.** Failure to do so may result in the modlist install failing, especially due to the mismatch of Curious naming versions.
 
-Downloads for Tuxborn are currently 60GB, and the resulting modlist install size on disk is 112GB, so **you will need at least a total of 172GB** free disk space on your Windows system to install Tuxborn. If you are transferring and playing on Steam Deck, you do not need the Downloads, only the Install directory, so you will need at least 112GB of free space on the Steam Deck or SD Card. 
+Downloads for Tuxborn are currently ~90GB, and the resulting modlist install size on disk is ~160GB, so **you will need at least a total of 250GB** free disk space on your Windows system to download and install Tuxborn. If you are transferring and playing on Steam Deck, you do not need the Downloads directory, only the Install directory, so you will need at least 160GB of free space on the Steam Deck or SD Card. 
 
 ### <ins>Wabbajack</ins>
 
@@ -205,6 +207,8 @@ Unless otherwise stated, generally Modlist version 0.0.X updates are save-safe, 
 # Conclusion and Thanks
 
 Omni and Ouroboros would like to thank the entire Wabbajack community for being so awesome, but with a special mention for Althro, Cacophony, Arnold, Foamimi, colinswrath and Diana TES GotH, who have been a great help in us getting this far.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ouruboros)
 
 <p align="center">
 <img src="https://staticdelivery.nexusmods.com/mods/1704/images/114206/114206-1710857643-828352312.jpeg" width="400">
