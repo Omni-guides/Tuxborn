@@ -1,5 +1,435 @@
 # Tuxborn Changelog
 
+# 0.4.0 - Legacy of the Tuxborn
+
+Updated
+
+- Starfrost
+- Vanilla hair remake
+- Subsurface Scattering
+- Blade and Blunt
+- aljo's Artificer Patches
+- Gourmet
+- Gourmet Patches
+- Mysticism
+- Nether Follower Framework
+- Improved Follower Dialogue - Lydia
+- CBBE
+- Description Framework
+- DynDOLOD DLL SE - Scripts
+- Landscape Fixes For Grass Mods
+- Inventory Interface Information Injector
+- CoMAP - Common Marker Addon Project
+- Constructible Object Custom Keyword System
+- Custom Skills Framework
+- Stormcrown - A Shout Overhaul
+
+Removed
+
+- Cleaned Skyrim SE Textures
+- Anniversary Textures Upscaled - Complete Creation Club
+- Yet Another Music Merge (replace with One More Music Merge)
+- Trua - Minimalistic Faiths of Skyrim (replace with Wintersun)
+- Optional Quick Start - SE (replace with Alternate Start - Live Another Life)
+- King-Priest - Enhanced Dragon Priests (replace with Konahrik's Accoutrements)
+- Mihail's CC Goblins Overhaul (SE's Creation Club- AE) (consitensie)
+- Mihail's CC Zombies Overhaul (SE's Creation Club- AE) (consitensie)
+- Flame/Frost VFX Edit (performance)
+- Map Markers Complete with DLC and OCS (compatiblty)
+- Dragon War (was causing issues)
+
+Added
+
+- No Grass In Objects
+- Alternate Start - Live Another Life
+- Axarien's Animations - Inigo
+- Axarien's Animations - Lucien
+- Axarien's Animations - The Companions - Vilkas Farkas Aela
+- Axarien's Animations - Teldryn Sero
+- Axarien's Animations - The Nightingales - Karliah Brynjolf
+- Axarien's Animations - Auri
+- EVG Animated Traversal
+- EVGAT - Dynamic Climb-able Ladder Doors
+- EVG Animated Traversal Skyrim Integration Patch
+- EVG Animated Traversal - Patch Collection
+- EVG Traversal Animations - Dungeons addons
+- Wintersun - Faiths of Skyrim
+- Wintersun Skillrate Alternative
+- Wintersun - Tweaks and Enhancements
+- Wintersun - Ghosts of the Tribunal
+- Wintersun - Gallows Hall
+- Teldryn Serious - A Teldryn Sero Backstory Quest SSE
+- Konahrik's Accoutrements
+- Voiced Narrative - Ghosts of the Tribunal (Creation Club)
+- Voiced Narrative - Redguard Elite Armaments (Creation Club)
+- CC Farming - Tweaks Enhancements and Quest Expansion
+- Unfaltered Virtue - A Penitus Oculatus Story
+- Unmarked Locations Pack - All In One
+- Unmarked Locations Pack All In One - Patch Hub
+- ULP AIO - Sheogorath Statue Addon
+- ULP AIO - Hircine Statue Addon
+- ULP AIO - Descriptions Addon
+- Half-Moon Mill - Cities of the North Addon
+- Half-Moon Mill - Cities of the North Addon Patch Collection
+- Anga's Mill - Cities of the North Addon
+- Anga's Mill - Cities of the North Addon Patch Collection
+- Unique Eastmarch Bridges
+- Unique Wooden Bridges - Base Object Swapper
+- Spaghetti's Faction Halls - College of Winterhold
+- Spaghetti's Castle Dour - Undeath Patch
+- Spaghetti's Faction Halls - Castle Dour
+- Spaghetti's Faction Halls - High Hrothgar
+- Spaghetti's Faction Halls - Dark Brotherhood
+- Spaghetti's Faction Halls - Companions
+- Spaghetti's Faction Halls - Hall of the Vigilant
+- Spaghetti's Faction Halls - Fort Dawnguard
+- Spaghetti's Castle Volkihar LOTD Patch
+- Spaghetti's Castle Volkihar Shrine Patch
+- Spaghetti's Faction Halls - Castle Volkihar
+- Spaghetti's Bards College - Undeath Patch
+- Spaghetti's Faction Halls - Bard's College
+- JK's Understone Keep Lite
+- JK's Understone Keep
+- JK's Temple of the Divines Lite
+- JK's Temple of the Divines
+- JK's Sky Haven Temple Lite
+- JK's Sky Haven Temple
+- JK's Sinderion's Field Laboratory Lite
+- JK's Sinderion's Field Laboratory
+- JK's Septimus Signus's Outpost Lite
+- JK's Septimus Signus's Outpost
+- JK's Palace of the Kings Lite
+- JK's Palace of the Kings
+- JK's Mistveil Keep Lite
+- JK's Mistveil Keep
+- JK's Dragonsreach Lite
+- JK's Dragonsreach
+- JK's Blue Palace Lite
+- JK's Blue Palace
+- JK's Interiors Patch Collection
+- Distinct Interiors
+- Mara - My patches SE by Xtudo - Distinct Interiors
+- Distinct Interiors - FPS Fix - COTN Patch
+- Distinct Interiors - FPS Fix
+- Distinct Interiors Patch Collection
+- Environs - Master Plugin
+- Environs - Whiterun Watchtower Doesn't Stay Broken
+- Environs - The Ruined Tundra Farmhouse - Patch Collection
+- Environs - The Ruined Tundra Farmhouse
+- Environs - The Greenwood Shack
+- Environs - Riften Warehouse - Patch Collection
+- Environs - Riften Warehouse
+- Environs - Kolskeggr
+- Environs - Hroggar's House
+- Environs - Abandoned Abodes - Patch Collection
+- Environs - Abandoned Abodes
+- Ryn's Standing Stones
+- Ryn's Standing Stones Patch Collection
+- Ryn's Saarthal
+- Ryn's Robber's Gorge
+- Unique Northern Vanilla Farmhouses - Snowy BOS
+- Unique Northern Vanilla Farmhouses - Non Snowy Regions
+- Unique Towns - Base Object Swapper
+- Spaghetti's Cities - AIO
+- Mrf's Solitude
+- Walls of Whiterun
+- Unique Markarth Doors - Security Overhaul SKSE - Base Object Swapper
+- Spaghetti's Towns - AIO
+- Simplicity of Settlements - Dragon Bridge
+- Rorikstead Basalt Cliffs
+- Spaghetti's Orc Strongholds - AIO
+- Spaghetti's Solstheim - AIO
+- Legacy of the Dragonborn
+- Restless Dead - Legacy of the Dragonborn
+- Madmen - DBM - Patch
+- Artificer - LOTD and AOS
+- LotD - Artificer Patch
+- LotD - Thaumaturgy Patch
+- LotD - Mysticism Patch
+- Mara - My patches SE by Xtudo - LOTD
+- Legacy of the Dragonborn SSE - The Curators Companion
+- TrueHUD - HUD Additions - Legacy of the Dragonborn SSE Boss Ini Tweaks
+- Legacy of The Dragonborn Perk Menus
+- Legacy of the Dragonborn CBBE 3BA and HIMBO Patch
+- Legacy of the Dragonborn - Creation Club Patch Hub
+- Legacy of the Dragonborn Patches (Official)
+- Krovaxis - Wintersun Patch
+- Krovaxis
+- Waking Nightmare - Wintersun Patch
+- Waking Nightmare
+- Identity Crisis - Wintersun Patch
+- Identity Crisis - Bruma Patch
+- Identity Crisis
+- EasierRider's Dungeon Pack - Unique rewards SE
+- EasierRider's Dungeon Pack
+- The Midden Expanded - True HUD Patch
+- The Midden - Expanded - Fixes
+- The Midden - Expanded
+- Skyrim Sewers Undeath Patch
+- Skyrim Sewers 4 and Saints and Seducers Patch
+- VIGILANT - Skyrim Sewers Patch
+- Skyrim Sewers Weapon Replacement
+- Skyrim Sewers - Radiant Quests Enabled
+- Skyrim Sewers 4
+- Heart of the Reach - New Quest - Dungeon - Weapons - 3 Creature Variants - Ring - Spell
+- Depths of the Reach
+- Siege at Icemoth - Fishing and Survival patch (ESL Flagged)
+- Siege at Icemoth
+- Darkend nerf and balance patch SSE - Updated
+- Darkend - Walls hotfix
+- Darkend - FaceGenData
+- Darkend
+- The Grand Paladin - 2021 (Remake)
+- Nessa SE
+- Eris Tavern Animation Lite (Light and Shade - ezPG)
+- Light and Shade SE
+- Interesting NPCs (3DNPC) Script Fixes
+- Project AHO - 3DNPC Patch
+- 3DNPC - Vigilant Patch
+- 3DNPC - Moon and Star Patch
+- Interesting NPCs (3DNPC) - Patches
+- Interesting NPCs - 4.5 to 4.54 Update
+- Interesting NPCs SE (3DNPC)
+- There Is No (CC) Umbra
+- There Is No Umbra - Chapter III
+- The Wheel of Time - Aviendha - NOT IN MY BRIDGE
+- The Wheel of Time - Fully Voiced Follower and Quests
+- Xelzaz - Apothecary Patch
+- Xelzaz Sirenroot Patch
+- Xelzaz Follower Wyrmstooth Patch
+- Xelzaz Anniversary Edition Plugin
+- Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+- Lively's Dwemer Gates No Respawn Patches
+- Improved Follower Dialogue - Lydia - INIGO (Minor Patch)
+- Inigo - Bloodchill Manor patch
+- INIGO
+- Lucien - Room Markers for Dumzbthar
+- Improved Follower Dialogue - Lydia and Lucien (Minor Patch)
+- Lucien - Moonpath to Elsweyr Patch
+- Lucien - Moon and Star Patch
+- Lucien - Beyond Skyrim - Bruma Patch
+- Lucien - Anniversary Edition - All-In-One Creation Club Patch
+- Lucien - Immersive Fully Voiced Male Follower
+- Song of the Green Auri's fancy pod - Optimized
+- Song of the Green Auri's fancy pod
+- Auri - Wintersun Patch
+- Gourmet - Auri
+- Thistlefoot Is Totally Stable (Actual Auri Mount Fix)
+- Song of the Green (Auri Follower) - Enhanced Voice Remastered
+- Auri - 3DNPCs banter patch
+- Auri - VIGILANT commentary Patch
+- Auri - Inigo Banter patch
+- Auri - Follower Framework Patch
+- Song of the Green (Auri Follower)
+- Remiel's Crossbow Replacer
+- Remiel - Default Outfit BodySlides - CBBE 3BA - BHUNP
+- Remiel-Custom Voiced Follower
+- Gore - Romance Dialogue Expansion
+- Gore x Vigilant
+- Gore - Saints and Seducers Extended Cut
+- Gore - Paarthurnax Quest Expansion Patch
+- Gore - A Companion Mod
+- Meridia's Order - Vigilant Synergy Patch
+- Meridia's Order
+- Moon and Star - Undeath Remastered Compatibility Patch
+- PTP - Wintersun Patch
+- Prelude to Purgatory - A Lich Custom Skill Tree
+- UCL - The Cause Ayleid Lich Model Patch
+- Undeath - Classical Lichdom
+- Undeath Remastered
+- Grass Patch for Moon and Star
+- Clockwork Plus Moon and Star Synergy Patch
+- Wintersun - Moon and Star Patch
+- Moon and Star - Creation Club Consistency and Immersion Tweaks
+- Moon and Star (MAS) Landscapes Fixes
+- Moon and Star (MAS) Books Fix
+- Moon and Star - Cleaned Plugin Replacer
+- Moon and Star
+- Warden of the Coast - 3BA- HIMBO Patch
+- Warden of the Coast - The Cause CC - Consistency Patch
+- Warden of the Coast
+- The Forgotten City - Delayed Start
+- Dwemer Armor - My patches and fixes by Xtudo SE - The Forgotten City Immaculate Armor replacer
+- The Forgotten City Entrance
+- Gourmet ForgottenCity patch
+- Forgotten City - Softlock Protection
+- Forgotten City Music Fixer
+- The Forgotten City
+- CFTO Carriage for Helgen Reborn
+- Landscape Fixes For Grass Mods - Helgen Reborn
+- Helgen Reborn with Level and Quest Requirement
+- Daedric Shrines - All in One - My Patches by Xtudo - Helgen Reborn patch
+- Helgen Reborn
+- Ghosts of the Tribunal - Project Aho Integration
+- Patch for Project AHO and Apothecary - An Alchemy Overhaul
+- Project AHO - Start when You want
+- Project AHO - Spell Crafting for Mysticism
+- Project AHO - Security Overhaul Skyrim
+- AHO - Table Mesh Fix
+- Unofficial Project AHO - Bugfix and Improvement Patch
+- Project AHO ESM Flag Edition
+- Project AHO
+- Clockwork - Silent Shadow Siren
+- Clockwork Shadow Redone
+- Clockwork Cleaned Textures
+- Clockwork (SSE)
+- The Wheels of Lull CBBE 3BA and HIMBO Patch
+- The Wheels of Lull SE
+- Carved Brink and Bruma Synergy
+- Carved Brink Generic Assets Replacer (Stranger Mask and Corrupted Shade) ESL
+- Unofficial Carved Brink Patch
+- Carved Brink ESM Flag Edition
+- Carved Brink
+- The Tools of Kagrenac - EVG Animated Traversal
+- The Tools of Kagrenac
+- SIRENROOT - Deluge of Deceit
+- The Lost Wonders of Mzark-Boats Addon
+- The Lost Wonders of Mzark
+- Fortune's Tradehouse
+- G.R.I.M - Fixed .esp for LOD generation
+- G.R.I.M
+- Belethor's Sister - Quest
+- More to do in the Soul Cairn (Grief) - CC Armor Integration
+- More to do in the Soul Cairn
+- TrueHUD - HUD Additions - Moonpath to Elsweyr SSE Boss Ini Tweaks
+- Gourmet - Moonpath patch
+- Moonpath to Elsweyr SSE - Music - Weather and Other Fixes
+- Unofficial Moonpath to Elsweyr Patch
+- Moonpath To Elsweyr Retexture SE
+- Moonpath to Elsweyr SSE
+- Gourmet - MidwoodIsle patch
+- Midwood Isle - Wyrmstooth Spell Consistency Patch
+- Midwood Isle - Beyond Skyrim Bruma patch fix
+- Midwood Isle Patches
+- Midwood Isle
+- Madmen - Wyrmstooth
+- Wyrmstooth CBBE 3BA and HIMBO Patch
+- Wyrmstooth Uses The Cause Style Oblivion Gate
+- Wyrmstooth - The Cause Ingredients Patch
+- Wyrmstooth - Rare Curios Ingredients Patch
+- Wyrmstooth
+- Landscape Fixes For Grass Mods - Falskaar
+- Falskaar - Survival Mode Warmth Fix
+- Comprehensive Falskaar Fixes
+- Falskaar - Addons and Patches
+- Falskaar
+- TrueHUD - HUD Additions - Gray Cowl of Nocturnal Boss Ini Tweaks
+- The Gray Cowl of Nocturnal - Music Overhaul
+- A Guiding Light - Gray Cowl of Nocturnal Patch
+- Gray Cowl Alt Start
+- The Remnants of Hammerfell - The Gray Cowl of Nocturnal
+- Betalille's Hammerfell Quests Bundle - The Gray Cowl of Nocturnal
+- GCON - Landscape Fixes
+- The Gray Cowl of Nocturnal SE - Addons and Patches
+- The Gray Cowl of Nocturnal SE - Retexture
+- GCON Flora Overhaul Fixes
+- Gray Cowl of Nocturnal Alikr Flora Overhaul SE
+- The Gray Cowl of Nocturnal SE
+- Unslaad 3.0.2
+- Glenmoril Unslaad and the unvoiced parts of Vigilant xVASynth Voiced
+- TrueHUD - Unslaad Boss Bars ini
+- Customized Object Lod For Unslaad SE
+- Unslaad Weapons and Armors Retexture SE
+- UNSLAAD - Dragonslayer Armor Mesh Edit
+- Unslaad - Delayed Start
+- UNSLAAD Voiced - English Addon
+- Unslaad SE
+- Glenmoril Boss TDM patch
+- GLENMORIL CBBE 3BA Patch
+- Custom Skills - GLENMORIL - English Translation
+- Custom Skills - GLENMORIL
+- Glenmoril - Ritho Giant Animation
+- Glenmoril - Delayed Start
+- GLENMORIL - English Translation
+- GLENMORIL SE
+- TrueHUD - Vigilant Boss Bars ini
+- VIGILANT - By Xtudo SE - Coldharbour Music
+- (DAR)More Ritho-ish Giant Animations SE
+- Vigilant Armors and Weapons Retexture SE
+- Vigilant CBBE (3BA) Bodyslide
+- Vigilant Armor HIMBO Refit
+- Vigilant - Rare Curios - Apothecary
+- Vigilant - Rare Curios Consistency
+- Vigilant - Delayed Start
+- Gourmet - Vigilant
+- Mara - My patches SE by Xtudo - VIGILANT
+- Daedric Shrines - All in One - My Patches by Xtudo - VIGILANT patch
+- Vigilant - Wintersun Patch
+- Vigilant - Fleshblade Sound Tweak
+- Vigilant - Armor Rebalance
+- Custom Skills - VIGILANT - English Translation
+- Custom Skills - VIGILANT
+- VIGILANT Voiced - English Addon
+- VIGILANT
+- Beyond Reach - Temper Recipes
+- Beyond Reach - Shields and Cloaks
+- Beyond Reach - Tweaks and Enhancements
+- Beyond Reach CBBE 3BA and HIMBO Patch
+- Arnima - Armor Fixes 2
+- Arnima - Dragonstar Armor Fix-67765-1-0-1683624908
+- Arnima - Dunlain Falls Building Fix
+- Arnima - Female Witchman Armor Fix
+- Arnima - Infant Ogre Fix
+- Arnima - Kredans Forsworn Textures
+- Arnima - Last King temp fix
+- Arnima - Nord Reach Fix
+- Arnima - NPC and Seeker Fix
+- Arnima - Shaman Mesh Fix
+- Arnima - Stroti Mill texture fix
+- Arnima - Troll Hotfix
+- Arnima - Wool Plate Armor Fixes
+- Beyond Reach - Dialogue Conditions Fix
+- Beyond Reach
+- Lawless Bruma - A Bandit Overhaul for Beyond Skyrim Bruma
+- Goblins Patch Consistency Patch
+- Goblins - BS Bruma Patch
+- Rare Curios - BS Bruma Synergy Patch
+- Plague of the Dead - BS Bruma Synergy Patch
+- The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined
+- Bruma - Survival Mode Fixes
+- Bruma - CBBE 3BBB Conversion with Uniboob
+- CBBE Armour and Clothing Conversions for Beyond Skyrim - Bruma - Nibenese Mage Robes Patch
+- CBBE Armour and Clothing Conversions for Beyond Skyrim - Bruma
+- Beyond Skyrim - Bruma - HIMBO Refit
+- Imperial City LOD fix for custom lods (Beyond skyrim Bruma)
+- Assorted Bruma Mesh Fixes
+- Beyond Skyrim - Bruma - Unofficial Patch
+- Beyond Skyrim - DLC Integration Patch
+- Beyond Skyrim - Bruma
+- Beyond Skyrim - Assets
+- Remiel replacer by Araviss
+- Eris - Chooey's Choice
+- Nessa - Chooey's Choice
+- Project ja-Kha'jay- Interesting NPCs Khajiit Addon
+- Project ja-Kha'jay- Moonpath to Elsweyr Khajiit Overhaul
+- Project ja-Kha'jay
+- High-Poly Inigo Replacer
+- Lucien Replacer 2 - HIMBO
+- Lucien Replacer 2
+- Foamimi's Orlando Visual Overhaul - GLENMORIL
+- Foamimi's Orlando Visual Overhaul - UNSLAAD
+- Foamimi's Orlando Visual Overhaul - VIGILANT
+- Foamimi's Glenmoril NPC Visual Overhaul
+- Warden of the Coast - NPC Overhaul
+- Tragedian's Interesting NPCs - 3DNPC Followers Reimagined
+- LotD Visual Overhaul - updated esp
+- Legacy of the Dragonborn Visual Overhaul
+- The Wheel of Time - NPC Overhaul
+- VIGILANT - NPC Overhaul
+- Resplendent Royals - Jarl's Court NPC Overhaul
+- Children of the Hist - An Argonian NPC Overhaul
+- Markarth Side Refine (NPC Appearance Overhaul - Standalone - Muiri - Eola)
+- Modpocalypse NPCs - Wyrmstooth
+- Modpocalypse NPCs - The Gray Cowl of Nocturnal
+- Modpocalypse NPCs - The Forgotten City
+- Modpocalypse NPCs - Project AHO
+- Modpocalypse NPCs - Moonpath to Elsweyr
+- Modpocalypse NPCs - Moon and Star
+- Modpocalypse NPCs - Falskaar
+- Modpocalypse NPCs - Helgen Reborn
+- Modpocalypse NPCs - Carved Brink
+- Modpocalypse NPCs - Beyond Reach
+
 # 0.3.1 - Small bug fix update
 
 Removed
