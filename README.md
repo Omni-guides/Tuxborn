@@ -102,7 +102,7 @@ Once ready, click the Play button in Wabbajack to begin the Wabbajack process.
 
 Downloading any Wabbajack Modlist can take a while - how quickly it completes will depend on the speed of your internet connection and processing power of your PC.
 
-If you are going to be playing on a Windows system, you can skip ahead to [Starting the Game](https://github.com/Omni-guides/Tuxborn/edit/main/README.md#starting-the-game).
+If you are going to be playing on a Windows system, you can skip ahead to [Starting the Game](https://github.com/Omni-guides/Tuxborn#starting-the-game).
 
 
 ### <ins>Steam Deck/Linux</ins>
