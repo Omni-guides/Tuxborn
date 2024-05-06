@@ -192,6 +192,9 @@ Broken Quests
 - Make a new save and include it the report + plus your most recent save before that. Save games can be found in Tuxborn/Profiles/[Profile Name]/Saves
 
 
+Please note that Pull Requests to this github for small issues may have the suggested change applied without performing a merge. Please create an Issue describing the correction instead.
+
+
 ### <ins>Updating the Modlist</ins>
 
 Before updating please backup your saves and CharGen presets, just in case. Repeat the same steps with Wabbajack from the Installation section, but make sure you toggle on the “Overwrite Existing Modlist” checkboxin the bottom right.
