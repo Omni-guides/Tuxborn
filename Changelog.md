@@ -1,5 +1,15 @@
 # Tuxborn Changelog
 
+# 0.4.1 - Small bug fix update
+
+Added
+
+- Interesting NPCs - Fjona's Familiar Alternate Location
+- SPID - NFF - Add Ignore Token to CustomAI Followers
+- NFF - Hidden Ignore Tokens in Inventory for Custom AI Followers and Automatic SPID Distribution
+- Stroti Logcabin - Custom Roof and Stroti Small House - Custom Roof
+- Beyond Reach - Improved Meshes
+
 # 0.4.0 - Legacy of the Tuxborn
 
 Updated
