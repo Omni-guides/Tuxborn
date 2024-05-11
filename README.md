@@ -58,9 +58,9 @@ We've done the xEdit bit for you, but you will still have to set your fallback p
 
 As noted above, this Modlist is designed for the performance profile of the Steam Deck, but that doesn’t mean it’s limited to that device! It’s also a great, lightweight list for less powerful systems. There are three Profiles included that you can choose from depending on your performance desire, or system used (if not the Steam Deck):
  
-Tuxborn – Deck: This profile aims for a locked 40FPS experience on the Steam Deck.
-Tuxborn - Deck CS: This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.
-Tuxborn – Desktop: This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and uses Azurite Weather instead of Cathedral Weather. Performance of this profile will depend on your system specs.
+* Tuxborn – Deck: This profile aims for a locked 40FPS experience on the Steam Deck.
+* Tuxborn - Deck CS: This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.
+* Tuxborn – Desktop: This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and uses Azurite Weather instead of Cathedral Weather. Performance of this profile will depend on your system specs.
 
 Please Note: Due to the need for shader cache building on the Steam Deck, there may be a noticeable stutter in the first 1-2 hours while the cache builds. It should be good after that.
 
