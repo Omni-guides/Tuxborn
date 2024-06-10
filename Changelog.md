@@ -1,5 +1,283 @@
 # Tuxborn Changelog
 
+# 0.5.0 - WIP Changelog
+
+Added
+
+- Universal (SKSE) Rim Lighting Fix
+- Quest Journal Limit Bug Fixer - Recover Disappeared Quests
+- Persistent Favorites
+- No Furniture Camera
+- CoMAP - Config Additions
+- Unofficial COMAP Patch INI Hub
+- No Compass In Dialogue
+- Modern Wait Menu
+- Quill - Realistic Font Replacer - REVISED
+- HD Local Map
+- First Person Animation Teleport Bug Fix
+- BFCO-MCO Pickaxe moveset
+- ZAP - ADXPMCO Sword 1h
+- Northern Ravager Moveset - Battleaxe or Warhammer
+- Leviathan Animations II - Greatsword MCO Moveset
+- Vanargand Animations II - Unarmed MCO Moveset
+- Vanargand Animations - Mace Moveset MCO - SkySA
+- Vanargand Animations - Sword Dual Wield Moveset MCO - SkySA
+- Elder Creed - Valhalla Axe Moveset AIO
+- Elder Creed - Odyssey Dual Wield Dagger Moveset
+- Nordic Combat Animations for Player
+- Eskyrim I Aggressive greatsword moveset for SKILLED NPCs (MCO I SCAR)
+- Eskyrim I Fancy sword moveset for SKILLED NPCs (MCO I SCAR)
+- Ebony Warrior - Ultimate Moveset Overhaul (MCO I SCAR)
+- Vampire Claws I Unarmed moveset for vampires (MCO I SCAR)
+- Elden RIM I Unarmed claws moveset for beast races (MCO I SCAR)
+- Vanargand Animations II - Unarmed MCO Moveset NPC
+- Valkyrie I Sword and Shield moveset for NPCs (MCO I SCAR)
+- Centurion I Sword moveset for NPCs (MCO I SCAR)
+- Warden I Greatsword moveset for NPCs (MCO I SCAR)
+- Gryphon I Battleaxe moveset for NPCs (MCO I SCAR)
+- The New Stormcloaks (DAR MCO)
+- BFCO - elden rim moveset collection (SCAR)
+- Edgemaster Animations For MCO
+- ADXP l MCO Imperium Animation Complete Pack
+- ADXP l MCO Desert Race Animation Complete Pack
+- ADXP l MCO Nordic Animation Complete Pack
+- Holmgang - ADXP I MCO Moveset for NPCs (OAR)
+- SCAR AE Support
+- SCAR - Skyrim Combos AI Revolution
+- BFCO Universal Support
+- BFCO Elden Parry Precision Patch
+- BFCO Patch_OCPA
+- BFCO Patch_weaponspeed_OFF
+- BFCO Patch_Precision
+- BFCO addon_RecoveryEvent
+- BFCO - Attack Behavior Framework
+- Elden Parry
+- Draugr One-handed Attack Animation
+- Draugr Greatsword Animation
+- Draugr Battleaxe and Warhammer Attack Animation
+- New Draugr Unarmed Attack Animation
+- Wolf attack animations
+- New Creature Animation - Werewolf
+- New Creature Animation - Lurker
+- New Creature Attack Animation - Riekling and Goblin
+- New Creature Animation - Frost Atronach
+- New Creature Animation - Troll
+- New Creature Animation - Falmer
+- New Creature Animation - Giant
+- Better tomboys (wide spread arms fix) DAR animations
+- Dynamic Activation Key
+- EVG CLAMBER - Slope Animations
+- Divines Prayer Animations
+- Sleeping Expanded - Animations and NPC reactions
+- UNDERDOG - Death Animations OAR
+- Arena - An Encounter Zone Overhaul (just the new difuclty multipliares)
+- Locational Encounter Zones
+- Dareni's Spells - Merchants
+- Ascension 2
+- Natura
+- Vulcano
+- Necrotic
+- Inquisition
+- Arcane
+- Lunaris
+- Arclight
+- Stellaris
+- Desecration
+- Necrom
+- Abyss
+- Bloodmoon
+- Flames of Coldharbour
+- NPCs React To Necromancy (And More)
+- Alternate Start Voiced
+- Timing is Everything SE - Settings Loader
+- Simple Npc Dodge
+- Dynamic Dodge Animation
+- TK Dodge NG
+- TK Dodge RE
+- TK Dodge SE
+- Dual Wield Parrying SKSE
+- Classic Sprinting Redone (SKSE64)
+- IFrame Generator RE AE Support
+- IFrame Generator RE
+- One Click Power Attack NG
+- dTry Plugin Updates
+- dTry's Key Utils
+- Plus Combat - A Modern Combat Overhaul
+- Comprehensive Attack Rate Patch - SKSE
+- Armor Rating Rescaled SKSE Remake
+- Chocolate Poise Plus - Addons and Rebalancing
+- Chocolate Poise
+- Valhalla Combat
+- Run For Your Lives
+- NPCs Learn to Aim
+- Trade and Barter - Settings Loader
+- Trade and Barter
+- C.O.I.N - Patch Collection
+- COIN - Coins of Interesting Natures
+- Destroy The Dark Brotherhood - Kidnapping Only
+- Bandit Lines Expansion - Dark Elf
+- Dialogue Expansion - Khajiit Caravans
+- Less Generic Housecarls - Argis (Markarth) Dialogue Expansion and Quest
+- Jenassa - Inigo patch
+- Follower Dialogue Expansion - Jenassa
+- Follower Dialogue Expansion - Aela the Huntress
+- Brelyna - Lucien Patch
+- Follower Dialogue Expansion - Brelyna Maryon
+- Mjoll the Lioness - Remiel
+- FDE Mjoll Auri patch
+- Follower Dialogue Expansion - Mjoll the Lioness
+- Follower Dialogue Expansion - Erik the Slayer
+- Follower Dialogue Expansion - Jordis the Sword-Maiden
+- Splendor - Dragon Variants SE
+- Deadly Dragons
+- Lawless Expanded Enemy Coverage Addon
+- Daedroths SE
+- Morrowind Creatures SE
+- Skeletal Vampires- Mihail Monsters and Animals (SE-AE version)
+- Dwarven Colossus
+- Watchers and Vigilants
+- Bogmort - Mud Monsters of Morthal Swamp
+- Serene Wispmothers
+- Diverse Dragon Priests - Restless Dead
+- Diverse Dragon Priests - My optimized textures by Xtudo SE
+- Diverse Dragon Priests - Fathom's Creature Series
+- More Werewolves - No City and Town Attacks
+- More Werewolves
+- Forsworn Skinchangers
+- Canis Hysteria - The Werewolf Disease
+- Diverse Dog Textures - Hotfix
+- Diverse Dog Textures - SPID
+- Dynamic Animal Variants SPID (Updated Textures - Fixes - Improvements - And More)
+- Lore Friendly armored falmers
+- Hitting the Books - A Necromantic Grimoire Update
+- Morihaus' Refuge - Exterior Ruins Addon
+- Morihaus' Refuge - Lord's Mail Reintegration
+- Voiced Narrative - Bloodchill Manor (Creation Club)
+- Harvest Your Blood for Septimus
+- Blood and Silver - Cidhna Mine Expanded
+- Half-Moon Mill COTN Addon - Shadow Song Patch
+- The Shadow Song
+- Buyable Golden Claw
+- The Breathing Abyss - Lovecraftian Inspired Quest
+- Mysteries of the Dwemer - Quest Mod
+- Painted Torment - Quest Mod
+- Tales of Skyrim - Berserkyr Patch Collection
+- Tales of Skyrim - Berserkyr
+- Difficulty Balance
+- The Tale of Tsatampra Xiros
+- Morthal Barrow
+- More Unique Towns for Quest Mods
+- The Citadel of Snow - The Windhelm Bridge Reforged
+- Icy Windhelm
+- Sepolcri
+- Detailed Landscapes - Mushroom Trees in Morthal Swamp (BOS)
+- Detailed Landscapes - Root Weeds in Morthal Swamp (BOS)
+- Detailed Landscapes - Gleamblossoms and Caveworms in Falmer Hives (BOS)
+- Decorating Madness
+- Depths of Skyrim - An Underwater Overhaul SSE
+- Born in a Barn - Door Curtains for Shacks - Base Object Swapper
+- SpiderWIP
+- Jebbalon's Lava Column Correction - Aetherium Forge
+- Stroti Small House - Custom Roof
+- Stroti Logcabin - Custom Roof
+- Grass FPS Booster
+- QW's Grass Patch 2 - Origins of Forest - Cathedral - Folkvangr
+- Folkvangr - Grass and Landscape Overhaul
+- Origins Of Forest - 3D Forest Grass
+- Cathedral - 3D Pine Gras
+- Simple Snow Improvements - Solstheim Ruins (BOS)
+- Simple Snow Improvements - Snow Forts (BOS)
+- Simple Snow Improvements - Giant Obelisk Fixes (BOS)
+- Simple Snow Improvements - Skyrim Fixes (BOS)
+- Blended Roads - Simplicity of Snow Patch
+- Medieval Blended Roads
+- Vanaheimr Landscape - Snow
+- Rally's Blackreach Mushrooms
+- Diverse Cathedral Nightshade
+- Deadly Nightshades - A Cathedral 3D Nightshade Recolor Set
+- Cathedral - 3D Nightshade
+- Diverse Dragon Tongue
+- Cathedral - 3D Dragons Tongue
+- Cathedral - 3D Deathbell
+- Cathedral - 3D Tundra Cotton
+- Cathedral - 3D Thistle
+- Cathedral - 3D Lavender
+- Cathedral 3D Mountain Flowers - Alternate Textures
+- Cathedral - 3D Mountain Flowers Hearthfire Patch
+- Cathedral - 3D Mountain Flowers
+- Iconic's Frost - Flame - Storm Atronach Retexture
+- Troll.by.Kajuan
+- Iconic's Werewolf and Werebear Retexture
+- Giant.by.Kajuan
+- HD Reworked Horses
+- RUSTIC DRAGONS - Special Edition
+- Terre's 4K Fur Textures for CoverKhajiits
+- CoverKhajiits - Face Textures SE
+- BnP male skin (Replacer+Player version)
+- BnP female skin (Replacer+Player version)
+- SkySight Skins – Himbo
+- SkySight Skins - Ultra HD Male Textures and Real Feet Meshes (2K1K VANILLA)
+- Reverie
+- Lean to Beefy - Male HIMBO Bodyslide
+- Salt and Wind
+- Lovely Makeup 2 - Male Support
+- Lovely Makeup - Male Support
+- Siege at Icemoth Paper Map for FWMF
+- Beyond Reach Paper Map for FWMF
+- Amethyst - Weathers and Reshade preset for Community Shader
+- Mists of Tamriel for Obsidian Weathers
+- Mists of Tamriel
+- Moons And Stars - Sky Overhaul SKSE
+- Rainbows Remade - MCM
+- Rainbows Remade - No Notifications
+- Rainbows Remade - Hotfix
+- Rainbows Remade
+- Native EditorID Fix
+- Rainsong
+- Obsidian Weathers - Vigilant Integration
+- Wyrmstooth Multiple Weathers Patches
+- Alternate Obsidian Weathers MCM
+- Obsidian Weathers and Seasons
+- Civil War Champions Outfits for Officers (SPID)
+- Dwarven Mail Outfits for Dwemer Enthusiasts (LOTD)
+- Dunmeri Outfits for Skyrim Dunmers (SPID)
+- Dead Man's Dread Outfits for Pirates and Sailors (SPID)
+- Alik'r Warriors wear CC Redguard Elite Armaments (SPID)
+- Elder Creed - Blade
+- Eivor - ADXP I MCO Sprint Attacks
+- ADXP l MCO Imperium Animation for Player
+- Payload Interpreter
+- Vokrii SkySA Patch
+- Ancient Dwemer Metal - Spider Gem Restored
+- Ancient Dwemer Metal - My patches - ElSopa Quiv 2K
+- Dwemer Armors and Weapons Retexture SE
+- Dwemer Armors and Weapons Retexture SE - Ancient Dwemer Metal - My patches by Xtudo
+- Dayspring Canyon Global Markers Enabler for FWMF
+- Immersive Interactions - Animated Actions - Legacy Settings Loader
+- Revealing Rune
+- KS Hairdos 1.9 - True Unisex Patch
+- KS Hairdos 1.8 Salt and Wind
+- Salt and Wind - KS Hairdos - Update
+-Modern Brawl Bug Fix
+
+Removed
+
+- Enhanced Volumetric Lighting and Shadows (EVLaS)
+- Ultimate Immersion Toggle - UI Toggle - Hide Your HUD - Rebuild
+- Serana Dialogue Edit - Skyrim Special Edition
+- Relationship Dialogue Overhaul
+- Moonlight Tales Mini
+- Infinite Dragon Variants
+- Dynamic Random Dragons
+- Darkend nerf and balance patch SSE - Updated
+- G.I.R.T.H. - Gildergreen Is Really Thicc HD
+- Happy Little Trees - Aspen Addendum
+- Feminine Khajiit Textures (Grey Cat and Leopard) [CBBE]
+- Masculine Khajiit Textures (Grey Cat and Leopard) [Vanilla]
+- BnP male skin (Replacer+Player version)
+- BnP female skin (Replacer+Player version)
+- The Common Guy - SerketHetyt's HIMBO Bodyslide Preset
+
 # 0.4.1 - Small bug fix update
 
 Added
