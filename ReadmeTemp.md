@@ -25,13 +25,19 @@ Tuxborn supports only the Anniversary Edition of Skyrim on Steam, updated to **v
 
 As noted above, Tuxborn is *designed* for the performance profile of the Steam Deck, but that doesn’t mean it’s limited to that platform! It’s also a great, content-full, lightweight (in terms of performance) list for less powerful systems. There are no less than six Performance Profiles included that you can choose from, depending on if you wish to play with BFCO,  your desired performance target, or system specs (if not the Steam Deck):
 
-Tuxborn – Deck: This profile aims for a locked 40FPS experience on the Steam Deck.
-Tuxborn - Deck CS: This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.
-Tuxborn – Desktop: This profile is for slightly more powerful PCs, has a full Community Shaders suite and higher INI settings. Performance of this profile will depend on your system specs.
+**Tuxborn – Deck:** This profile aims for a locked 40FPS experience on the Steam Deck.
 
-Tuxborn – Deck BFCO: This profile aims for a locked 40FPS experience on the Steam Deck, and includes the BFCO combat animation framework.
-Tuxborn - Deck CS BFCO: This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile, and includes the BFCO combat animation framework.
-Tuxborn – Desktop BFCO: This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO combat animation framework. Performance of this profile will depend on your system specs.
+**Tuxborn - Deck CS:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.
+
+**Tuxborn – Desktop:** This profile is for slightly more powerful PCs, has a full Community Shaders suite and higher INI settings. Performance of this profile will depend on your system specs.
+
+--
+
+**Tuxborn – Deck BFCO:** This profile aims for a locked 40FPS experience on the Steam Deck, and includes the BFCO combat animation framework.
+
+**Tuxborn - Deck CS BFCO:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile, and includes the BFCO combat animation framework.
+
+**Tuxborn – Desktop BFCO:** This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO combat animation framework. Performance of this profile will depend on your system specs.
 
 Please Note: Due to the need for shader cache building on the Steam Deck, there may be a noticeable stutter in the first 1-2 hours while the cache builds. It should be good after that.
 
@@ -187,26 +193,45 @@ M2 = Light Attack
 
 ### <ins>Important Quest/Level Requirements</ins>
 
-Beyond Reach - At level 25 in a large city in Skyrim
-VIGILANT - After level 25 and House of Horrors in the Windpeak Inn
-GLENMORIL - After level 25, Discerning the Transmundane, At the Summit of Apocrpyha and Act 4 of Vigilant at the maingate of Falkreath 
-UNSLAAD - After level 25, Dragonslayer, At the Summit of Apocrpyha and Act 4 of Vigilant by touching the doll in the High Hrothgar courtyard 
-Gray Cowl - After level 10, be the dragonborn and finish the thieves guild. Steal something to start.  
-Moonpath - Part of Lotd, will start when collected enough for the museum
-Moon and Star - After the Way of the Voice in any settlment in Skyrim
-AHO - Visit the Braidwood Inn and investigate a suspicious orc at Mixwater Mill 
-Helgen Reborn - At level 20 and after Bleak Falls in any Settlement in Skyrim
-Forgotten City - At level 25 in any settlment in Skyrim
-Undeath - At level 30 with Enchanting 50 and Conjuration 75 look for a note in the Silver-Blood Inn
-The Wheel of Time - Other side of the river of the Riverwood mill
+**Beyond Reach:** At level 25 in a large city in Skyrim
+
+**VIGILANT:** After level 25 and House of Horrors in the Windpeak Inn
+
+**GLENMORIL:** After level 25, Discerning the Transmundane, At the Summit of Apocrpyha and Act 4 of Vigilant at the maingate of Falkreath 
+
+**UNSLAAD:** After level 25, Dragonslayer, At the Summit of Apocrpyha and Act 4 of Vigilant by touching the doll in the High Hrothgar courtyard 
+
+**Gray Cowl:** After level 10, be the dragonborn and finish the thieves guild. Steal something to start.  
+
+**Moonpath:** Part of Lotd, will start when collected enough for the museum
+
+**Moon and Star:** - After the Way of the Voice in any settlment in Skyrim
+
+**AHO:** - Visit the Braidwood Inn and investigate a suspicious orc at Mixwater Mill 
+
+**Helgen Reborn:** At level 20 and after Bleak Falls in any Settlement in Skyrim
+
+**Forgotten City:** At level 25 in any settlment in Skyrim
+
+**Undeath:** At level 30 with Enchanting 50 and Conjuration 75 look for a note in the Silver-Blood Inn
+
+**The Wheel of Time:** Other side of the river of the Riverwood mill
+
+
+
+
 
 Player Home Quests Conditions
+------------------------------
 
-Hendraheim - Level 25
-Myrwatch - Magicka level of at least 350
-Gallows Hall - Level 35
+**Hendraheim:** Level 25
+
+**Myrwatch:** Magicka level of at least 350
+
+**Gallows Hall:** Level 35
 
 If the mod/quest isn't listed above, please check the orginal mods page for how to start it, or what the requirements are.
+
 
 ### <ins>Other Information</ins>
 
