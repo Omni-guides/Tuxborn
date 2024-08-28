@@ -21,6 +21,20 @@ Tuxborn supports only the Anniversary Edition of Skyrim on Steam, updated to **v
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ouruboros)
 
+### <ins>Performance</ins>
+
+As noted above, Tuxborn is *designed* for the performance profile of the Steam Deck, but that doesn’t mean it’s limited to that platform! It’s also a great, content-full, lightweight (in terms of performance) list for less powerful systems. There are no less than six Performance Profiles included that you can choose from, depending on if you wish to play with BFCO,  your desired performance target, or system specs (if not the Steam Deck):
+
+Tuxborn – Deck: This profile aims for a locked 40FPS experience on the Steam Deck.
+Tuxborn - Deck CS: This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.
+Tuxborn – Desktop: This profile is for slightly more powerful PCs, has a full Community Shaders suite and higher INI settings. Performance of this profile will depend on your system specs.
+
+Tuxborn – Deck BFCO: This profile aims for a locked 40FPS experience on the Steam Deck, and includes the BFCO combat animation framework.
+Tuxborn - Deck CS BFCO: This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile, and includes the BFCO combat animation framework.
+Tuxborn – Desktop BFCO: This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO combat animation framework. Performance of this profile will depend on your system specs.
+
+Please Note: Due to the need for shader cache building on the Steam Deck, there may be a noticeable stutter in the first 1-2 hours while the cache builds. It should be good after that.
+
 
 ### <ins>Features</ins>
 
@@ -44,9 +58,11 @@ A full list of mods included in the list can be found on the [Load Order Library
 
 **NPC Changes:** We have been careful to enhance the visuals for NPCs throughout the game world, without going for the "supermodels everywhere" look.
 
-**Content:** 
+**Content:** Tuxborn aims to include as much of the good quality quest content and enhancements, including (but not limited to) [Legacy of the Dragonborn (v6)](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [JaySerpa Quest Expansion Series](https://next.nexusmods.com/profile/jayserpa/mods?gameId=1704), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Byeond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008), [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998), [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789), [The Grey Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509), [Falskaar](https://www.nexusmods.com/skyrimspecialedition/mods/2057), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341/) plus a whole load of smaller quest mods!
 
 **Miscellaneous changes:**
+
+**Survival:** We've included the Survival Overhaul [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) for those that enjoy the survival gameplay. While not enabled by default, it can be turned on by following the [same steps](https://help.bethesda.net/#en/answer/39919) as enabling Survival mode in Vanilla Skyrim. You can toggle the ability to fast-travel by editing the mod's ini file. More details can be found on the Starfrost Nexus page.
 
 Tuxborn includes the [Pronouns](https://www.nexusmods.com/skyrimspecialedition/mods/43816) mod, allowing you to select your preferred pronouns. As per the mod page details
 
@@ -54,22 +70,11 @@ _Selecting they/them pronouns could prevent you from completing certain quests t
 
 We've done the xEdit bit for you, but you will still have to set your fallback pronoun via the MCM in-game.
 
+**Optional Mods:**
 
-### <ins>Performance</ins>
-
-As noted above, Tuxborn is *designed* for the performance profile of the Steam Deck, but that doesn’t mean it’s limited to that platform! It’s also a great, content-full, lightweight (in terms of performance) list for less powerful systems. There are no less than six Performance Profiles included that you can choose from, depending on if you wish to play with BFCO,  your desired performance target, or system specs (if not the Steam Deck):
-
-Tuxborn – Deck: This profile aims for a locked 40FPS experience on the Steam Deck.
-Tuxborn - Deck CS: This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.
-Tuxborn – Desktop: This profile is for slightly more powerful PCs, has a full Community Shaders suite and higher INI settings. Performance of this profile will depend on your system specs.
-
-Tuxborn – Deck BFCO: This profile aims for a locked 40FPS experience on the Steam Deck, and includes the BFCO combat animation framework.
-Tuxborn - Deck CS BFCO: This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile, and includes the BFCO combat animation framework.
-Tuxborn – Desktop BFCO: This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO combat animation framework. Performance of this profile will depend on your system specs.
-
-Please Note: Due to the need for shader cache building on the Steam Deck, there may be a noticeable stutter in the first 1-2 hours while the cache builds. It should be good after that.
 
 ---
+
 
 # Installation
 
@@ -155,6 +160,31 @@ There are no MCM options that **need** to be altered before you start playing. I
 
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_SmoothCamPreset.png" width="400">
 
+### <ins>Keybind Changes/Gamepad buttons</ins>
+
+There are a few changes to the keybinds/buttons in use with the BFCO-based Tuxborn Profiles. The keybind/button changes are:
+
+Controller
+----------
+X = Dodge/Sprint
+LB = Block with 1h+Spell
+LT = Block everything else
+LB = Heavy Attack
+LR = Light Attack
+L3 = Shout/Power
+Dpad Left = Weapon Sheet
+Dpad Down = Sneak
+
+Keyboard
+--------
+V = Block with 1h+Spell
+Alt = Dodge/Sprint
+G = Heavy Attack
+M1 = Block everything else
+M2 = Light Attack
+
+(Keyboard users on the BFCO profile will need to select the Combat Keyboard Keys under optionals in MO2, we are still looking for the best key binds for this profile so feel free to say what you would want)
+
 ### <ins>Important Quest/Level Requirements</ins>
 
 Beyond Reach - At level 25 in a large city in Skyrim
@@ -180,7 +210,13 @@ If the mod/quest isn't listed above, please check the orginal mods page for how 
 
 ### <ins>Other Information</ins>
 
-BFCO Cha
+⚠️ ❗ **Photo Mode:** We've included [PhotoMode](), but unfortunately the button mapping for controlling it is very troublesome on gamepad/deck on the BFCO profiles - you can end up with the camera a bit stuck. To get out of this stuck camera, you need to run "tfc" twice in the in-game console. Unfortunately, this does not work on Steam Deck. Thanks to Todd for that one. ⚠️ ❗
+
+Steam Deck Specific:
+
+Updating the Modlist - Our recommended method is coming soon.
+
+Boot Time of the game - Modded Skyrim can take an awfully long time to boot on Steam Deck. Even more when you have so uch content as Tuxborn, and have so many methods applied to try and squeeze out every FPS we can. Timing on ht original LCD Steam Deck, it takes XXXXX to fully load the game to the main menu. Sadly there is no way to bring this down, but is part of the cost of having so many mods included in the list.
 
 
 ---
@@ -219,6 +255,8 @@ Before updating please backup your saves and CharGen presets, just in case. Repe
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_WJOverwrite.png" width="400">
 
 Unless otherwise stated, generally Modlist version 0.0.X updates are save-safe, any others are not.
+
+
 
 
 ---
