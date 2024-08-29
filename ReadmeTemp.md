@@ -58,7 +58,7 @@ A full list of mods included in the list can be found on the [Load Order Library
 
 **Gameplay Changes (Levelling):** Tuxborn utilises [Static Skill Levelling](https://www.nexusmods.com/skyrimspecialedition/mods/89940) that changes the way levelling is handled. After gaining a level, you will be presented with a menu to select the skills you wish to level up. A better description can be found on the Nexus mod page, but essentially instead of gaining Skill XP as you use skills, you gain level XP. Once you level up and sleep, you can allocate points to the skills as you wish - no more min/max'ing, or casting the same spell over and over to level up a specific skill! Please note that this mod is optional and can be disabled *before* starting a new save. It *cannot be disabled mid-save*.
 
-**Gameplay Changes (Combat):** Entirely optional, Tuxborn includes three performance profiles that includes the [BFCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052) bringing modern combat animations and features to Skyrim, including new animations for melee/range weapons, while also  allowing attacks while jumping and swimming.
+**Gameplay Changes (BFCO):** Entirely optional, Tuxborn includes three performance profiles that includes the [BFCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052) bringing modern combat animations and features to Skyrim, including new animations for melee/range weapons, while also  allowing attacks while jumping and swimming. Replaces Blade and Blunt with [Plus Combat](https://www.nexusmods.com/skyrimspecialedition/mods/100915) and [Chocolate Poise Plus](https://www.nexusmods.com/skyrimspecialedition/mods/82091)
 
 **Visual Enhancements:** [Skyrim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/34179), [Obsidian Weather and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125), [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961), [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) (CS and Desktop Profiles).
 
@@ -191,46 +191,48 @@ G = Heavy Attack
 M1 = Block everything else
 M2 = Light Attack
 
-(Keyboard users on the BFCO profile will need to select the Combat Keyboard Keys under optionals in MO2, we are still looking for the best key binds for this profile so feel free to say what you would want)
+(Keyboard users on the BFCO profile will need to select the Combat Keyboard Keys under optionals and disable Tuxborn Combat Controller Input in MO2, we are still looking for the best key binds for this profile so feel free to say what you would want)
 
 ### <ins>Important Quest/Level Requirements</ins>
 
-**Beyond Reach:** At level 25 in a large city in Skyrim
-
-**VIGILANT:** After level 25 and House of Horrors in the Windpeak Inn
-
-**GLENMORIL:** After level 25, Discerning the Transmundane, At the Summit of Apocrpyha and Act 4 of Vigilant at the maingate of Falkreath 
-
-**UNSLAAD:** After level 25, Dragonslayer, At the Summit of Apocrpyha and Act 4 of Vigilant by touching the doll in the High Hrothgar courtyard 
-
-**Gray Cowl:** After level 10, be the dragonborn and finish the thieves guild. Steal something to start.  
-
-**Moonpath:** Part of Lotd, will start when collected enough for the museum
-
-**Moon and Star:** - After the Way of the Voice in any settlment in Skyrim
-
-**AHO:** - Visit the Braidwood Inn and investigate a suspicious orc at Mixwater Mill 
-
-**Helgen Reborn:** At level 20 and after Bleak Falls in any Settlement in Skyrim
-
-**Forgotten City:** At level 25 in any settlment in Skyrim
-
-**Undeath:** At level 30 with Enchanting 50 and Conjuration 75 look for a note in the Silver-Blood Inn
-
-**The Wheel of Time:** Other side of the river of the Riverwood mill
-
-
-
-
-
-Player Home Quests Conditions
+CC Quests
 ------------------------------
+Most have been delayed with Rebalancing Anniversary Edition, you can check the mcm in game for details. Some notibales changes are:
+
+**Saints and Seducers:** Level 30
 
 **Hendraheim:** Level 25
 
 **Myrwatch:** Magicka level of at least 350
 
 **Gallows Hall:** Level 35
+
+
+Quests Mods
+------------------------------
+**Beyond Reach:** At level 25 in a large city in Skyrim
+
+**VIGILANT:** After level 25 in the Windpeak Inn
+
+**GLENMORIL:** After level 30 at the maingate of Falkreath 
+
+**UNSLAAD:** After level 40, by touching the doll in the High Hrothgar courtyard 
+
+**Gray Cowl:** After level 10, be the dragonborn and finish the thieves guild. Steal something to start.  
+
+**Moonpath:** Part of Lotd, will start when collected enough for the museum and after the Way of the Voice
+
+**Moon and Star:** - After the Way of the Voice in any settlment in Skyrim
+
+**AHO:** - Visit the Braidwood Inn and investigate a suspicious orc at Mixwater Mill 
+
+**Helgen Reborn:** At level 20 and after Bleak Falls in any settlement in Skyrim
+
+**Forgotten City:** At level 25 in any settlment in Skyrim
+
+**Undeath:** At level 30 with Enchanting 50 and Conjuration 75 look for a note in the Silver-Blood Inn
+
+**The Wheel of Time:** Other side of the river of the Riverwood mill
 
 If the mod/quest isn't listed above, please check the orginal mods page for how to start it, or what the requirements are.
 
@@ -239,7 +241,7 @@ If the mod/quest isn't listed above, please check the orginal mods page for how 
 
 ⚠️ ❗ **Photo Mode:** We've included [PhotoMode](), but unfortunately the button mapping for controlling it is very troublesome on gamepad/deck on the BFCO profiles - you can end up with the camera a bit stuck. To get out of this stuck camera, you need to run "tfc" twice in the in-game console. Unfortunately, this does not work on Steam Deck. Thanks to Todd for that one. ⚠️ ❗
 
-Steam Deck Specific:
+**Steam Deck Specific:**
 
 Updating the Modlist - Our recommended method is coming soon.
 
@@ -283,9 +285,9 @@ Before updating please backup your saves and CharGen presets, just in case. Repe
 
 Unless otherwise stated, generally Modlist version 0.0.X updates are save-safe, any others are not.
 
+### <ins>Installing your own mods</ins>
 
-
-
+You are free to install you own mods into Tuxborn, but this voides your offical support. If you do still want/need help look for the modlist-modifications channel in the discord. It's higly recomand that you look at these guides before you make any changes [Lively's modding wiki](https://github.com/LivelyDismay/Learn-To-Mod/wiki) and [Althro's resources](https://github.com/The-Animonculory/Modding-Resources)
 ---
 
 
