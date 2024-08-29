@@ -29,7 +29,7 @@ As noted above, Tuxborn is *designed* for the performance profile of the Steam D
 
 **Tuxborn - Deck CS:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.
 
-**Tuxborn – Desktop:** This profile is for slightly more powerful PCs, has a full Community Shaders suite and higher INI settings. Performance of this profile will depend on your system specs.
+**Tuxborn – Desktop:** This profile is for slightly more powerful PCs, has a full Community Shaders suite and higher INI settings. Performance of this profile will depend on your sy specs.
 
 --
 
@@ -37,7 +37,7 @@ As noted above, Tuxborn is *designed* for the performance profile of the Steam D
 
 **Tuxborn - Deck CS BFCO:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile, and includes the BFCO combat animation framework.
 
-**Tuxborn – Desktop BFCO:** This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO combat animation framework. Performance of this profile will depend on your system specs.
+**Tuxborn – Desktop BFCO:** This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO combat animation framework. Performance of this profile will depend on your sy specs.
 
 Please Note: Due to the need for shader cache building on the Steam Deck, there may be a noticeable stutter in the first 1-2 hours while the cache builds. It should be good after that.
 
@@ -48,7 +48,7 @@ Tuxborn balances enhanced visuals with smooth performance, ensuring an immersive
 
 Using the brilliant Anvil Modlist as a base, Tuxborn creates a balance of game fixes and QoL improvements, a carefully selected mix of Enairim and Simonrim gameplay changes, and a performance-focused selection of graphical enhancements across the board. Tuxborn includes the latest version of Legacy of the Dragonborn (v6), optional BFCO combat overhaul, a vast array of additional or overhauled quest content, NPC/Character Enhancements, Extra Weapons and Armours, Character Customisation options, Followers, and more!
 
-Downloading a Wabbajack Modlist gives you everything you need - **you do not need to install ModOrganizer yourself, or copy mods to the Vanilla Skyrim directory, everything is already done for you!**. Use the ModOrganizer.exe file located in the Install Directory you select in Wabbajack to start and launch the modlist. On Stem Deck, the process is a little more involved, so see below for installation instructions.
+Downloading a Wabbajack Modlist gives you everything you need - **you do not need to install ModOrganizer yourself, or copy mods to the Vanilla Skyrim directory, everything is already done for you!**. Use the ModOrganizer.exe file located in the Install Directory you select in Wabbajack to start and launch the modlist. On Steam Deck, the process is a little more involved, so see below for installation instructions.
 
 A full list of mods included in the list can be found on the [Load Order Library](https://loadorderlibrary.com/lists/tuxborn) page, but as a brief overview, Tuxborn utilises the following:
 
@@ -80,17 +80,17 @@ We've done the xEdit bit for you, but you will still have to set your fallback p
 
 **Optional Mods:**
 
-Custom Presets Go in Here: Empty folder to put any custom racemenu presets in
+Custom Presets Go in Here: An empty folder to put any custom racemenu presets in (.jslot file format).
 
-SSE FPS Stabilizer: SKSE that dynamically changes setting base on a performance target, can be disabled if you run into weird performance issues
+SSE FPS Stabilizer: A SKSE plugin that dynamically changes settings based on a performance target, can be disabled if you run into weird performance issues.
 
-Smaller HUD: makes the HUD smaller
+Smaller HUD: Makes the HUD smaller in scale.
 
-Skyrim Upscaler - DLSS FSR2 XeSS: more FPS or longer battery life with the help of FSR upscaling
+Skyrim Upscaler - DLSS FSR2 XeSS: more FPS or longer battery life with the help of FSR upscaling.
 
-Enemy (R)Evolution of Skyrim - EEOS: gives npc more perks and spells to use against you
+Enemy (R)Evolution of Skyrim - EEOS: gives npc more perks and spells to use against you.
 
-Masculine Animations for Female PCs/Feminine Animations for Male PCs: changes some animations for the Player Character
+Masculine Animations for Female PCs/Feminine Animations for Male PCs: changes some animations for the Player Character.
 
 ---
 
