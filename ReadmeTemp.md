@@ -79,6 +79,7 @@ _Selecting they/them pronouns could prevent you from completing certain quests t
 We've done the xEdit bit for you, but you will still have to set your fallback pronoun via the MCM in-game.
 
 **Optional Mods:**
+
 Custom Presets Go in Here: Empty folder to put any custom racemenu presets in
 
 SSE FPS Stabilizer: SKSE that dynamically changes setting base on a performance target, can be disabled if you run into weird performance issues
