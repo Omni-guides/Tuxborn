@@ -1,6 +1,6 @@
 # Tuxborn Changelog
 
-# 0.5.0 - WIP Changelog
+# 0.5.0 - The wait is over
 
 Added
 
