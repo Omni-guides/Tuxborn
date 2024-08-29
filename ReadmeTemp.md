@@ -25,19 +25,13 @@ Tuxborn supports only the Anniversary Edition of Skyrim on Steam, updated to **v
 
 As noted above, Tuxborn is *designed* for the performance profile of the Steam Deck, but that doesn’t mean it’s limited to that platform! It’s also a great, content-full, lightweight (in terms of performance) list for less powerful systems. There are no less than six Performance Profiles included that you can choose from, depending on if you wish to play with BFCO,  your desired performance target, or system specs (if not the Steam Deck):
 
-**Tuxborn – Deck:** This profile aims for a locked 40FPS experience on the Steam Deck.
-
-**Tuxborn - Deck CS:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.
-
-**Tuxborn – Desktop:** This profile is for slightly more powerful PCs, has a full Community Shaders suite and higher INI settings. Performance of this profile will depend on your sy specs.
-
---
-
-**Tuxborn – Deck BFCO:** This profile aims for a locked 40FPS experience on the Steam Deck, and includes the BFCO combat animation framework.
-
-**Tuxborn - Deck CS BFCO:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile, and includes the BFCO combat animation framework.
-
-**Tuxborn – Desktop BFCO:** This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO combat animation framework. Performance of this profile will depend on your sy specs.
+**Tuxborn – Deck:** This profile aims for a locked 40FPS experience on the Steam Deck.  
+**Tuxborn - Deck CS:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.  
+**Tuxborn – Desktop:** This profile is for slightly more powerful PCs, has a full Community Shaders suite and higher INI settings. Performance of this profile will depend on your sy specs.  
+  
+**Tuxborn – Deck BFCO:** This profile aims for a locked 40FPS experience on the Steam Deck, and includes the BFCO combat animation framework.  
+**Tuxborn - Deck CS BFCO:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile, and includes the BFCO combat animation framework.  
+**Tuxborn – Desktop BFCO:** This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO combat animation framework. Performance of this profile will depend on your sy specs.  
 
 Please Note: Due to the need for shader cache building on the Steam Deck, there may be a noticeable stutter in the first 1-2 hours while the cache builds. It should be good after that.
 
@@ -80,17 +74,12 @@ We've done the xEdit bit for you, but you will still have to set your fallback p
 
 ### <ins>Optional Mods</ins>
 
-**Custom Presets Go in Here:** An empty folder to put any custom racemenu presets in (.jslot file format).
-
-**SSE FPS Stabilizer:** A SKSE plugin that dynamically changes settings based on a performance target, can be disabled if you run into weird performance issues.
-
-**Smaller HUD:** Makes the HUD smaller in scale.
-
-**Skyrim Upscaler:** DLSS FSR2 XeSS: more FPS or longer battery life with the help of FSR upscaling.
-
-**Enemy (R)Evolution of Skyrim:** EEOS: gives npc more perks and spells to use against you.
-
-**Masculine Animations for Female PCs/Feminine Animations for Male PCs:** changes some animations for the Player Character.
+**Custom Presets Go in Here:** An empty folder to put any custom racemenu presets in (.jslot file format).  
+**SSE FPS Stabilizer:** A SKSE plugin that dynamically changes settings based on a performance target, can be disabled if you run into weird performance issues.  
+**Smaller HUD:** Makes the HUD smaller in scale.  
+**Skyrim Upscaler:** DLSS FSR2 XeSS: more FPS or longer battery life with the help of FSR upscaling.  
+**Enemy (R)Evolution of Skyrim:** EEOS: gives npc more perks and spells to use against you.  
+**Masculine Animations for Female PCs/Feminine Animations for Male PCs:** changes some animations for the Player Character.  
 
 ---
 
@@ -185,22 +174,22 @@ There are a few changes to the keybinds/buttons in use with the BFCO-based Tuxbo
 
 Controller
 ----------
-X = Dodge/Sprint
-LB = Block with 1h+Spell
-LT = Block everything else
-LB = Heavy Attack
-LR = Light Attack
-L3 = Shout/Power
-Dpad Left = Weapon Sheet
-Dpad Down = Sneak
+X = Dodge/Sprint  
+LB = Block with 1h+Spell  
+LT = Block everything else  
+LB = Heavy Attack  
+LR = Light Attack  
+L3 = Shout/Power  
+Dpad Left = Weapon Sheet  
+Dpad Down = Sneak  
 
 Keyboard
 --------
-V = Block with 1h+Spell
-Alt = Dodge/Sprint
-G = Heavy Attack
-M1 = Block everything else
-M2 = Light Attack
+V = Block with 1h+Spell  
+Alt = Dodge/Sprint  
+G = Heavy Attack  
+M1 = Block everything else  
+M2 = Light Attack  
 
 (Keyboard users on the BFCO profile will need to select the Combat Keyboard Keys under optionals and disable Tuxborn Combat Controller Input in MO2, we are still looking for the best key binds for this profile so feel free to say what you would want)
 
@@ -210,40 +199,26 @@ CC Quests
 ------------------------------
 Most have been delayed with Rebalancing Anniversary Edition, you can check the mcm in game for details. Some notibales changes are:
 
-**Saints and Seducers:** Level 30
-
-**Hendraheim:** Level 25
-
-**Myrwatch:** Magicka level of at least 350
-
-**Gallows Hall:** Level 35
+**Saints and Seducers:** Level 30  
+**Hendraheim:** Level 25  
+**Myrwatch:** Magicka level of at least 350  
+**Gallows Hall:** Level 35  
 
 
 Quests Mods
 ------------------------------
-**Beyond Reach:** At level 25 in a large city in Skyrim
-
-**VIGILANT:** After level 25 in the Windpeak Inn
-
-**GLENMORIL:** After level 30 at the maingate of Falkreath 
-
-**UNSLAAD:** After level 40, by touching the doll in the High Hrothgar courtyard 
-
+**Beyond Reach:** At level 25 in a large city in Skyrim  
+**VIGILANT:** After level 25 in the Windpeak Inn  
+**GLENMORIL:** After level 30 at the maingate of Falkreath  
+**UNSLAAD:** After level 40, by touching the doll in the High Hrothgar courtyard  
 **Gray Cowl:** After level 10, be the dragonborn and finish the thieves guild. Steal something to start.  
-
-**Moonpath:** Part of Lotd, will start when collected enough for the museum and after the Way of the Voice
-
-**Moon and Star:** - After the Way of the Voice in any settlment in Skyrim
-
-**AHO:** - Visit the Braidwood Inn and investigate a suspicious orc at Mixwater Mill 
-
-**Helgen Reborn:** At level 20 and after Bleak Falls in any settlement in Skyrim
-
-**Forgotten City:** At level 25 in any settlment in Skyrim
-
-**Undeath:** At level 30 with Enchanting 50 and Conjuration 75 look for a note in the Silver-Blood Inn
-
-**The Wheel of Time:** Other side of the river of the Riverwood mill
+**Moonpath:** Part of Lotd, will start when collected enough for the museum and after the Way of the Voice  
+**Moon and Star:** - After the Way of the Voice in any settlment in Skyrim  
+**AHO:** - Visit the Braidwood Inn and investigate a suspicious orc at Mixwater Mill  
+**Helgen Reborn:** At level 20 and after Bleak Falls in any settlement in Skyrim  
+**Forgotten City:** At level 25 in any settlment in Skyrim  
+**Undeath:** At level 30 with Enchanting 50 and Conjuration 75 look for a note in the Silver-Blood Inn  
+**The Wheel of Time:** Other side of the river of the Riverwood mill  
 
 If the mod/quest isn't listed above, please check the orginal mods page for how to start it, or what the requirements are.
 
