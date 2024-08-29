@@ -80,10 +80,15 @@ We've done the xEdit bit for you, but you will still have to set your fallback p
 
 **Optional Mods:**
 Custom Presets Go in Here: Empty folder to put any custom racemenu presets in
+
 SSE FPS Stabilizer: SKSE that dynamically changes setting base on a performance target, can be disabled if you run into weird performance issues
+
 Smaller HUD: makes the HUD smaller
+
 Skyrim Upscaler - DLSS FSR2 XeSS: more FPS or longer battery life with the help of FSR upscaling
+
 Enemy (R)Evolution of Skyrim - EEOS: gives npc more perks and spells to use against you
+
 Masculine Animations for Female PCs/Feminine Animations for Male PCs: changes some animations for the Player Character
 
 ---
