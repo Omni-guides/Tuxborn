@@ -68,7 +68,7 @@ A full list of mods included in the list can be found on the [Load Order Library
 
 **Content:** Tuxborn aims to include as much of the good quality quest content and enhancements, including (but not limited to) [Legacy of the Dragonborn (v6)](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [JaySerpa Quest Expansion Series](https://next.nexusmods.com/profile/jayserpa/mods?gameId=1704), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Byeond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008), [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998), [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789), [The Grey Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509), [Falskaar](https://www.nexusmods.com/skyrimspecialedition/mods/2057), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341/) plus a whole load of smaller quest mods!
 
-**Miscellaneous changes:**
+### <ins>Miscellaneous changes</ins>
 
 **Survival:** We've included the Survival Overhaul [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) for those that enjoy the survival gameplay. While not enabled by default, it can be turned on by following the [same steps](https://help.bethesda.net/#en/answer/39919) as enabling Survival mode in Vanilla Skyrim. You can toggle the ability to fast-travel by editing the mod's ini file. More details can be found on the Starfrost Nexus page.
 
@@ -78,7 +78,7 @@ _Selecting they/them pronouns could prevent you from completing certain quests t
 
 We've done the xEdit bit for you, but you will still have to set your fallback pronoun via the MCM in-game.
 
-**Optional Mods:**
+### <ins>Optional Mods</ins>
 
 **Custom Presets Go in Here:** An empty folder to put any custom racemenu presets in (.jslot file format).
 
