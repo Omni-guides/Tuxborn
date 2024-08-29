@@ -181,10 +181,9 @@ Added
 - Stroti Small House - Custom Roof
 - Stroti Logcabin - Custom Roof
 - Grass FPS Booster
-- QW's Grass Patch 2 - Origins of Forest - Cathedral - Folkvangr
-- Folkvangr - Grass and Landscape Overhaul
-- Origins Of Forest - 3D Forest Grass
-- Cathedral - 3D Pine Gras
+- Northern Cathedral Grass
+- Cathedral Landscapes
+- Northern Grass SE
 - Simple Snow Improvements - Solstheim Ruins (BOS)
 - Simple Snow Improvements - Snow Forts (BOS)
 - Simple Snow Improvements - Giant Obelisk Fixes (BOS)
@@ -258,7 +257,33 @@ Added
 - KS Hairdos 1.9 - True Unisex Patch
 - KS Hairdos 1.8 Salt and Wind
 - Salt and Wind - KS Hairdos - Update
--Modern Brawl Bug Fix
+- Modern Brawl Bug Fix
+- GuitarthVader's Cinematic Skyrim - A SmoothCam Preset
+- God of War - a SmoothCam preset
+- Elder Creed - AC-Valhalla inspired smoothcam preset
+- Improved Alternate Conversation Camera
+- Open Animation Replacer - Dialogue Plugin
+- Simplest Horses - Animated Whistling Patch
+- Animated Whistling
+- Simplest Horses (and other mounts)
+- Falmer Servant Lines Expansion
+- Daedric Shrines AIO by Xtudo - LOTD Entrance SR
+- Unofficial LotD and BSB Synergy Patch - TCC
+- Unofficial LotD and BSB Synergy Patch - Standalone
+- Unofficial Legacy of the Dragonborn and Beyond Skyrim Bruma Synergy Patch
+- Legacy of the Dragonborn Unofficial Unslaad Patch
+- Legacy of the Dragonborn - Interesting NPCs Patch
+- Legacy of the Dragonborn - Follower Room Patches
+- Legacy of the Dragonborn - Additional Display Patches
+- Security Overhaul SKSE - Extra Locks
+- Wearable Horns - Proper RaceMenu Integration
+- Wearable Horns - SE
+- Goam's Elven Ears - Proper RaceMenu Integration
+- Goam's Elven Ears - Reverie Skin
+- Cuyi's Bosmeri Antlers - Proper RaceMenu Integration
+- Cuyi's Bosmeri Antlers - SSE
+- Bosmer NPCs have Antlers
+- Breton NPCs Have Elven Ears
 
 Removed
 
@@ -277,6 +302,12 @@ Removed
 - BnP male skin (Replacer+Player version)
 - BnP female skin (Replacer+Player version)
 - The Common Guy - SerketHetyt's HIMBO Bodyslide Preset
+- Custom Skills - VIGILANT
+- Daedric Shrines - All in One - My Patches by Xtudo - LOTD - Hall of Heroes - Wintersun - Nocturnal patch
+- Dynamic Lowered Hoods Fixes
+- Dynamic Lowered Hoods
+- Dynamic Armor Variants
+- Skyrim SafeSave System Overhaul
 
 # 0.4.1 - Small bug fix update
 
