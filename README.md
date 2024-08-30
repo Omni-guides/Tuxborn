@@ -172,19 +172,19 @@ There are no MCM options that **need** to be altered before you start playing. I
 
 There are a few changes to the keybinds/buttons in use with the BFCO-based Tuxborn Profiles. The keybind/button changes are:
 
-Controller
-----------
+**Controller**
+
 X = Dodge/Sprint  
 LB = Block with 1h+Spell  
 LT = Block everything else  
-LB = Heavy Attack  
-LR = Light Attack  
+RB = Heavy Attack  
+RT = Light Attack  
 L3 = Shout/Power  
 Dpad Left = Weapon Sheet  
 Dpad Down = Sneak  
 
-Keyboard
---------
+**Keyboard**
+
 V = Block with 1h+Spell  
 Alt = Dodge/Sprint  
 G = Heavy Attack  
@@ -193,8 +193,8 @@ M2 = Light Attack
 
 (Keyboard users on the BFCO profile will need to select the Combat Keyboard Keys under optionals and disable Tuxborn Combat Controller Input in MO2, we are still looking for the best key binds for this profile so feel free to say what you would want)
 
-RaceMenu Temporary Button Mapping - SteamDeck
----------------------------------------------
+**RaceMenu Temporary Button Mapping - SteamDeck**
+
 Unfortunately, due to a fight between SteamInput, RaceMenu and general Bethesda-ness, some gamepad buttons do not function as you will require, when using the BFCO profiles. THings like accessin ght preset menu, or even just finishing and naming your character. To workaround this, you can temporarily map some additional buttons on the steam deck using the Steam menu. We suggest mapping the 'R' key, 'F5' and 'F9' keys to the back paddle buttons, this should work around the issues seem with RaceMenu on BFCO profiles for the Steam Deck. You can unmap the buttons once you've created the character.
 
 ### <ins>Important Quest/Level Requirements</ins>
