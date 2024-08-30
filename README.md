@@ -193,6 +193,10 @@ M2 = Light Attack
 
 (Keyboard users on the BFCO profile will need to select the Combat Keyboard Keys under optionals and disable Tuxborn Combat Controller Input in MO2, we are still looking for the best key binds for this profile so feel free to say what you would want)
 
+RaceMenu Temporary Button Mapping - SteamDeck
+---------------------------------------------
+Unfortunately, due to a fight between SteamInput, RaceMenu and general Bethesda-ness, some gamepad buttons do not function as you will require, when using the BFCO profiles. THings like accessin ght preset menu, or even just finishing and naming your character. To workaround this, you can temporarily map some additional buttons on the steam deck using the Steam menu. We suggest mapping the 'R' key, 'F5' and 'F9' keys to the back paddle buttons, this should work around the issues seem with RaceMenu on BFCO profiles for the Steam Deck. You can unmap the buttons once you've created the character.
+
 ### <ins>Important Quest/Level Requirements</ins>
 
 CC Quests
