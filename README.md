@@ -27,11 +27,11 @@ As noted above, Tuxborn is *designed* for the performance profile of the Steam D
 
 **Tuxborn – Deck:** This profile aims for a locked 40FPS experience on the Steam Deck.  
 **Tuxborn - Deck CS:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.  
-**Tuxborn – Desktop:** This profile is for slightly more powerful PCs, has a full Community Shaders suite and higher INI settings. Performance of this profile will depend on your sy specs.  
+**Tuxborn – Desktop:** This profile is for slightly more powerful PCs, has a full Community Shaders suite and higher INI settings. Performance of this profile will depend on your system specs.  
   
 **Tuxborn – Deck BFCO:** This profile aims for a locked 40FPS experience on the Steam Deck, and includes the BFCO combat animation framework.  
 **Tuxborn - Deck CS BFCO:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile, and includes the BFCO combat animation framework.  
-**Tuxborn – Desktop BFCO:** This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO combat animation framework. Performance of this profile will depend on your sy specs.  
+**Tuxborn – Desktop BFCO:** This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO combat animation framework. Performance of this profile will depend on your system specs.  
 
 Please Note: Due to the need for shader cache building on the Steam Deck, there may be a noticeable stutter in the first 1-2 hours while the cache builds. It should be good after that.
 
