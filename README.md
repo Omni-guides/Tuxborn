@@ -180,7 +180,7 @@ LT = Block everything else
 RB = Heavy Attack  
 RT = Light Attack  
 L3 = Shout/Power  
-Dpad Left = Weapon Sheet  
+Dpad Left = Sheath Weapon  
 Dpad Down = Sneak  
 
 **Keyboard**
