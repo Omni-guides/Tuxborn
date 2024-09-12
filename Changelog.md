@@ -1,5 +1,18 @@
 # Tuxborn Changelog
 
+# 0.5.2 - Further tweaks and fixes
+
+- A fix for Smoothcam/Improved Conversation Camera interaction, and archery
+- BFCO Weapon Speed has been returned to v0.5.0 settings
+- Dragons should no longer be invincible
+- A fix for The Steed standing stone effect
+
+# 0.5.1 - Minor Adjustments and Tweaks
+
+- Alternative Combat Speed
+- Tweak to Improved Alternate Conversation Camera
+- Clean up of some old files
+
 # 0.5.0 - The wait is over
 
 Added
