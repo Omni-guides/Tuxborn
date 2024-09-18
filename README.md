@@ -98,7 +98,7 @@ Downloads for Tuxborn are currently ~112GB, and the resulting modlist install si
 
 As it stands, the Wabbajack application must be **installed and run** on a Windows system, it cannot be installed on Steam Deck/Linux directly.
 
-On your Windows system, install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) – these are required to run Wabbajack.
+On your Windows system, install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime v5desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) – these are required to run Wabbajack.
 
 Download the Wabbajack application from [here](https://www.wabbajack.org/) and place it in a folder such as C:\Games\Wabbajack – Do not place it in Program Files, Downloads, or on your Desktop.
 
