@@ -55,21 +55,34 @@ Heromenu is an important part of Enderal that you will need to map yourself. On 
 
 **BFCO**
 There are a few changes to the keybinds/buttons in use with the BFCO-based Emissaries of Tux Profiles. The keybind/button changes are:
+
 Controller
+
 X = Dodge/Sprint
+
 LB = Block with 1h+Spell
+
 LT = Block everything else
 RB = Heavy Attack
+
 RT = Light Attack
+
 L3 = Shout/Power
+
 Dpad Left = Sheath Weapon
+
 Dpad Down = Sneak
 
 Keyboard
+
 V = Block with 1h+Spell
+
 Alt = Dodge/Sprint
+
 G = Heavy Attack
+
 M1 = Block everything else
+
 M2 = Light Attack
 
 (Keyboard users on the BFCO profile will need to select the Emissaries - BFCO Keyboard Input under optionals and disable Emissaries - BFCO Controller Input Input in MO2, we are still looking for the best key binds for this profile so feel free to say what you would want)
