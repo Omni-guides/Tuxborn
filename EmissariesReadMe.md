@@ -1,4 +1,6 @@
-# Emissaries of Tux
+![Hello](https://github.com/Omni-guides/Tuxborn/blob/main/images/Emissaries%20of%20Tux.png)
+
+# Abouth
 
 Emissaries of Tux is a performance friendly Wabbajack list for the steam version of Enderal SE, aiming to give the world of Vyn a more unique feel over skyrim, targething at minimum the hardware of the Steamdeck. The list has optional modern combat and ego, plus some custom overhauls for Enemies and armor. Together with mods adding extra content to the world like Kata series of mods and Forgotten Dungeons series. 
 
