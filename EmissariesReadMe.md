@@ -52,7 +52,7 @@ These go just above the bfco patch and below the EGO SE - Modded Moonsteel esp.
 
 ![Here](https://github.com/Omni-guides/Tuxborn/blob/main/images/Emissaries_EgoESP.png)
 
-**EGO SE - [NAME]:** Will change that setting back to what it was in Enderal with EGO
+**EGO SE - [NAME]:** Will change that setting back to what it was in Enderal with out EGO
 
 **Official EGO SE Hardcore Patches:** Will make the game even more changeling for those that have the will for it.
 
