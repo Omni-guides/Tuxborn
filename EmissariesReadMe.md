@@ -64,7 +64,7 @@ Riverville will be your homebase during the first act and don’t forget to make
 
 During the early game it can be helpful to make potions to get some extra exp and pennys, even if you don’t invest in the skill.
 
-Food is your friend and will give you long lasting healing, be sure to collect all the meat and salt you can find. These can then be turn into meals.
+Food is your friend and will give you long lasting healing, be sure to collect all the meat and salt you can find. These can then be turn into meals at a cockingstation, you can find one in the Riverville Inn.
 
 Focus on 3-4 main skills and 1-2 crafting skills when making your character
 
