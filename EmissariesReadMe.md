@@ -43,8 +43,14 @@ Please Note: Due to the need for shader cache building on the Steam Deck, there 
 **Disabling Enderal Gameplay Overhaul:**
 By default EGO is turned on and before you make any changes it’s highly recommended that you make a copy of the profile you want to use. You can do this by clicking on the ID card at the top of mo2 and then selecting your profile -> copy. What name you give it doesn’t matter. After that it’s just a case of selecting everything in EGO SE - Enderal Gameplay Overhaul (to disable turn-off everything in here) right clicking and selecting and you are ready to go. To be clear this isn’t SAFE SAVE and you will need a new save to do this.
 
+![Step1](https://github.com/Omni-guides/Tuxborn/blob/main/images/Emissaries_CopyProfile1.png)
+![Step2](https://github.com/Omni-guides/Tuxborn/blob/main/images/Emissaries_CopyProfile2.png)
+![Step3](https://github.com/Omni-guides/Tuxborn/blob/main/images/Emissaries_EgoDisable.png)
+
 **EGO Optionals:**
 These go just above the bfco patch and below the EGO SE - Modded Moonsteel esp. 
+
+![Here](https://github.com/Omni-guides/Tuxborn/blob/main/images/Emissaries_EgoESP.png)
 
 **EGO SE - [NAME]:** Will change that setting back to what it was in Enderal with EGO
 
