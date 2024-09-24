@@ -108,8 +108,6 @@ Unfortunately, due to a fight between SteamInput, RaceMenu and general Bethesda-
 ### <ins>Known issues to be aware of:</ins>
 The Darkwoods area can be really heavy on the Steam Deck, so you might want to turn on FSR when in there. Toggling the upscaler is a 100% safe save.
 
-There is a minor issue with the Helmet of the Righteous Path mesh, if you look in the small eyes slits you can see nothing on the other side. If you know a fix for this or can fix the mesh yourself, feel free to @ us on discord or open a GitHub Issue with the fix. 
-
 The racemenu camera can be a bit claustrophobic, you can tweak the camera in one of the other racemenu tabs.
 
 ### <ins>Installing your own mods</ins>
