@@ -2,7 +2,7 @@
 
 # About
 
-Emissaries of Tux is a performance friendly Wabbajack list for the Steam version of Enderal SE, aiming to give the world of Vyn a more unique feel over Skyrim, targeting at minimum the hardware of the Steamdeck. The list has optional modern combat and EGO, plus some custom overhauls for enemies and armor. Together with mods adding extra content to the world like Kata series of mods and Forgotten Dungeons series. 
+Emissaries of Tux is a performance friendly Wabbajack list for the Steam version of Enderal SE, aiming to give the world of Vyn a more unique feel over Skyrim, targeting at minimum the hardware of the Steamdeck. The list has optional modern combat and EGO, plus some custom overhauls for enemies and armor. Together with mods adding extra content to the world like Kata series of mods and Forgotten Dungeons series. With a total install size of 40gb and a download of 23gb.
 
 For those unfamiliar with Enderal, it’s a total overhaul for Skyrim made by the German game studio SureAI. There are 4 games in the setting of Vyn, but you don’t need to play the previous 3 to get into Enderal. Depending on who you ask, it might even be better to jump in blind. Not only have the world and story be reworked but also the gameplay. The Enderal world is de-leveled and you will need to buy skill books to level up your skills. Healing in combat comes with some minor drawbacks, similar to the rad system of Fallout, but there are also many powerful items to find around the world. While you sometimes will have to come back to stuff later with a more powerful character, there is always a way to overcome what you encounter. 
 
