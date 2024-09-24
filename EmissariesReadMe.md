@@ -1,14 +1,14 @@
 ![Hello](https://github.com/Omni-guides/Tuxborn/blob/main/images/Emissaries%20of%20Tux.png)
 
-# Abouth
+# About
 
-Emissaries of Tux is a performance friendly Wabbajack list for the steam version of Enderal SE, aiming to give the world of Vyn a more unique feel over skyrim, targething at minimum the hardware of the Steamdeck. The list has optional modern combat and ego, plus some custom overhauls for Enemies and armor. Together with mods adding extra content to the world like Kata series of mods and Forgotten Dungeons series. 
+Emissaries of Tux is a performance friendly Wabbajack list for the Steam version of Enderal SE, aiming to give the world of Vyn a more unique feel over Skyrim, targeting at minimum the hardware of the Steamdeck. The list has optional modern combat and EGO, plus some custom overhauls for enemies and armor. Together with mods adding extra content to the world like Kata series of mods and Forgotten Dungeons series. 
 
-For those unfamiliar with Enderal, it’s a total overhaul for Skyrim made by the German game studio SureAI. It’s the 4 games in the setting of Vyn, but you don’t need to play the last 3 to get into Enderal. Depending on who you ask, it might even be better to jump in blind. Not only have the world and story be reworked but also the gameplay. Enderal world is deleved and you will need to buy skill books to level up your skills. Healing in combat comes with some minor drawbacks, similar to the rad system of Fallout, but there are also many powerful items to find around the world. While you sometimes will have to come back to stuff later with a more powerful character, there is always a way to overcome what you encounter. 
+For those unfamiliar with Enderal, it’s a total overhaul for Skyrim made by the German game studio SureAI. There are 4 games in the setting of Vyn, but you don’t need to play the previous 3 to get into Enderal. Depending on who you ask, it might even be better to jump in blind. Not only have the world and story be reworked but also the gameplay. The Enderal world is de-leveled and you will need to buy skill books to level up your skills. Healing in combat comes with some minor drawbacks, similar to the rad system of Fallout, but there are also many powerful items to find around the world. While you sometimes will have to come back to stuff later with a more powerful character, there is always a way to overcome what you encounter. 
 
 [EGO SE - Enderal Gameplay Overhaul](https://www.nexusmods.com/enderalspecialedition/mods/3) builds on top of the systems in a similar way as the Skyrim mod Requiem does, all a lot of systems are more in depth but also more challenging. [BFCO](https://www.nexusmods.com/skyrimspecialedition/mods/117052) replaces the combat of Skyrim with a more modern feel, similar to what you see in Action RPGs released today. These are not for everybody and can be turn off by the end user if they want.
 
-The Modlist is currently in beta testing, so support will be 'best effort' during this time. If you wish to chat about Emissaries of Tux, join the Aetherius Modding Discord , grab the Beta role from Channels & Roles and look for us in the #modlist-betas-forum channel. Or if you just want to chat about Wabbajack Modlists on Steam Deck/Linux in general, then drop by the #unofficial-linux-help channel of the Official Wabbajack Discord.
+The Modlist is currently in beta testing, so support will be 'best effort' during this time. If you wish to chat about Emissaries of Tux, join the Aetherius Modding Discord, grab the Beta role from Channels & Roles and look for us in the #modlist-betas-forum channel. Or if you just want to chat about Wabbajack Modlists on Steam Deck/Linux in general, then drop by the #unofficial-linux-help channel of the Official Wabbajack Discord.
 
 ### <ins>Performance</ins>
 
@@ -43,7 +43,7 @@ Please Note: Due to the need for shader cache building on the Steam Deck, there 
 **Story Mode - not safesave:** Makes the game easier for those that want it, as Enderal is more changeling then default Skyrim. This will only work properly on a new save.
 
 **Disabling Enderal Gameplay Overhaul:**
-By default EGO is turned on and before you make any changes it’s highly recommended that you make a copy of the profile you want to use. You can do this by clicking on the ID card at the top of mo2 and then selecting your profile -> copy. What name you give it doesn’t matter. After that it’s just a case of selecting everything in EGO SE - Enderal Gameplay Overhaul (to disable turn-off everything in here) right clicking and selecting and you are ready to go. To be clear this isn’t SAFE SAVE and you will need a new save to do this.
+By default EGO is turned on and before you make any changes it’s highly recommended that you make a copy of the profile you want to use. You can do this by clicking on the ID card at the top of MO2 and then selecting your profile -> copy. What name you give it doesn’t matter. After that it’s just a case of selecting everything in EGO SE - Enderal Gameplay Overhaul (to disable turn-off everything in here) right clicking and selecting and you are ready to go. To be clear this isn’t SAFE SAVE and you will need a new save to do this.
 
 ![Step1](https://github.com/Omni-guides/Tuxborn/blob/main/images/Emissaries_CopyProfile1.png)
 ![Step2](https://github.com/Omni-guides/Tuxborn/blob/main/images/Emissaries_CopyProfile2.png)
@@ -64,9 +64,9 @@ After meeting Jespar, go check out the camp/region you just came from and after 
 
 Riverville will be your homebase during the first act and don’t forget to make use of the many merchants there, especially buying skill books is important.
 
-During the early game it can be helpful to make potions to get some extra exp and pennys, even if you don’t invest in the skill.
+During the early game it can be helpful to make potions to get some extra experience and money, even if you don’t invest in the skill.
 
-Food is your friend and will give you long lasting healing, be sure to collect all the meat and salt you can find. These can then be turn into meals at a cockingstation, you can find one in the Riverville Inn.
+Food is your friend and will give you long lasting healing, be sure to collect all the meat and salt you can find. These can then be turn into meals at a cooking station, you can find one in the Riverville Inn.
 
 Focus on 3-4 main skills and 1-2 crafting skills when making your character
 
@@ -82,43 +82,33 @@ There are a few changes to the keybinds/buttons in use with the BFCO-based Emiss
 
 Controller
 
-X = Dodge/Sprint
-
-LB = Block with 1h+Spell
-
-LT = Block everything else
-RB = Heavy Attack
-
-RT = Light Attack
-
-L3 = Shout/Power
-
-Dpad Left = Sheath Weapon
-
-Dpad Down = Sneak
+X = Dodge/Sprint  
+LB = Block with 1h+Spell  
+LT = Block everything else  
+RB = Heavy Attack  
+RT = Light Attack  
+L3 = Shout/Power  
+Dpad Left = Sheath Weapon  
+Dpad Down = Sneak  
 
 Keyboard
 
-V = Block with 1h+Spell
-
-Alt = Dodge/Sprint
-
-G = Heavy Attack
-
-M1 = Block everything else
-
-M2 = Light Attack
+V = Block with 1h+Spell  
+Alt = Dodge/Sprint  
+G = Heavy Attack  
+M1 = Block everything else  
+M2 = Light Attack  
 
 (Keyboard users on the BFCO profile will need to select the Emissaries - BFCO Keyboard Input under optionals and disable Emissaries - BFCO Controller Input Input in MO2, we are still looking for the best key binds for this profile so feel free to say what you would want)
 
 **RaceMenu Temporary Button Mapping - SteamDeck**
 Unfortunately, due to a fight between SteamInput, RaceMenu and general Bethesda-ness, some gamepad buttons do not function as you will require, when using the BFCO profiles. Things like accessing the preset menu, or even just finishing and naming your character. To workaround this, you can temporarily map some additional buttons on the steam deck using the Steam menu. We suggest mapping the 'R' key, 'F5' and 'F9' keys to the back paddle buttons, this should work around the issues seen with RaceMenu on BFCO profiles for the Steam Deck. You can unmap the buttons once you've created the character. You might need to move around the trackpad mouse a bit for this to work.
-Installing your own mods
+
 
 ### <ins>Known issues to be aware of:</ins>
-The darkwoods area can be really heavy on the Steam Deck, so you might want to turn on FSR when in there. Toggling the upscaler is a 100% safe save.
+The Darkwoods area can be really heavy on the Steam Deck, so you might want to turn on FSR when in there. Toggling the upscaler is a 100% safe save.
 
-There is a minor issue with the Helmet of the Righteous Path mesh, if you look in the small eyes slits you can see nothing on the other side. If you know a fix for this or can fix the mesh yourself, feel free to @ use on the discord. 
+There is a minor issue with the Helmet of the Righteous Path mesh, if you look in the small eyes slits you can see nothing on the other side. If you know a fix for this or can fix the mesh yourself, feel free to @ us on discord or open a GitHub Issue with the fix. 
 
 The racemenu camera can be a bit claustrophobic, you can tweak the camera in one of the other racemenu tabs.
 
