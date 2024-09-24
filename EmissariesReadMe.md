@@ -8,7 +8,7 @@ For those unfamiliar with Enderal, it’s a total overhaul for Skyrim made by th
 
 [EGO SE - Enderal Gameplay Overhaul](https://www.nexusmods.com/enderalspecialedition/mods/3) builds on top of the systems in a similar way as the Skyrim mod Requiem does, all a lot of systems are more in depth but also more challenging. [BFCO](https://www.nexusmods.com/skyrimspecialedition/mods/117052) replaces the combat of Skyrim with a more modern feel, similar to what you see in Action RPGs released today. These are not for everybody and can be turn off by the end user if they want.
 
-The Modlist is currently in beta testing, so support will be 'best effort' during this time. If you wish to chat about Emissaries of Tux, join the Aetherius Modding Discord, grab the Beta role from Channels & Roles and look for us in the #modlist-betas-forum channel. Or if you just want to chat about Wabbajack Modlists on Steam Deck/Linux in general, then drop by the #unofficial-linux-help channel of the Official Wabbajack Discord.
+The Modlist is currently in beta testing, so support will be 'best effort' during this time. If you wish to chat about Emissaries of Tux, join the [Aetherius Modding Discord](https://discord.gg/xRrHRsb5e9), grab the Beta role from Channels & Roles and look for us in the #modlist-betas-forum channel. Or if you just want to chat about Wabbajack Modlists on Steam Deck/Linux in general, then drop by the #unofficial-linux-help channel of the [Official Wabbajack Discord](https://discord.gg/wabbajack).
 
 ### <ins>Performance</ins>
 
