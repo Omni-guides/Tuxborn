@@ -120,6 +120,8 @@ The darkwoods area can be really heavy on the Steam Deck, so you might want to t
 
 There is a minor issue with the Helmet of the Righteous Path mesh, if you look in the small eyes slits you can see nothing on the other side. If you know a fix for this or can fix the mesh yourself, feel free to @ use on the discord. 
 
+The racemenu camera can be a bit claustrophobic, you can tweak the camera in one of the other racemenu tabs.
+
 ### <ins>Installing your own mods</ins>
 
 You are free to install you own mods into Tuxborn, but this voides your offical support. If you do still want/need help look for the modlist-modifications channel in the discord. It's higly recomand that you look at these guides before you make any changes [Lively's modding wiki](https://github.com/LivelyDismay/Learn-To-Mod/wiki) and [Althro's resources](https://github.com/The-Animonculory/Modding-Resources)
