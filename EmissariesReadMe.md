@@ -43,7 +43,7 @@ Please Note: Due to the need for shader cache building on the Steam Deck, there 
 **Story Mode - not safesave:** Makes the game easier for those that want it, as Enderal is more changeling then default Skyrim. This will only work properly on a new save.
 
 **Disabling Enderal Gameplay Overhaul:**
-By default EGO is turned on and before you make any changes it’s highly recommended that you make a copy of the profile you want to use. You can do this by clicking on the ID card at the top of MO2 and then selecting your profile -> copy. What name you give it doesn’t matter. After that it’s just a case of selecting everything in EGO SE - Enderal Gameplay Overhaul (to disable turn-off everything in here) right clicking and selecting and you are ready to go. To be clear this isn’t SAFE SAVE and you will need a new save to do this.
+By default EGO is turned on and before you make any changes it’s highly recommended that you make a copy of the profile you want to use. You can do this by clicking on the ID card at the top of MO2 and then selecting your profile -> copy. What name you give it doesn’t matter. After that it’s just a case of selecting everything in _EGO SE - Enderal Gameplay Overhaul (to disable turn-off everything in here)_ right clicking and selecting disable and you are ready to go. To be clear this isn’t SAFE SAVE and you will need a new save to do this.
 
 ![Step1](https://github.com/Omni-guides/Tuxborn/blob/main/images/Emissaries_CopyProfile1.png)
 ![Step2](https://github.com/Omni-guides/Tuxborn/blob/main/images/Emissaries_CopyProfile2.png)
