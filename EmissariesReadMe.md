@@ -75,7 +75,7 @@ Enderal has it own [Wiki](https://en.wiki.sureai.net/Enderal) if you feel stuck 
 ### <ins>Keybind Changes/Gamepad buttons</ins>
 
 **Heromenu:**
-Heromenu is an important part of Enderal and is where you can see your skills among other stats, normally you can use it by pressing H. But in Emissaries it has been moved to the tween menu, in the same place as you find the level menu in normal Skyrim.
+Heromenu is an important part of Enderal and is where you can see your skills among other stats, normally you can use it by pressing H. But in Emissaries it has been moved to the tween menu, in the same place as you find the level menu in normal Skyrim. You can map the shortcut for it in same place as other Skyrim controlles.
 
 **BFCO**
 There are a few changes to the keybinds/buttons in use with the BFCO-based Emissaries of Tux Profiles. The keybind/button changes are:
@@ -109,6 +109,8 @@ Unfortunately, due to a fight between SteamInput, RaceMenu and general Bethesda-
 The Darkwoods area can be really heavy on the Steam Deck, so you might want to turn on FSR when in there. Toggling the upscaler is a 100% safe save.
 
 The racemenu camera can be a bit claustrophobic, you can tweak the camera in one of the other racemenu tabs.
+
+Sometimes you still get the heromenu tutorial at higher levels, you can turn this off in the Enderal mcm.
 
 ### <ins>Installing your own mods</ins>
 
