@@ -112,6 +112,8 @@ The racemenu camera can be a bit claustrophobic, you can tweak the camera in one
 
 Sometimes you still get the heromenu tutorial at higher levels, you can turn this off in the Enderal mcm.
 
+Chest lack opening animations that is because Medieval Chests doesn't have them at this point in time.
+
 ### <ins>Installing your own mods</ins>
 
-You are free to install you own mods into Tuxborn, but this voides your offical support. If you do still want/need help look for the modlist-modifications channel in the discord. It's higly recomand that you look at these guides before you make any changes [Lively's modding wiki](https://github.com/LivelyDismay/Learn-To-Mod/wiki) and [Althro's resources](https://github.com/The-Animonculory/Modding-Resources)
+You are free to install you own mods into Emissaries of Tux, but this voides your offical support. If you do still want/need help look for the modlist-modifications channel in the discord. It's higly recomand that you look at these guides before you make any changes [Lively's modding wiki](https://github.com/LivelyDismay/Learn-To-Mod/wiki) and [Althro's resources](https://github.com/The-Animonculory/Modding-Resources)
