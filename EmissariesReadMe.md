@@ -10,6 +10,8 @@ For those unfamiliar with Enderal, it’s a total overhaul for Skyrim made by th
 
 The Modlist is currently in beta testing, so support will be 'best effort' during this time. If you wish to chat about Emissaries of Tux, join the [Aetherius Modding Discord](https://discord.gg/xRrHRsb5e9), grab the Beta role from Channels & Roles and look for us in the #modlist-betas-forum channel. Or if you just want to chat about Wabbajack Modlists on Steam Deck/Linux in general, then drop by the #unofficial-linux-help channel of the [Official Wabbajack Discord](https://discord.gg/wabbajack).
 
+For Wabbajack instuctions you can look here https://github.com/Omni-guides/Tuxborn/blob/main/README.md#wabbajack and there is a Steam Deck/Linux set-up guide here https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Enderal:-Emissaries-of-Tux 
+
 ### <ins>Performance</ins>
 
 As noted above, Emissaries of Tux is designed for the performance profile of the Steam Deck, but that doesn’t mean it’s limited to that platform! It’s also a great, content-full, lightweight (in terms of performance) list for less powerful systems. There are no less than six Performance Profiles included that you can choose from, depending on if you wish to play with BFCO, your desired performance target, or system specs (if not the Steam Deck):
