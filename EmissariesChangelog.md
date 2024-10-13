@@ -1,48 +1,47 @@
 Beta 1.1
 
-ElSopa - Safe And Strongbox Redone
-CC's Enhanced Ore Veins SSE - 2K - 9.0.1
-JS Dragon Claws SE
-Enderal Recolours Recreated
-Enderal - Mesh Fixes Overdev
-Enderal - Beacon Mesh Fix
-Suntemple Copper Roof - Complex Material
-Custom standalone replacers
-Starling Spider Replacer
-Sparky - a fairy companion
-Sparky - Wisp Replacer
-Artifacts - The Ice Blade of the Monarch
-Ice Blade - Frost Elemental Replacer
-Dwarven Defenders- Mihail Monsters and Animals (SE-AE version) (''dwemer'')
-Dwarven Defenders - Starling Guardians Replacer
-Dwarven Colossus - Mihail Monsters and Animals (SE-AE version) (''dwemer'')
-Dwarven Colosus - Starling Centurions Replacer
-Dwarven Automatons Pack - My optimized textures and Ancient Dwemer Metal patch SE by Xtudo
-Mating Crabs- Mihail Monsters and Animals (SE-AE version)
-Mating Crabs - crabs replacer
-Mammoth Expansion - Mihail Monsters and Animals (SE-AE version) (''megafauna'')
-Mammoth Expansion - Fourtusk Replacer
-Storm Golem- Mihail Monsters and Animals (SE-AE version) (''atronach'')
-Storm Golem - Soil Elemental Replacer
-Moon Monk's Robes
-Vanilla Armor Replacer SE (all credits to Kolapon)
-Wizard Hats
-Wayfarer's Coat
-Styles of Skyrim Mashups - Court Wizard Robes Variations
-Breton Apparel - Imperial Renaissance
-Breton Mage Robes
-Traveler's Armor Pack - Visually Upgradeable Outfit - Vanilla - CBBE
-College Prestige Mage Outfit SE by Xtudo
-College Prestige Mage Outfit by Xtudo SE UPDATE
-JS Circlet Replacer
-Elegant Necklaces
-Wilderness Witch Outfit
-Wildernesss Witch Outfit - Male Version
-Kreiste's Scholar Outfit (CBBE - HIMBO)
-SKYBLIVION - master Necromancer Robes
-Styles of Skyrim - Alchemist Outfit Variations
-EAWO - Only some of the stuff
-Eclipse Mage Outfit HDT-SMP
-Eclipse Mage Outfit - Non-HDT patch and fixes SE by Xtudo
-Cain9580 - Reiko Samurai Armor Full Retexture
-Emissaries Custom Armors
+- ElSopa - Safe And Strongbox Redone
+- CC's Enhanced Ore Veins SSE - 2K - 9.0.1
+- JS Dragon Claws SE
+- Enderal Recolours Recreated
+- Enderal - Mesh Fixes Overdev
+- Enderal - Beacon Mesh Fix
+- Suntemple Copper Roof - Complex Material
+- Custom standalone replacers
+- Starling Spider Replacer
+- Sparky - a fairy companion
+- Sparky - Wisp Replacer
+- Artifacts - The Ice Blade of the Monarch
+- Ice Blade - Frost Elemental Replacer
+- Dwarven Defenders- Mihail Monsters and Animals (SE-AE version) (''dwemer'')
+- Dwarven Defenders - Starling Guardians Replacer
+- Dwarven Colossus - Mihail Monsters and Animals (SE-AE version) (''dwemer'')
+- Dwarven Colosus - Starling Centurions Replacer
+- Dwarven Automatons Pack - My optimized textures and Ancient Dwemer Metal patch SE by Xtudo
+- Mating Crabs- Mihail Monsters and Animals (SE-AE version)
+- Mating Crabs - crabs replacer
+- Mammoth Expansion - Mihail Monsters and Animals (SE-AE version) (''megafauna'')
+- Mammoth Expansion - Fourtusk Replacer
+- Storm Golem- Mihail Monsters and Animals (SE-AE version) (''atronach'')
+- Storm Golem - Soil Elemental Replacer
+- Moon Monk's Robes
+- Vanilla Armor Replacer SE (all credits to Kolapon)
+- Wizard Hats
+- Wayfarer's Coat
+- Styles of Skyrim Mashups - Court Wizard Robes Variations
+- Breton Apparel - Imperial Renaissance
+- Breton Mage Robes
+- Traveler's Armor Pack - Visually Upgradeable Outfit - Vanilla - CBBE
+- College Prestige Mage Outfit SE by Xtudo
+- College Prestige Mage Outfit by Xtudo SE UPDATE
+- JS Circlet Replacer
+- Elegant Necklaces
+- Wilderness Witch Outfit
+- Wildernesss Witch Outfit - Male Version
+- Kreiste's Scholar Outfit (CBBE - HIMBO)
+- SKYBLIVION - master Necromancer Robes
+- Styles of Skyrim - Alchemist Outfit Variations
+- EAWO - Only some of the stuff
+- Eclipse Mage Outfit HDT-SMP
+- Eclipse Mage Outfit - Non-HDT patch and fixes SE by Xtudo
+- Cain9580 - Reiko Samurai Armor Full Retexture
