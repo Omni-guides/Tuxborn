@@ -21,21 +21,26 @@ Tuxborn supports only the Anniversary Edition of Skyrim on Steam, updated to **v
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ouruboros)
 
+---
+
 ### <ins>Performance</ins>
 
 While Tuxborn was initially *designed* for the performance profile of the Steam Deck, that doesn’t mean it’s limited to that platform! It’s also a great, content-full, lightweight (in terms of performance) list for less powerful systems. There are no less than six Performance Profiles included that you can choose from, depending on if you wish to play with BFCO (Combat Animation Framework), your desired performance target, or system specs (if not the Steam Deck):
 
-**Tuxborn – Deck:** This profile aims for a locked 40FPS experience on the Steam Deck.
-**Tuxborn - Deck CS:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.
-**Tuxborn – Desktop:** This profile is for slightly more powerful PCs, has an expanded Community Shaders suite and higher INI settings. Performance of this profile will depend on your system specs.
+**Tuxborn – Deck:** This profile aims for a locked 40FPS experience on the Steam Deck.  
+**Tuxborn - Deck CS:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.  
+**Tuxborn – Desktop:** This profile is for slightly more powerful PCs, has an expanded Community Shaders suite and higher INI settings. Performance of this profile will depend on your system specs.  
 
-**Tuxborn – Deck BFCO:** This profile aims for a locked 40FPS experience on the Steam Deck, and includes the BFCO Combat Animation Framework.
-**Tuxborn - Deck CS BFCO:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile, and includes the BFCO Combat Animation Framework.
-**Tuxborn – Desktop BFCO:** This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO Combat Animation Framework. Performance of this profile will depend on your system specs.
+**Tuxborn – Deck BFCO:** This profile aims for a locked 40FPS experience on the Steam Deck, and includes the BFCO Combat Animation Framework.  
+**Tuxborn - Deck CS BFCO:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile, and includes the BFCO Combat Animation Framework.  
+**Tuxborn – Desktop BFCO:** This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO Combat Animation Framework. Performance of this profile will depend on your system specs.  
 
 While the Deck and Deck CS profiles _target_ a locked FPS, **they are not capped at those figures**. Instead, it is expected that Deck users use the frame limiting feature of the Steam Deck to cap the FPS. Frame limits can be set via SSEDisplayTweaks - See the FAQ section for details on how to do this.
 
 Please Note: Due to the need for shader cache building on the Steam Deck, there may be a noticeable stutter in the first 1-2 hours while the cache builds. It should be good after that.
+
+
+---
 
 
 ### <ins>Features</ins>
@@ -62,7 +67,11 @@ A full list of mods included in the list can be found on the [Load Order Library
 
 **NPC Changes:** We have been careful to enhance the visuals for NPCs throughout the game world, without going for the "supermodels everywhere" look. A carefully thought out list of NPC mods and replacers, combined with a hand-picked merge of multiple NPC mods, creates a vast improvement on the Vanilla experience, while maintining immersion in how characters appear.
 
-**Content:** Tuxborn aims to include as much of the good quality quest content and enhancements, including (but not limited to) [Legacy of the Dragonborn (v6)](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [JaySerpa Quest Expansion Series](https://next.nexusmods.com/profile/jayserpa/mods?gameId=1704), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Beyond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008), [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998), [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789), [The Grey Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509), [Falskaar](https://www.nexusmods.com/skyrimspecialedition/mods/2057), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341/) plus a whole load of smaller quest mods!
+**Content:** Tuxborn aims to include as much of the good quality quest content and enhancements, including (but not limited to) [Legacy of the Dragonborn (v6)](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [JaySerpa Quest Expansion Series](https://next.nexusmods.com/profile/jayserpa/mods?gameId=1704), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Byeond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008), [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998), [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789), [The Grey Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509), [Falskaar](https://www.nexusmods.com/skyrimspecialedition/mods/2057), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341/) plus a whole load of smaller quest mods!
+
+
+---
+
 
 ### <ins>Miscellaneous changes</ins>
 
@@ -76,13 +85,13 @@ We've done the xEdit bit for you, but you will still have to set your fallback p
 
 ### <ins>Optional Mods</ins>
 
-**Custom Presets Go in Here:** An empty folder to put any custom racemenu presets in (.jslot file format).
-**SSE FPS Stabilizer:** A SKSE plugin that dynamically changes settings based on a performance target, can be disabled if you run into weird performance issues.
-**Small HUD:** Makes the HUD smaller in scale.
-**Lower Render Resolution:** An optional mod that lowers the render scaling to 0.75 to help with performance on handhelds that have 1080p and higher screen resolutions.
-**Skyrim Upscaler:** DLSS FSR2 XeSS: more FPS or longer battery life with the help of FSR upscaling.
-**Enemy (R)Evolution of Skyrim:** EEOS: gives npc more perks and spells to use against you.
-**Masculine Animations for Female PCs/Feminine Animations for Male PCs:** changes some animations for the Player Character.
+**Custom Presets Go in Here:** An empty folder to put any custom racemenu presets in (.jslot file format).  
+**SSE FPS Stabilizer:** A SKSE plugin that dynamically changes settings based on a performance target, can be disabled if you run into weird performance issues.  
+**Small HUD:** Makes the HUD smaller in scale.  
+**Lower Render Resolution:** An optional mod that lowers the render scaling to 0.75 to help with performance on handhelds that have 1080p and higher screen resolutions.  
+**Skyrim Upscaler:** DLSS FSR2 XeSS: more FPS or longer battery life with the help of FSR upscaling.  
+**Enemy (R)Evolution of Skyrim:** EEOS: gives npc more perks and spells to use against you.  
+**Masculine Animations for Female PCs/Feminine Animations for Male PCs:** changes some animations for the Player Character.  
 
 ---
 
@@ -100,6 +109,8 @@ For both the installation via Wabbajack and playing the modlist (either on Windo
 Downloads for Tuxborn are currently ~112GB, and the resulting modlist install size on disk is ~176GB. Wabbajack lists generally advise having an aditional 40GB of space available for temporary files that will be removed after the install process, so **you will need at least a total of 330GB** free disk space on your system to download and install Tuxborn. Deck users, the downloads and install **can** live on different storage (Internal and SDCard). This is covered in more depth in the Steam Deck install guide. If you do not have enough disk space on deck, or just don't want to run Wabbajack there, you can install Tuxborn on any other system that will run Wabbajack, and then transfer the modlist install directory to the Steam Deck. If you are using this method, you do not need to transfer the Downloads directory, only the Install directory, so you will need at least 176GB of free space on the Steam Deck or SD Card.
 
 ### <ins>Wabbajack</ins>
+
+Tuxborn can only be installed using the Wabbajak application. There are different meethods required depending on if you are running the Wabbajack installation on Windows or Linux/Steam Deck.
 
 
 ### <ins>Steam Deck/Linux</ins>
@@ -130,8 +141,6 @@ Once ready, click the Play button in Wabbajack to begin the Wabbajack process.
 
 Downloading any Wabbajack Modlist can take a while - how quickly it completes will depend on the speed of your internet connection and processing power of your PC.
 
-If you are going to be playing on a Windows system, you can skip ahead to [Starting the Game](https://github.com/Omni-guides/Tuxborn#starting-the-game).
-
 
 ---
 
@@ -139,13 +148,15 @@ If you are going to be playing on a Windows system, you can skip ahead to [Start
 # Starting the Game
 
 
-### <ins>Profiles</ins>
-
 **Steam Deck Users:** If you plan to use one of the BFCO profiles, due to a clash between RaceMenu, Steam Input and Bethesda "helping", you will need to add `steamdeck=0` to the launch options in Steam:
 
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_SteamDeck0.png" width="400">
 
+You should also temporarily map the 'R' key so that you can initiate the Character Naming pop-up during character creation. You could for example map it to one of the back buttons. This is only needed for Character Creation. You can thank Todd for this requirement.
+
 **Everyone:**
+
+### <ins>Profiles</ins>
 
 There are six MO2 Profiles to choose from. Select the profile you want to use in the top left of MO2.
 
@@ -165,10 +176,10 @@ YOU WILL BREAK MANY MANY THINGS. DO NOT PRESS THE BUTTON! ⚠️ ❗
 
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_AnniversarySkip.png" width="400">
 
-    Press A followed by X, and X again, or Enter, Escape, Escape on keyboard.
+Press A followed by X, and X again on Deck/Gamepad, or Enter, Escape, Escape on keyboard. You do not have to re-download the CC Content.
 
  * Lack of some controls during Character Creation - restart Tuxborn one last time
- * Can't name Character on BFCO Profiles - see above guidance for adding `steamdeck=0` to launch options.
+ * Can't name Character on BFCO Profiles - see [above guidance](https://github.com/Omni-guides/Tuxborn/edit/main/Readme2.md#starting-the-game) for adding `steamdeck=0` to launch options.
 
 ### <ins>In-Game</ins>
 
@@ -186,22 +197,22 @@ There are a few changes to the keybinds/buttons in use with the BFCO-based Tuxbo
 
 **Controller**
 
-X = Dodge/Sprint
-LB = Block with 1h+Spell
-LT = Block everything else
-RB = Heavy Attack
-RT = Light Attack
-L3 = Shout/Power
-Dpad Left = Sheath Weapon
-Dpad Down = Sneak
+X = Dodge/Sprint  
+LB = Block with 1h+Spell  
+LT = Block everything else  
+RB = Heavy Attack  
+RT = Light Attack  
+L3 = Shout/Power  
+Dpad Left = Sheath Weapon  
+Dpad Down = Sneak  
 
 **Keyboard**
 
-V = Block with 1h+Spell
-Alt = Dodge/Sprint
-G = Heavy Attack
-M1 = Block everything else
-M2 = Light Attack
+V = Block with 1h+Spell  
+Alt = Dodge/Sprint  
+G = Heavy Attack  
+M1 = Block everything else  
+M2 = Light Attack  
 
 (Keyboard users on the BFCO profile will need to select the Combat Keyboard Keys under optionals and disable Tuxborn Combat Controller Input in MO2.
 
@@ -209,32 +220,32 @@ M2 = Light Attack
 
 Vanilla Quests
 ------------------------------
-Thieves Guild Requirements:
+Thieves Guild Requirements: Sneak Skill: 50, Pockets Picked: 25, Items Stolen: 250
 
 CC Quests
 ------------------------------
 Most have been delayed with Rebalancing Anniversary Edition, you can check the mcm in game for details. Some notibales changes are:
 
-**Saints and Seducers:** Level 30
-**Hendraheim:** Level 25
-**Myrwatch:** Magicka level of at least 350
-**Gallows Hall:** Level 35
+**Saints and Seducers:** Level 30  
+**Hendraheim:** Level 25  
+**Myrwatch:** Magicka level of at least 350  
+**Gallows Hall:** Level 35  
 
 
 Quests Mods
 ------------------------------
-**Beyond Reach:** At level 25 in a large city in Skyrim
-**VIGILANT:** After level 25 in the Windpeak Inn
-**GLENMORIL:** After level 30 at the maingate of Falkreath
-**UNSLAAD:** After level 40, by touching the doll in the High Hrothgar courtyard
-**Gray Cowl:** After level 10, be the dragonborn and finish the thieves guild. Steal something to start.
-**Moonpath:** Part of Lotd, will start when collected enough for the museum and after the Way of the Voice
-**Moon and Star:** - After the Way of the Voice in any settlment in Skyrim
-**AHO:** - Visit the Braidwood Inn and investigate a suspicious orc at Mixwater Mill
-**Helgen Reborn:** At level 20 and after Bleak Falls in any settlement in Skyrim
-**Forgotten City:** At level 25 in any settlment in Skyrim
-**Undeath:** At level 30 with Enchanting 50 and Conjuration 75 look for a note in the Silver-Blood Inn
-**The Wheel of Time:** Other side of the river of the Riverwood mill
+**Beyond Reach:** At level 25 in a large city in Skyrim.  
+**VIGILANT:** After level 25 in the Windpeak Inn.  
+**GLENMORIL:** After level 30 at the maingate of Falkreath.  
+**UNSLAAD:** After level 40, by touching the doll in the High Hrothgar courtyard.  
+**Gray Cowl:** After level 10, be the dragonborn and finish the thieves guild. Steal something to start.  
+**Moonpath:** Part of Lotd, will start when collected enough for the museum and after the Way of the Voice.  
+**Moon and Star:** - After the Way of the Voice in any settlment in Skyrim.  
+**AHO:** - Visit the Braidwood Inn and investigate a suspicious orc at Mixwater Mill.  
+**Helgen Reborn:** At level 20 and after Bleak Falls in any settlement in Skyrim.  
+**Forgotten City:** At level 25 in any settlment in Skyrim.  
+**Undeath:** At level 30 with Enchanting 50 and Conjuration 75 look for a note in the Silver-Blood Inn.  
+**The Wheel of Time:** Other side of the river of the Riverwood mill.  
 
 If the mod/quest isn't listed above, please check the orginal mods page for how to start it, or what the requirements are.
 
@@ -243,7 +254,7 @@ If the mod/quest isn't listed above, please check the orginal mods page for how 
 
 **Steam Deck Specific:**
 
-⚠️ ❗ **Photo Mode:** We've included [PhotoMode](), but unfortunately the button mapping for controlling it is very troublesome on gamepad/deck on the BFCO profiles - you can end up with the camera a bit stuck. To get out of this stuck camera, you need to run "tfc" twice in the in-game console. Unfortunately, this does not work on Steam Deck. Thanks to Todd for that one. ⚠️ ❗
+⚠️ ❗ **Photo Mode:** We've included [PhotoMode](https://www.nexusmods.com/skyrimspecialedition/mods/91701), but unfortunately the button mapping for controlling it is very troublesome on gamepad/deck on the BFCO profiles - you can end up with the camera a bit stuck. To get out of this stuck camera, you need to run "tfc" twice in the in-game console. Unfortunately, this does not work on Steam Deck. Thanks to Todd for that one. ⚠️ ❗
 
 Boot Time of the game - Modded Skyrim can take an awfully long time to boot on Steam Deck. Even more when you have as much content as Tuxborn does, and have so many methods applied to try and squeeze out every FPS we can. Timing on the original LCD Steam Deck, it takes roughly 10 minutes to fully load the game to the main menu. We have tried to bring this down, but is part of the cost of having so many mods included in the list. If we discover any way to lessen this initial load time, we will absolutely implement it.
 
@@ -296,7 +307,7 @@ You are free to install you own mods into Tuxborn, but this voides your offical 
 
  * It takes ages to load the game! - Yes, especially on handhelds, it can take 10 minutes to fully load. Sadly this is unavoidable with the mount of content and the hardware of most handheld devices.
 
- * An update has been released, how do I update Tuxborn? - Windows users can see [here]() for guidance on updating the list, while Steam Deck users can see [here]()
+ * An update has been released, how do I update Tuxborn? - Windows users can see [here](https://github.com/Omni-guides/Tuxborn/edit/main/Readme2.md#updating-the-modlist) for guidance on updating the list, while Steam Deck users can see [here]()
 
   * On Steam Deck, Mod Organizer closes instantly when I press play! - Mod Organizer will crash if you use the touchscreen while in Desktop mode on the Deck. We do not know why, but will implement a solution if one is found.
 
@@ -304,7 +315,7 @@ You are free to install you own mods into Tuxborn, but this voides your offical 
 
   * It's too dark at night! - This can be a side effect of the lighting mods. The best option here is to craft a lantern and attach it to your character.
 
-  * I have levelled up but didn't get the option to increase my skills! - This is part of Static Skill Levelling. Once you sleep, you will be able to apply the skill points.
+  * Using Survival mode, I have levelled up but didn't get the option to increase my skills! - This is part of Static Skill Levelling. Once you sleep, you will be able to apply the skill points.
 
   * How do I change resolution or the Framerate limit? - These are both controlls by the SSEDisplayTweaks.ini contained within the "Tuxborn - Settings" mod entry under the "Patcher Output" section in MO2.
 
