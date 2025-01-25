@@ -127,7 +127,7 @@ Very soon, Tuxborn should be available directly from the Wabbajack Modlist Galle
 
 Open Wabbajack, and click the “Install from Disk” option.
 
-<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_FromDisk.png" width="400">
+<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_FromDisk.png" width="600">
 
 Browse to where you downloaded and extracted the Tuxborn.wabbajack file, select it, and click OK.
 
@@ -137,7 +137,7 @@ Click the Cog icon in the top-right of Wabbajack, then 'login' next to the Nexus
 
 Once ready, click the Play button in Wabbajack to begin the Wabbajack process.
 
-<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_WJReady.png" width="400">
+<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_WJReady.png" width="600">
 
 Downloading any Wabbajack Modlist can take a while - how quickly it completes will depend on the speed of your internet connection and processing power of your PC.
 
@@ -150,7 +150,7 @@ Downloading any Wabbajack Modlist can take a while - how quickly it completes wi
 
 **Steam Deck Users:** If you plan to use one of the BFCO profiles, due to a clash between RaceMenu, Steam Input and Bethesda "helping", you will need to add `steamdeck=0` to the launch options in Steam:
 
-<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_SteamDeck0.png" width="400">
+<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_SteamDeck0.png" width="600">
 
 You should also temporarily map the 'R' key so that you can initiate the Character Naming pop-up during character creation. You could for example map it to one of the back buttons. This is only needed for Character Creation. You can thank Todd for this requirement.
 
@@ -160,11 +160,11 @@ You should also temporarily map the 'R' key so that you can initiate the Charact
 
 There are six MO2 Profiles to choose from. Select the profile you want to use in the top left of MO2.
 
-<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_SelectProfile.png" width="400">
+<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_SelectProfile.png" width="600">
 
 To start the Tuxborn, make sure “Tuxborn” is selected in the top right, and then click Play!
 
-<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_ClickPlay.png" width="400">
+<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_ClickPlay.png" width="600">
 
 ⚠️ ❗ UNDER NO CIRCUMSTANCES PRESS THE “UNLOCK” BUTTON WHEN YOU HAVE LOADED SOMETHING THROUGH MOD-ORGANIZER.
 YOU WILL BREAK MANY MANY THINGS. DO NOT PRESS THE BUTTON! ⚠️ ❗
@@ -174,7 +174,7 @@ YOU WILL BREAK MANY MANY THINGS. DO NOT PRESS THE BUTTON! ⚠️ ❗
  * Crash on first launch during shader compilation
  * Anniversary Edition Content prompt:
 
-<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_AnniversarySkip.png" width="400">
+<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_AnniversarySkip.png" width="600">
 
 Press A followed by X, and X again on Deck/Gamepad, or Enter, Escape, Escape on keyboard. You do not have to re-download the CC Content.
 
@@ -187,7 +187,7 @@ Tuxborn makes use of the [Alternate Start - Life another life SSE](https://www.n
 
 After making your Character, PLEASE WAIT until there are no longer any notification messages show in the top-left of the screen.
 
-<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_In-gameNotifications.png" width="400">
+<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_In-gameNotifications.png" width="600">
 
 When no more messages are displayed (the finaly message should be XXXXXXX), pick up the book ont he table, and then speak to the statue and select your Alternative Startm then sleep in the bed as directed to being your adventure!
 
@@ -292,7 +292,7 @@ Please note that Pull Requests to this github for small issues may have the sugg
 
 Before updating please backup your saves and CharGen presets, just in case. Repeat the same steps with Wabbajack from the Installation section, but make sure you toggle on the “Overwrite Existing Modlist” checkbox in the bottom right.
 
-<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_WJOverwrite.png" width="400">
+<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_WJOverwrite.png" width="600">
 
 Unless otherwise stated, generally Modlist version 0.0.X updates are save-safe, any others are not.
 
@@ -327,5 +327,5 @@ Omni and Ouroboros would like to thank the entire Wabbajack community for being 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ouruboros)
 
 <p align="center">
-<img src="https://staticdelivery.nexusmods.com/mods/1704/images/114206/114206-1710857643-828352312.jpeg" width="400">
+<img src="https://staticdelivery.nexusmods.com/mods/1704/images/114206/114206-1710857643-828352312.jpeg" width="600">
 </p>
