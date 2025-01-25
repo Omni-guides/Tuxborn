@@ -132,7 +132,7 @@ Once you are ready, click the Play button and the Wabbajack application should s
 
 <img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/WabbajackProton/WabbajackProton_WabbajackClickPlay.png" width="600">
 
-As a reminder, running Wabbajack on Linux/SteamOS is not a supported method, but we've done what we can to make things work as smoothly as they can. You may encounter crashes, or hanging - if this happens you can just restart Wabbajack, Click Install from disk, and click Play again - it should have re-populated your previous paths etc. It also may appear to have hung, but hasn't - This is especially true during the Building BSA's part of the Wabbjack process - please be extra patient here as it takes **a vary log time** on the Steam Deck hardware (See [Additional Notes]() for some indication of install times on Steam Deck.)
+As a reminder, running Wabbajack on Linux/SteamOS is not a supported method, but we've done what we can to make things work as smoothly as they can. You may encounter crashes, or hanging - if this happens you can just restart Wabbajack, Click Install from disk, and click Play again - it should have re-populated your previous paths etc. It also may appear to have hung, but hasn't - This is especially true during the Building BSA's part of the Wabbjack process - please be extra patient here as it takes **a vary log time** on the Steam Deck hardware (See [Additional Notes](https://github.com/Omni-guides/Tuxborn/blob/main/TuxbornSteamDeckFullInstall.md#additionals-notes) for some indication of install times on Steam Deck.)
 
 ### STEP 3 - Post-Wabbajack Steps
 
@@ -196,7 +196,7 @@ You will be prompted for your *sudo* password so that various permissions can be
 
 <img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/omni-guides.sh/Omni-Guides-sh_SudoPassword.png" width="600">
 
-Lastly, you will be asked if you want to set the resolution. This is optional but I'm trying to reduce the manual steps as much as I can. If you're running this on a Steam Deck, it will assume the desired resolution is 1280x800 (If you are going to be playing while docked, you will have to manually alter the resolution via MO2 in the "Tuxborn - Settings" -> INI Files -> SSEDisplayTweaks.ini file. See [Additional Notes]() below for more information). If you are not running this script on a Steam Deck, you will be asked to input your desired resolution, in the format 1920x1080.
+Lastly, you will be asked if you want to set the resolution. This is optional but I'm trying to reduce the manual steps as much as I can. If you're running this on a Steam Deck, it will assume the desired resolution is 1280x800 (If you are going to be playing while docked, you will have to manually alter the resolution via MO2 in the "Tuxborn - Settings" -> INI Files -> SSEDisplayTweaks.ini file. See [Additional Notes](https://github.com/Omni-guides/Tuxborn/blob/main/TuxbornSteamDeckFullInstall.md#additionals-notes) below for more information). If you are not running this script on a Steam Deck, you will be asked to input your desired resolution, in the format 1920x1080.
 
 <img src="https://github.com/Omni-guides/Wabbajack-Modlist-Linux/blob/main/images/omni-guides.sh/Omni-Guides-sh_SetResolution.png" width="600">
 
@@ -243,7 +243,7 @@ First point to note is the 'Unlock' button that will appear shortly after you cl
 ⚠️ ❗ UNDER NO CIRCUMSTANCES PRESS THE “UNLOCK” BUTTON WHEN YOU HAVE LOADED SOMETHING THROUGH MOD-ORGANIZER.
 YOU WILL BREAK MANY MANY THINGS. DO NOT PRESS THE BUTTON! ⚠️ ❗
 
-Second thing to note, is the time it takes to boot the game. It takes a long, long (long) time to boot the game on Steam Deck. This has only been made worse with some recent changes to SteamOS. It can literally take 10+ minutes for the game to fully launch on Steam Deck (See [Additional Notes]() for some examples of timings). Rest assured we are looking into any possible way we can reduce this because it's a massive pain in the... As soon as we have anything that will help reduce this loading time, we will implement it. Running Tuxborn from SDCard will only make this initial load time worse, but it _will get there_, and regardless of internal storage or SD Card, once it's loaded, it will be fine.
+Second thing to note, is the time it takes to boot the game. It takes a long, long (long) time to boot the game on Steam Deck. This has only been made worse with some recent changes to SteamOS. It can literally take 10+ minutes for the game to fully launch on Steam Deck (See [Additional Notes](https://github.com/Omni-guides/Tuxborn/blob/main/TuxbornSteamDeckFullInstall.md#additionals-notes) for some examples of timings). Rest assured we are looking into any possible way we can reduce this because it's a massive pain in the... As soon as we have anything that will help reduce this loading time, we will implement it. Running Tuxborn from SDCard will only make this initial load time worse, but it _will get there_, and regardless of internal storage or SD Card, once it's loaded, it will be fine.
 
 Thirdly, there are a series of crashes the first few times you launch the game. This is something to do with running Tuxborn via Proton. Again, we are actively looking into anything we can do to reduce or remove the couple of crashes the first few times you launch Tuxborn.
 
