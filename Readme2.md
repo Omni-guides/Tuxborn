@@ -98,7 +98,7 @@ We've done the xEdit bit for you, but you will still have to set your fallback p
 
 # Installation
 
-For Windows players, follow the Wabbajack instructions below, and once the Wabbajack installation is complete, run the ModOrganizer.exe file located in the Tuxborn install directory you selected in Wabbajack to start and launch the modlist. On Steam Deck, the process is a little more involved, so see below for [TODO: installation instructions](), but please read through the below as well as the information still applies.
+For Windows players, follow the Wabbajack instructions below, and once the Wabbajack installation is complete, run the ModOrganizer.exe file located in the Tuxborn install directory you selected in Wabbajack to start and launch the modlist. On Steam Deck, the process is a little more involved, so see below for [Installation instructions](https://github.com/Omni-guides/Tuxborn/blob/main/TuxbornSteamDeckFullInstall.md), but please read through the below as well as the information still applies. Once You have have completed the Wabbajack Installation on Deck, return to this guide, rejoining at [Starting the Game](https://github.com/Omni-guides/Tuxborn/edit/main/Readme2.md#starting-the-game).
 
 For best results, you should consider fully uninstalling and reinstalling Skyrim from your system prior to installing the Modlist via Wabbajack. This will ensure that there are no additional, unneeded or unclean files that could interrupt or make the Wabbajack installation process fail.
 
@@ -115,7 +115,7 @@ Tuxborn can only be installed using the Wabbajak application. There are differen
 
 ### <ins>Steam Deck/Linux</ins>
 
-As mentioned above, it is now possible to run Wabbajack directly on the Steam Deck (or any Linux system), though this method is still considered experimental until we get more data with regards to full success rates. If you wish to use this method, see the [Steam Deck Install Guide](). Alternatively, you can download Tuxborn using a Windows system using the below Windows instructions, and then transfer the Modlist Install Directory to the Deck (see [here]() for some methods of transferring the data to the Steam Deck).
+As mentioned above, it is now possible to run Wabbajack directly on the Steam Deck (or any Linux system), though this method is still considered experimental until we get more data with regards to full success rates. If you wish to use this method, see the [Steam Deck Install Guide](https://github.com/Omni-guides/Tuxborn/blob/main/TuxbornSteamDeckFullInstall.md). Alternatively, you can download Tuxborn using a Windows system using the below Windows instructions, and then transfer the Modlist Install Directory to the Deck (see [here]() for some methods of transferring the data to the Steam Deck).
 
 ### <ins>Windows</ins>
 
@@ -152,9 +152,9 @@ Downloading any Wabbajack Modlist can take a while - how quickly it completes wi
 
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_SteamDeck0.png" width="600">
 
-You should also temporarily map the 'R' key so that you can initiate the Character Naming pop-up during character creation. You could for example map it to one of the back buttons. This is only needed for Character Creation. You can thank Todd for this requirement.
+You should also temporarily map the 'R' key so that you can initiate the Character Naming pop-up during character creation. You could for example map it to one of the back buttons using Steam Input configuration. This is only needed for Character Creation. You can thank Todd for this requirement.
 
-**Everyone:**
+**All Players:**
 
 ### <ins>Profiles</ins>
 
@@ -214,7 +214,7 @@ G = Heavy Attack
 M1 = Block everything else  
 M2 = Light Attack  
 
-(Keyboard users on the BFCO profile will need to select the Combat Keyboard Keys under optionals and disable Tuxborn Combat Controller Input in MO2.
+(Keyboard users on the BFCO profile will need to select the Combat Keyboard Keys under optionals and disable Tuxborn Combat Controller Input in MO2.)
 
 ### <ins>Important Quest/Level Requirements</ins>
 
@@ -240,8 +240,8 @@ Quests Mods
 **UNSLAAD:** After level 40, by touching the doll in the High Hrothgar courtyard.  
 **Gray Cowl:** After level 10, be the dragonborn and finish the thieves guild. Steal something to start.  
 **Moonpath:** Part of Lotd, will start when collected enough for the museum and after the Way of the Voice.  
-**Moon and Star:** - After the Way of the Voice in any settlment in Skyrim.  
-**AHO:** - Visit the Braidwood Inn and investigate a suspicious orc at Mixwater Mill.  
+**Moon and Star:** After the Way of the Voice in any settlment in Skyrim.  
+**AHO:** Visit the Braidwood Inn and investigate a suspicious orc at Mixwater Mill.  
 **Helgen Reborn:** At level 20 and after Bleak Falls in any settlement in Skyrim.  
 **Forgotten City:** At level 25 in any settlment in Skyrim.  
 **Undeath:** At level 30 with Enchanting 50 and Conjuration 75 look for a note in the Silver-Blood Inn.  
@@ -254,7 +254,7 @@ If the mod/quest isn't listed above, please check the orginal mods page for how 
 
 **Steam Deck Specific:**
 
-⚠️ ❗ **Photo Mode:** We've included [PhotoMode](https://www.nexusmods.com/skyrimspecialedition/mods/91701), but unfortunately the button mapping for controlling it is very troublesome on gamepad/deck on the BFCO profiles - you can end up with the camera a bit stuck. To get out of this stuck camera, you need to run "tfc" twice in the in-game console. Unfortunately, this does not work on Steam Deck. Thanks to Todd for that one. ⚠️ ❗
+⚠️ ❗ **Photo Mode:** We've included [PhotoMode](https://www.nexusmods.com/skyrimspecialedition/mods/91701), but unfortunately the button mapping for controlling it is very troublesome on gamepad/deck on the BFCO profiles - you can end up with the camera a bit stuck. To get out of this stuck camera, you need to run "tfc" twice in the in-game console. Unfortunately, this does not work on Steam Deck. Thanks to d for that one. ⚠️ ❗
 
 Boot Time of the game - Modded Skyrim can take an awfully long time to boot on Steam Deck. Even more when you have as much content as Tuxborn does, and have so many methods applied to try and squeeze out every FPS we can. Timing on the original LCD Steam Deck, it takes roughly 10 minutes to fully load the game to the main menu. We have tried to bring this down, but is part of the cost of having so many mods included in the list. If we discover any way to lessen this initial load time, we will absolutely implement it.
 
