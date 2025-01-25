@@ -20,6 +20,8 @@ The following should be carried out in Desktop mode.
 
 There are two parts to getting Tuxborn running on Steam Deck - Firstly the Wabbajack application, which will download and install the modlist, and secondly the post-install requirements. I have done my best to automate as much as I can of both parts (yes, doing this all manually would be _even longer_!)
 
+You will need to have Skyrim Special Edition Installed on your Deck, and have started it once to main menu, and allow it to download all the CC Content when prompted.
+
 
 ---
 
@@ -220,13 +222,13 @@ Select your desired profile in the top-left of MO2 - as a reminder there are 6 p
 
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_SelectProfile.png" width="600">
 
-Tuxborn – Deck: This profile aims for a locked 40FPS experience on the Steam Deck.  
-Tuxborn - Deck CS: This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.  
-Tuxborn – Desktop: This profile is for slightly more powerful PCs, has an expanded Community Shaders suite and higher INI settings. Performance of this profile will depend on your system specs.  
+**Tuxborn – Deck:** This profile aims for a locked 40FPS experience on the Steam Deck.  
+**Tuxborn - Deck CS:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.  
+**Tuxborn – Desktop:** This profile is for slightly more powerful PCs, has an expanded Community Shaders suite and higher INI settings. Performance of this profile will depend on your system specs.  
 
-Tuxborn – Deck BFCO: This profile aims for a locked 40FPS experience on the Steam Deck, and includes the BFCO Combat Animation Framework.  
-Tuxborn - Deck CS BFCO: This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile, and includes the BFCO Combat Animation Framework.  
-Tuxborn – Desktop BFCO: This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO Combat Animation Framework. Performance of this profile will depend on your system specs.  
+**Tuxborn – Deck BFCO:** This profile aims for a locked 40FPS experience on the Steam Deck, and includes the BFCO Combat Animation Framework.  
+**Tuxborn - Deck CS BFCO:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile, and includes the BFCO Combat Animation Framework.  
+**Tuxborn – Desktop BFCO:** This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO Combat Animation Framework. Performance of this profile will depend on your system specs.  
 
 Once you have made your choice, select it in the Profiles drop down.
 
