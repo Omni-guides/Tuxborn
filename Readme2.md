@@ -296,7 +296,7 @@ Before updating please backup your saves and CharGen presets, just in case. Repe
 
 Unless otherwise stated, generally Modlist version 0.0.X updates are save-safe, any others are not.
 
-Steam Deck users that used the Wabbajack on Windows plus transfer method to get Tuxborn onto the Deck, can either use Wabbajack directly on the deck to update the list, or use an application such as WinSCP to correctly update the Tuxborn data on deck. See [this guide](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/SyncToDeck) for details.
+Steam Deck users that used the Wabbajack on Windows plus transfer method to get Tuxborn onto the Deck, can either use Wabbajack directly on the deck to update the list, or use an application such as WinSCP to correctly update the Tuxborn data on deck. See [this guide](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/SyncToDeck/#updating-tuxborn) for details.
 
 ### <ins>Installing your own mods</ins>
 
