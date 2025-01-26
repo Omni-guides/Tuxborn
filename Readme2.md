@@ -148,7 +148,7 @@ Downloading any Wabbajack Modlist can take a while - how quickly it completes wi
 # Starting the Game
 
 
-**Steam Deck Users:** If you plan to use one of the BFCO profiles, due to a clash between RaceMenu, Steam Input and Bethesda "helping", you will need to add `steamdeck=0` to the launch options in Steam:
+**Steam Deck Users:** If you plan to use one of the BFCO profiles, due to a clash between RaceMenu, Steam Input and Bethesda "helping", you will need to add `steamdeck=0 %command%` to the launch options in Steam:
 
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_SteamDeck0.png" width="600">
 
@@ -189,7 +189,7 @@ After making your Character, PLEASE WAIT until there are no longer any notificat
 
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_In-gameNotifications.png" width="600">
 
-When no more messages are displayed (the finaly message should be XXXXXXX), pick up the book ont he table, and then speak to the statue and select your Alternative Startm then sleep in the bed as directed to being your adventure!
+When no more messages are displayed (the finaly message should be "Museum List Build Complete", and does take quite a while to appear, but only needs to happen once), pick up the book ont he table, and then speak to the statue and select your Alternative Startm then sleep in the bed as directed to being your adventure!
 
 ### <ins>Keybind Changes/Gamepad buttons</ins>
 
