@@ -322,7 +322,7 @@ You are free to install you own mods into Tuxborn, but this voides your offical 
 
 # Conclusion and Thanks
 
-Omni and Ouroboros would like to thank the entire Wabbajack community for being so awesome, but with a special mention for Althro, Cacophony, Arnold, Foamimi, colinswrath and Diana TES GotH, who have been a great help in us getting this far.
+Omni and Ouroboros would like to thank the entire Wabbajack community for being so awesome, but with a special mention for Althro, Cacophony, Arnold, Foamimi, colinswrath, Diana TES GotH, Stynx and Zooey, who have been a great help in us getting this far.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ouruboros)
 
