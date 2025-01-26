@@ -311,7 +311,9 @@ You are free to install you own mods into Tuxborn, but this voides your offical 
 
   * On Steam Deck, Mod Organizer closes instantly when I press play! - Mod Organizer will crash if you use the touchscreen while in Desktop mode on the Deck. We do not know why, but will implement a solution if one is found.
 
-  * How do I disable Stamina drain on Sneak? - This is part of Blade and Blunt. You can disable this feature but adding the following line to the Bladeandblunt.ini file contained within the "Tuxborn - Settings" mod entry under the "Patcher Output" section in MO2.
+  * How do I disable Stamina drain on Sneak? - This is part of Blade and Blunt. You can disable this feature but adding the following line to the Bladeandblunt.ini file contained within the "Tuxborn - Settings" mod entry under the "Patcher Output" section in MO2:
+
+    ```bEnableSneakStaminaCost = false```
 
   * It's too dark at night! - This can be a side effect of the lighting mods. The best option here is to craft a lantern and attach it to your character.
 
