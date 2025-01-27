@@ -98,7 +98,7 @@ We've done the xEdit bit for you, but you will still have to set your fallback p
 
 # Installation
 
-For Windows players, follow the Wabbajack instructions below, and once the Wabbajack installation is complete, run the ModOrganizer.exe file located in the Tuxborn install directory you selected in Wabbajack to start and launch the modlist. On Steam Deck, the process is a little more involved, so see below for [Installation instructions](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/TuxbornSteamDeckFullInstall.md), but please read through the below as well as the information still applies. Once You have have completed the Wabbajack Installation on Deck, return to this guide, rejoining at [Starting the Game](https://github.com/Omni-guides/Tuxborn/edit/main/Readme2.md#starting-the-game).
+For Windows players, follow the Wabbajack instructions below, and once the Wabbajack installation is complete, run the ModOrganizer.exe file located in the Tuxborn install directory you selected in Wabbajack to start and launch the modlist. On Steam Deck, the process is a little more involved, so see below for [Installation instructions](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/TuxbornSteamDeckFullInstall.md), but please read through the below as well as the information still applies. Once You have have completed the Wabbajack Installation on Deck, return to this guide, rejoining at [Starting the Game](https://github.com/Omni-guides/Tuxborn/edit/main/README.md#starting-the-game).
 
 For best results, you should consider fully uninstalling and reinstalling Skyrim from your system prior to installing the Modlist via Wabbajack. This will ensure that there are no additional, unneeded or unclean files that could interrupt or make the Wabbajack installation process fail.
 
@@ -179,7 +179,7 @@ YOU WILL BREAK MANY MANY THINGS. DO NOT PRESS THE BUTTON! ⚠️ ❗
 Press A followed by X, and X again on Deck/Gamepad, or Enter, Escape, Escape on keyboard. You do not have to re-download the CC Content.
 
  * Lack of some controls during Character Creation - restart Tuxborn one last time
- * Can't name Character on BFCO Profiles - see [above guidance](https://github.com/Omni-guides/Tuxborn/edit/main/Readme2.md#starting-the-game) for adding `steamdeck=0` to launch options.
+ * Can't name Character on BFCO Profiles - see [above guidance](https://github.com/Omni-guides/Tuxborn/edit/main/README.md#starting-the-game) for adding `steamdeck=0` to launch options.
 
 ### <ins>In-Game</ins>
 
@@ -307,7 +307,7 @@ You are free to install you own mods into Tuxborn, but this voides your offical 
 
  * It takes ages to load the game! - Yes, especially on handhelds, it can take 10 minutes to fully load. Sadly this is unavoidable with the mount of content and the hardware of most handheld devices.
 
- * An update has been released, how do I update Tuxborn? - Windows users can see [here](https://github.com/Omni-guides/Tuxborn/edit/main/Readme2.md#updating-the-modlist) for guidance on updating the list, while Steam Deck users can see [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/SyncToDeck/#updating-tuxborn)
+ * An update has been released, how do I update Tuxborn? - Windows users can see [here](https://github.com/Omni-guides/Tuxborn/edit/main/README.md#updating-the-modlist) for guidance on updating the list, while Steam Deck users can see [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/SyncToDeck/#updating-tuxborn)
 
   * On Steam Deck, Mod Organizer closes instantly when I press play! - Mod Organizer will crash if you use the touchscreen while in Desktop mode on the Deck. We do not know why, but will implement a solution if one is found.
 
