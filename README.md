@@ -8,6 +8,11 @@
 
 # Introduction
 
+### <ins>IMPORTANT</ins>
+
+Unfortunately, Tuxborn is not currently installable, due to a mod vanishing from Nexus Mods. We are working hard to bring it back available as quickly as we can, alongside the push towards a full 1.0 release.
+
+Apologies for the inconvenience, but the mod vanishing was out of our hands.
 
 ### <ins>About Tuxborn</ins>
 
