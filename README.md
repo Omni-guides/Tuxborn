@@ -10,9 +10,11 @@
 
 ### <ins>IMPORTANT</ins>
 
-Unfortunately, Tuxborn is not currently installable, due to a mod vanishing from Nexus Mods. We are working hard to bring it back available as quickly as we can, alongside the push towards a full 1.0 release.
+Only a Public Test build of Tuxborn is currently installable, due to a mod used in the previously stable version vanishing from Nexus Mods.
 
-Apologies for the inconvenience, but the mod vanishing was out of our hands.
+We are working as fast as we can to bring this public test to a final, stable 1.0 release. Unfortunately, we cannot at this time guarantee that saves will be compatible between this Public Test build, and the final release.
+
+Thank you for your understanding.
 
 ### <ins>About Tuxborn</ins>
 
