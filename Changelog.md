@@ -1,5 +1,368 @@
 # Tuxborn Changelog
 
+## 1.0 Public Test 2
+
+### Added
+
+ * 02a) HIMBO V5 - BG-DG-DB Refits
+ * 02b) HIMBO V5 - CC Refits
+ * Achievement Injector
+ * Achievement Injector - Unofficial Achievements and Patches
+ * Achievements for Various Mods
+ * Achievements_separator
+ * A Conversation - Quest Mod
+ * Adamant - A Perk Overhaul
+ * Adamant - Apocalypse Patch
+ * Adamant - Bard Perks Addon
+ * A Good Death - Old Orc Overhaul
+ * Ancient Dwemer Metal - My patches - CC Hopesfire
+ * Ancient Dwemer Metal - My patches - FINAL SE VERSION Update v7
+ * Anima Nera - SerketHetyt's Serana Overhaul
+ * AnnaTweaks-Unfaltered
+ * Arnima Patch 1 - Missing Keys (SPID)
+ * Ascend - Hidden Peaks of Skyrim
+ * Ascension
+ * A Shrine of Azura at The Shrine of Azura
+ * Attack dog replaced by the Mihail's Nord Mastiff - Optional SkyTEST - Vigilance - SE by Xtudo
+ * Azurite III - HDR
+ * Azurite Weathers and Seasons
+ * BA Bard Songs
+ * Beginner Bard Animations - For Skyrim's Got Talent
+ * BENDr Cleaned Skyrim SE Textures
+ * BENDr Mrf's Solitude
+ * Betalille's Hammerfell Quests Bundle - Patch for the 10th Anniversary Version
+ * Better Atronach Forge Offering Box - No More Dwemer Dresser - High Polygon Summoning Circle
+ * Better Forgotten Vale Portal Textures - Cubemaps - Environment maps
+ * Blended Roads
+ * BnP female skin (Replacer+Player version)
+ * Casual Dog Animations (DAR-OAR)
+ * Cathedral - 3D Pine Grass
+ * CBBE 3BA Vanilla Outfits Redone
+ * Chooey's Modular SMP Hairstyles Edit
+ * Cloud Shadows
+ * Common Clothing Retexture SE
+ * Considerate Followers - Followers are Silent During Dialogue
+ * Courageous - SerketHetyt's Melana Overhaul
+ * Creation Club Open Helmets 2.0 Patches
+ * CS Lights
+ * Custom Difficulty UI
+ * Custom Difficulty UI - Settings Loader
+ * Daedric Shrines AIO by Xtudo - FIXES
+ * Diverse Cairn Banners - Base Object Swapper
+ * Dragonborn Reskin - Modern Wait Menu
+ * Dragonborn Reskin - SkyUI Active Effects Icons
+ * Dragonborn Reskin - SkyUI Inventory Category Icons
+ * Dragonborn Reskin - Tween Menu
+ * Dragon Breath VFX Edit
+ * Dragon War - A Dragon Overhaul
+ * Dwemer Water Wheels - Markarth - Wyrmstooth - Base Object Swapper
+ * eFPS - Anniversary Edition
+ * eFPS - Exterior FPS boost
+ * eFPS - Official Patch Hub
+ * Embers XD Patched meshes for Light Placer
+ * Fancy Glowy Blackreach Mushrooms
+ * Faster HDT-SMP
+ * Final Farewell - Quest Mod
+ * Folkvangr - Grass and Landscape Overhaul
+ * Gravewind
+ * Hand to Hand - An Adamant Addon
+ * Hand to Hand - Locksmith Addon
+ * Hand to Hand - Trainers and Skill Books Addon
+ * Happy Little Trees Esp thing
+ * Healing VFX Edit
+ * Human Flesh - My version by Xtudo - 1K
+ * Human Flesh - My version by Xtudo - Apothecary
+ * Icy Mesh Remaster - ENB Addon
+ * Infinite Dragon Variants
+ * Interesting NPCs SE (3DNPC) Vanilla Duplicate NPC Visual Consistency SkyPatched
+ * Jesper the Guard - A Custom Voiced Follower (From the Series Skyrim Guard Tales)
+ * Jesper the Guard - Another Replacer
+ * JS Solitude Sewer Cover SE
+ * JS Solitude Sewers Cover SE - Skyrim Sewers Patch
+ * Kanjs - Atronachs
+ * Katana - Journey in the Shadows
+ * Lawless Simonrim
+ * Legacy of the Dragonborn Achievements
+ * LeveledList Crash Fix
+ * Lightning VFX Edit
+ * Light Placer
+ * Local Map Upgrade
+ * Lower Render Resolution
+ * Madmen Simonrim
+ * Main Menu
+ * Meeko Reborn SE
+ * Melana the War Maiden - An Evolving Custom Voiced Follower
+ * Meridia's Order - Pilgrim Synergy Patch
+ * Mfg Fix NG
+ * Modular SMP Hairstyles
+ * MOXIE - Masculine Skinblend (Male Skin) - 2K
+ * OBody Next Generation
+ * Obody_separator
+ * Olenveld
+ * Olenveld_Fix_Pack
+ * Olenveld Paper Map for FWMF by Limon
+ * Peltapalooza - Complex Parallax Occlusion
+ * Pig Iron - SE by Xtudo - Fixes Non-HDT
+ * Pig Iron Set
+ * Pilgrim - A Religion Overhaul
+ * Pilgrim - Daedric Shrines AIO and Sithis Patch
+ * Pilgrim HD
+ * Pilgrim Skillrate Alternative
+ * Pitbull Mastiffs- Mihail Monsters and Animals (SE-AE version) (''dog'')
+ * Placed Light
+ * Praedy's Blackreach deposits glowing rocks and falmer cave ceiling glow
+ * QuickLoot IE - A QuickLoot EE Fork
+ * QW's Grass Patch 2 - Origins of Forest Begone
+ * QW's Grass Patch 2 - Origins of Forest - Cathedral - Folkvangr
+ * Regular Quicksave for System Menu for 1.6.1170
+ * Remnants of Hammerfell - Patch for the 10th Anniversary Version
+ * Resurrection API (Disable Together - remove all effects before hand on a running save)
+ * Resurrection API for Skyrim 1.6 (Disable Together - remove all effects before hand on a running save)
+ * Screen Space Global Illumination (SSGI)
+ * Sensible Oculory Solution - Logical Mzark Puzzle - Discerning The Transmundane - Main Quest
+ * Sepolcri - A Complete Burial Sites Overhaul
+ * Shaders of Solstheim - Ash and Moss - Parallax Meshes
+ * Shades of Mortality - Death Alternative SKSE (Disable Together - remove all effects before hand on a running save)
+ * Simonrim Attack Speed Fix
+ * Simplicity of Snow - Parallax Meshes
+ * SIRENROOT - Achievement Injector
+ * SIRENROOT CBBE 3BA and HIMBO Patch
+ * Skill Rate Remover (Static Skill Leveling Patches)
+ * Skyking Signs
+ * Skyking Signs - Bruma Patch
+ * Skyking Signs - Interesting NPCs
+ * Skyking Signs LotD Sign
+ * Skyking Signs - Saints and Seducers Extended Cut
+ * Skyking Unique Signs
+ * Skyland Bits and Bobs Complex Material
+ * Skyland Complex Parallax Material
+ * Skyland Landscapes Complex Parallax
+ * Skylighting
+ * SkyPatcher
+ * Skyrim's Got Talent - Adamant Bard Perks Synergy
+ * Skyrim's Got Talent - Auri Reacts To Your Music
+ * Skyrim's Got Talent - Bruma Mini Patch
+ * Skyrim's Got Talent - Improve As a Bard
+ * Skyrim's Got Talent - Inigo Reacts To Your Music
+ * Skyrim's Got Talent - Interesting NPCs (3DNPC) Addon
+ * Skyrim's Got Talent - Player Reactions Addon
+ * Skyrim's Got Talent - Xelzaz Reacts To Your Music
+ * Sleepwalking Into A Nightmare - New Daedric Prince Quest
+ * Small Hud
+ * SMP-NPC crash fix
+ * SOS V2.0 - SE by Xtudo - Fixes
+ * SSE FPS Stabilizer - 30FPS
+ * Stonehollow Overhaul for Wyrmstooth
+ * Stuff of Shadows - 3D Nightingale Stone - Nightingale and Twilight Sepulcher Improvements and Bug Fixes
+ * Summoning Portals VFX Edit
+ * Terrain Shadows
+ * Terrain Shadows - Hight Data
+ * The Common Guy - SerketHetyt's HIMBO Bodyslide Preset
+ * The Common Lass - SerketHetyt's 3BA and Hands Redone Bodyslide Preset
+ * The Elder Scrolls Legends - Loading Screens
+ * The Gray Cowl of Nocturnal - 10th anniversary
+ * The Gray Cowl of Nocturnal - Camel Patch
+ * The Gray Cowl of Nocturnal - Oblivion soundtracks
+ * The Gray Cowl of Nocturnal - Way of the Voice
+ * The Thrassian Scare
+ * Tiny but Useful - Yet Another Patch Hub
+ * Tools of Kagrenac Ayleid Consistency (AE The Cause)
+ * Tuxborn - Grass
+ * Tuxborn - Test Build 1.0 Public - 2_separator
+ * ULP AIO - Argonian Skull Addon Standalone
+ * Underwhelming Multiple Followers
+ * Unique Shaders Sound FX
+ * Unoffical Gourmet patch
+ * Unofficial eFPS Patches
+ * Unofficial Trainwiz Achievements
+ * Unslaad - Achievement Injector Patch
+ * Vigilance Reborn
+ * Vigilant - Achievement Injector Patch
+ * VIGILANT - Arachnophobia
+ * Vigilant - Pilgrim Patch
+ * Water Effects
+ * Wigfrids Tree Replacer
+ * XP32 Maximum Skeleton lite
+
+### Removed
+
+ * 3BA Vanilla Clothes and Armor
+ * Alternate Obsidian Weathers MCM
+ * Alternate Start Voiced
+ * Amethyst - KreatE Preset
+ * Amethyst Plus - KreatE Preset
+ * Amethyst - Weathers and Reshade preset for Community Shaders
+ * Ancient Dwemer Metal - My patches - FINAL SE VERSION Update v6
+ * Apocalypse - Vokrii Compatibility Patch
+ * Arena - An Encounter Zone Overhaul
+ * Ascension 2
+ * Auri - Wintersun Patch
+ * Boss MCO Animation Folders
+ * Brelyna - Lucien Patch
+ * Capture Warmer (Dynamic Cubemaps)
+ * Cathedral Landscapes
+ * CBBE 3BA Creation Club
+ * C.O.I.N - Patch Collection
+ * Community Overlay 3 (51- 70) Bodypaints Warpaints and Tattoos
+ * Community Overlay 3 - Bugfix Patch
+ * Community Overlays 1 (0-30) Bodypaints Warpaints Tattoos and more made for the Community (Special Edition)
+ * Community Overlays 1 - Bugfix Patch
+ * Community Overlays 1 - Male Replacer - 2K
+ * Community Overlays 2 (31-50) Bodypaints Warpaints Tattoos and more made for the Community (Special Edition)
+ * Conditional Expressions Extended
+ * Conditional Expressions - Subtle Face Animations
+ * Daedric Shrines - All in One - My Patches by Xtudo - Teldryn Serious patch
+ * Daedric Shrines - All in One - My Patches by Xtudo - WINTERSUN fixes
+ * Daedric Shrines - Wintersun Patch
+ * daedroths (requires CC Rare Curios)
+ * Dawnguard Quests as Vampire
+ * Deadly Dragons
+ * Deadly Dragons - Legacy Settings Loader
+ * Deadly Dragons SE Patches
+ * Depths of the Reach MCO Folders
+ * Diverse Dog Textures - Hotfix
+ * Diverse Dog Textures - SPID
+ * Draugr Battleaxe and Warhammer Attack Animation
+ * Draugr Greatsword Animation
+ * Draugr One-handed Attack Animation
+ * Dynamic Cubemaps
+ * DynDOLOD DLL SE - Scripts
+ * DynDOLOD DLL SE - SKSE64 Plugin - SSE 1.6.1170
+ * DynDOLOD Resources SE
+ * DynDOLOD TexGen Fixes
+ * FDE Aela Auri Patch
+ * FDE Aela Eris Patch
+ * FDE Aela Inigo Patch
+ * FDE Aela Lucien Patch
+ * FDE Aela Remiel Patch
+ * FDE Aela Xelzaz Patch
+ * FDE Mjoll Auri patch
+ * Follower Dialogue Expansion - Aela the Huntress
+ * Follower Dialogue Expansion - Brelyna Maryon
+ * Follower Dialogue Expansion - Erik the Slayer
+ * Follower Dialogue Expansion - Jenassa
+ * Follower Dialogue Expansion - Jordis the Sword-Maiden
+ * Follower Dialogue Expansion - Mjoll the Lioness
+ * Follower Dialogue Expansion - Uthgerd the Unbroken
+ * Follower Dialogue Expansion - Ysolda
+ * For Honor in Skyrim I Warlord I Sword and shield
+ * GCON Flora Overhaul Fixes
+ * GCON - Landscape Fixes
+ * Gesture Animation Remix (OAR)
+ * Gesture Animation Remix (OAR) - shield patch
+ * GLENMORIL High Resolution Textures Pack
+ * Gourmet ForgottenCity patch
+ * Grass FPS Booster
+ * Gray Cowl Alt Start
+ * Gray Cowl of Nocturnal Alikr Flora Overhaul SE
+ * Happy Little Trees
+ * Happy Little Trees - DLC Trees (Base Object Swapper)
+ * Honed Metal
+ * Hood Plus Hair - Simply Serana Patch
+ * House of Horrors Quest Expansion - Patches
+ * Iconic's Frost - Flame - Storm Atronach Retexture
+ * Identity Crisis - Wintersun Patch
+ * Jenassa - Inigo patch
+ * JK's Blue Palace
+ * JK's Blue Palace Lite
+ * KreatE
+ * Krovaxis - Wintersun Patch
+ * KS Hairdos 1.7 Salt and Wind
+ * KS Hairdos 1.7 - Salt and Wind hotfix 1.1
+ * KS Hairdos 1.8 Salt and Wind
+ * KS Hairdos 1.9 - True Unisex Patch
+ * KS Hairdos SSE
+ * Less Generic Housecarls - Argis (Markarth) Dialogue Expansion and Quest
+ * Lod Model Library for DynDOLOD
+ * Look Around - Searching Animations For NPCs
+ * Main Menu Randomizer SE
+ * MCO Folders Skyrim EC - Saints and Seducers
+ * Medieval Blended Roads
+ * Mfg Fix
+ * MfgFix NG
+ * Mists of Tamriel
+ * Mists of Tamriel for Obsidian Weathers
+ * Mjoll the Lioness - Remiel
+ * morrowind creatures (requires CC Rare Curios)
+ * Mysticism 2 - Vokrii Compatibility Patch
+ * Native EditorID Fix
+ * Nether's Follower Framework
+ * Nether's Follower Framework - Legacy Settings Loader
+ * New Draugr Unarmed Attack Animation
+ * NFF - Hidden Ignore Tokens in Inventory for Custom AI Followers and Automatic SPID Distribution
+ * No Compass In Dialogue
+ * Northern Cathedral Grass
+ * Northern Grass SE
+ * Obsidian Weathers and Seasons
+ * Obsidian Weathers - Vigilant Integration
+ * Organic Player Animations (OAR)
+ * Player Character Gestures (OAR)
+ * Polingc's High Poly Racemenu Presets - Volume 1
+ * Project New Reign - Nemesis Unlimited Behavior Engine
+ * PTP - Wintersun Patch
+ * Rainsong
+ * Reshade
+ * Reshade - Deck
+ * ReShade Effect Toggler
+ * Reverie
+ * RUSTIC CLOTHING - Special Edition
+ * Salt and Wind - KS Hairdos - Update
+ * Seasoned Traveller Refits for CBBE
+ * Sepolcri - A complete Burial Sites overhaul
+ * Sepolcri - DynDOLOD patch
+ * Simply Serana - a visual replacer
+ * SIRENROOT - HD Texture Pack
+ * Sky Reflection Fix
+ * Skyrim is Luminous
+ * Skyrim is Luminous - Enhanced
+ * Skyrim Scenery - Main Menu Replacers
+ * SkySight Skins – Himbo
+ * SkySight Skins - Ultra HD Male Textures and Real Feet Meshes (2K1K VANILLA)
+ * Soft Shadows
+ * Song of the Green (Auri Follower) - Enhanced Voice Remastered
+ * SPID - NFF - Add Ignore Token to CustomAI Followers
+ * Splendor - Dragon Variants SE
+ * SSE FPS Stabilizer
+ * SSE ReShade Helper
+ * SteamVirtualKeyboardFixNG
+ * TAA Sharpen
+ * Tales of Skyrim - Berserkyr 1.2.1
+ * Thaumaturgy - Vokrii Compatibility Patch
+ * The Gray Cowl of Nocturnal SE
+ * The Gray Cowl of Nocturnal SE - Addons and Patches
+ * The Gray Cowl of Nocturnal SE - Retexture
+ * The Only Cure Quest Expansion - Patches
+ * Tree LOD Lighting
+ * Tuxborn - 0.5.2_separator
+ * Tuxborn - DynDOLOD Output
+ * Tuxborn - Grass Cache
+ * Tuxborn - TexGen Output
+ * Vanaheimr Landscape - Snow
+ * Vanargand Animations - Mace Moveset MCO - SkySA
+ * Vanargand Animations - Sword Dual Wield Moveset MCO - SkySA
+ * Vanilla Follower Expansion - Illia (VFE)
+ * Vanilla HDR
+ * Vanilla HDR - Less Eye Adaptation
+ * VIGILANT SE HiRes Pack
+ * Vigilant - Wintersun Patch
+ * Vokrii - Minimalistic Perks of Skyrim
+ * Vokrii SkySA Patch
+ * Waking Nightmare - Wintersun Patch
+ * Water Blending
+ * Water Caustics
+ * Which Key NG
+ * Wintersun - Faiths of Skyrim
+ * Wintersun - Gallows Hall
+ * Wintersun - Ghosts of the Tribunal
+ * Wintersun - Moon and Star Patch
+ * Wintersun Skillrate Alternative
+ * Wintersun - Tweaks and Enhancements
+ * WiZkiD Signs
+ * Wyrmstooth Multiple Weathers Patches
+ * Wyrmstooth Upscaled Textures
+ * ZAP - ADXPMCO Sword
+
+
 # 0.5.2 - Further tweaks and fixes
 
 - A fix for Smoothcam/Improved Conversation Camera interaction, and archery
