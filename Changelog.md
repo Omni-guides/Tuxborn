@@ -1,16 +1,30 @@
 # Tuxborn Changelog
 
-## 1.0 Public Test 2
+----------------------------------
 
-### Added
+### 1.0 Public Test 2a
+
+#### Added:
+
+ * Tuxborn - ParallaxGen Output
+ 
+#### Removed:
+
+ * Embers XD Patched meshes for Light Placer
+
+----------------------------------
+
+### 1.0 Public Test 2
+
+#### Added:
 
  * 02a) HIMBO V5 - BG-DG-DB Refits
  * 02b) HIMBO V5 - CC Refits
  * Achievement Injector
  * Achievement Injector - Unofficial Achievements and Patches
  * Achievements for Various Mods
- * Achievements_separator
  * A Conversation - Quest Mod
+ * Actor Value Generator
  * Adamant - A Perk Overhaul
  * Adamant - Apocalypse Patch
  * Adamant - Bard Perks Addon
@@ -33,6 +47,7 @@
  * Betalille's Hammerfell Quests Bundle - Patch for the 10th Anniversary Version
  * Better Atronach Forge Offering Box - No More Dwemer Dresser - High Polygon Summoning Circle
  * Better Forgotten Vale Portal Textures - Cubemaps - Environment maps
+ * BFCO Universal Support
  * Blended Roads
  * BnP female skin (Replacer+Player version)
  * Casual Dog Animations (DAR-OAR)
@@ -40,10 +55,12 @@
  * CBBE 3BA Vanilla Outfits Redone
  * Chooey's Modular SMP Hairstyles Edit
  * Cloud Shadows
+ * Combat Animation Overhaul - Dwarven Sphere
  * Common Clothing Retexture SE
  * Considerate Followers - Followers are Silent During Dialogue
  * Courageous - SerketHetyt's Melana Overhaul
  * Creation Club Open Helmets 2.0 Patches
+ * CS Deck
  * CS Lights
  * Custom Difficulty UI
  * Custom Difficulty UI - Settings Loader
@@ -60,6 +77,7 @@
  * eFPS - Exterior FPS boost
  * eFPS - Official Patch Hub
  * Embers XD Patched meshes for Light Placer
+ * ER Dual Wield Sword (MCO)
  * Fancy Glowy Blackreach Mushrooms
  * Faster HDT-SMP
  * Final Farewell - Quest Mod
@@ -88,6 +106,7 @@
  * Light Placer
  * Local Map Upgrade
  * Lower Render Resolution
+ * Mace Animation MCO I SCAR
  * Madmen Simonrim
  * Main Menu
  * Meeko Reborn SE
@@ -97,7 +116,6 @@
  * Modular SMP Hairstyles
  * MOXIE - Masculine Skinblend (Male Skin) - 2K
  * OBody Next Generation
- * Obody_separator
  * Olenveld
  * Olenveld_Fix_Pack
  * Olenveld Paper Map for FWMF by Limon
@@ -152,6 +170,7 @@
  * SMP-NPC crash fix
  * SOS V2.0 - SE by Xtudo - Fixes
  * SSE FPS Stabilizer - 30FPS
+ * SSE FPS Stabilizer - 40FPS
  * Stonehollow Overhaul for Wyrmstooth
  * Stuff of Shadows - 3D Nightingale Stone - Nightingale and Twilight Sepulcher Improvements and Bug Fixes
  * Summoning Portals VFX Edit
@@ -166,12 +185,13 @@
  * The Gray Cowl of Nocturnal - Way of the Voice
  * The Thrassian Scare
  * Tiny but Useful - Yet Another Patch Hub
+ * TK Dodge RE Addon
  * Tools of Kagrenac Ayleid Consistency (AE The Cause)
  * Tuxborn - Grass
- * Tuxborn - Test Build 1.0 Public - 2_separator
  * ULP AIO - Argonian Skull Addon Standalone
  * Underwhelming Multiple Followers
  * Unique Shaders Sound FX
+ * Unladen Resurrected I Sword Moveset Mashup (MCO I SCAR I BFCO)
  * Unoffical Gourmet patch
  * Unofficial eFPS Patches
  * Unofficial Trainwiz Achievements
@@ -184,7 +204,7 @@
  * Wigfrids Tree Replacer
  * XP32 Maximum Skeleton lite
 
-### Removed
+#### Removed:
 
  * 3BA Vanilla Clothes and Armor
  * Alternate Obsidian Weathers MCM
@@ -333,7 +353,6 @@
  * The Gray Cowl of Nocturnal SE - Retexture
  * The Only Cure Quest Expansion - Patches
  * Tree LOD Lighting
- * Tuxborn - 0.5.2_separator
  * Tuxborn - DynDOLOD Output
  * Tuxborn - Grass Cache
  * Tuxborn - TexGen Output
@@ -362,23 +381,28 @@
  * Wyrmstooth Upscaled Textures
  * ZAP - ADXPMCO Sword
 
+----------------------------------
 
-# 0.5.2 - Further tweaks and fixes
+### 0.5.2 - Further tweaks and fixes
 
 - A fix for Smoothcam/Improved Conversation Camera interaction, and archery
 - BFCO Weapon Speed has been returned to v0.5.0 settings
 - Dragons should no longer be invincible
 - A fix for The Steed standing stone effect
 
-# 0.5.1 - Minor Adjustments and Tweaks
+----------------------------------
+
+### 0.5.1 - Minor Adjustments and Tweaks
 
 - Alternative Combat Speed
 - Tweak to Improved Alternate Conversation Camera
 - Clean up of some old files
 
-# 0.5.0 - The wait is over
+----------------------------------
 
-Added
+### 0.5.0 - The wait is over
+
+#### Added:
 
 - Universal (SKSE) Rim Lighting Fix
 - Quest Journal Limit Bug Fixer - Recover Disappeared Quests
@@ -661,7 +685,7 @@ Added
 - Bosmer NPCs have Antlers
 - Breton NPCs Have Elven Ears
 
-Removed
+#### Removed:
 
 - Enhanced Volumetric Lighting and Shadows (EVLaS)
 - Ultimate Immersion Toggle - UI Toggle - Hide Your HUD - Rebuild
@@ -685,9 +709,9 @@ Removed
 - Dynamic Armor Variants
 - Skyrim SafeSave System Overhaul
 
-# 0.4.1 - Small bug fix update
+### 0.4.1 - Small bug fix update
 
-Added
+#### Added:
 
 - Interesting NPCs - Fjona's Familiar Alternate Location
 - SPID - NFF - Add Ignore Token to CustomAI Followers
@@ -695,9 +719,9 @@ Added
 - Stroti Logcabin - Custom Roof and Stroti Small House - Custom Roof
 - Beyond Reach - Improved Meshes
 
-# 0.4.0 - Legacy of the Tuxborn
+### 0.4.0 - Legacy of the Tuxborn
 
-Updated
+#### Updated:
 
 - Starfrost
 - Vanilla hair remake
@@ -719,7 +743,7 @@ Updated
 - Custom Skills Framework
 - Stormcrown - A Shout Overhaul
 
-Removed
+#### Removed:
 
 - Cleaned Skyrim SE Textures
 - Anniversary Textures Upscaled - Complete Creation Club
@@ -733,7 +757,7 @@ Removed
 - Map Markers Complete with DLC and OCS (compatiblty)
 - Dragon War (was causing issues)
 
-Added
+#### Added:
 
 - No Grass In Objects
 - Alternate Start - Live Another Life
@@ -1125,13 +1149,13 @@ Added
 - Modpocalypse NPCs - Carved Brink
 - Modpocalypse NPCs - Beyond Reach
 
-# 0.3.1 - Small bug fix update
+### 0.3.1 - Small bug fix update
 
-Removed
+#### Removed:
 
 - EVG Conditionals extended (injured-stamina-magicka-nakedness)
 
-Added
+#### Added:
 
 - aMidianBorn Book of Silence - Creatures
 - Mari's flora
@@ -1140,9 +1164,9 @@ Added
 - Complete Widescreen Fix 219 for Vanilla and SkyUI
 - Sprint Sneak Movement Speed Fix
 
-# 0.3.0 - Enhancing Skyrim and Playing Dress Up
+### 0.3.0 - Enhancing Skyrim and Playing Dress Up
 
-Updated
+#### Updated:
 
 - Skyrim on Skooma
 - Vanilla hair remake
@@ -1159,12 +1183,12 @@ Updated
 - Animeted Ice Floes
 - SSE Engine Fixes
 
-Removed
+#### Removed:
 
 - Alternate Perspective (responisable for some issues)
 - Size Matters and First Person Magic (replaced by CFPAO)
 
-Added
+#### Added:
 
 - Artificer - Xavbio Textures Addon HalfRes
 - Artificer - Xavbio Textures - 3BA
@@ -1184,7 +1208,6 @@ Added
 - CFPAO
 - Optional Quick Start - SE
 - ImGui
-
 - Dawnguard Quests as Vampire
 - Finding Helgi and Laelette
 - Thieves Guild Requirements SE - Settings Loader
@@ -1365,9 +1388,9 @@ Added
 - Immersive Armors - Settings Loader
 - Immersive Armors
 
-# 0.2.0 - NPC and PC update
+### 0.2.0 - NPC and PC update
 
-New mods:
+#### New mods:
 
 - DynDOLOD DLL SE
 - Mfg Fix
@@ -1386,7 +1409,6 @@ New mods:
 - Another Race Menu Rotation Mod
 - DPI Scaling Fix
 - Simple Wearable Lanterns
-
 - Goetia Animations
 - Vanargand Animations
 - Leviathan Animations
@@ -1412,7 +1434,6 @@ New mods:
 - Lively cart driver animation replacer - SE or AE
 - Look Around - Searching Animations For NPCs
 - Tools not weapons (pickaxe and woodcutter axe) DAR animations
-
 - Pronouns
 - BodySlide and Outfit Studio
 - CBBE
@@ -1434,7 +1455,6 @@ New mods:
 - High Poly Head SE
 - Northborn Scars
 - Northborn Scars for High Poly Head
-
 - Vanilla hair remake
 - KS Hairdos SSE
 - BeastHHBB - Khajiit and Argonian content - player character and NPC replacer
@@ -1445,7 +1465,6 @@ New mods:
 - Kala's Eyes Elf 
 - Kala's Eyes- Beast Race
 - Kala Orsimer Eyes
-
 - Skin Feature Overlays SE
 - Lamenthia's Marks of Beauty
 - Female Makeup Suite
@@ -1455,12 +1474,10 @@ New mods:
 - Wolfpaint
 - Wounds Overlays
 - Community Overlays 1, 2 and 3
-
 - Polingc's High Poly Racemenu Presets - Volume 1
 - Lamenthia's RaceMenu Presets
 - Zooey's Eldryn Presets
 - Foamimi's Eldryn Presets
-
 - Modpocalypse NPCs - Resources
 - Modpocalypse NPCs - All Vanilla NPCs
 - Northbourne NPCs Resources
@@ -1480,6 +1497,6 @@ New mods:
 - Volkiharbor - Harkon and Valerica Replacer
 - She Wolf - SerketHetyt's Aela Overhaul
 
-# 0.1.0 - A slow start
+### 0.1.0 - A slow start
 
-First proper public release
+- First proper public release
