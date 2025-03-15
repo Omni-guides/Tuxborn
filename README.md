@@ -333,7 +333,7 @@ You are free to install you own mods into Tuxborn, but this voides your offical 
 
   * Using Survival mode, I have levelled up but didn't get the option to increase my skills! - This is part of Static Skill Levelling. Once you sleep, you will be able to apply the skill points.
 
-  * How do I change resolution or the Framerate limit? - These are both controlls by the SSEDisplayTweaks.ini contained within the "Tuxborn - Settings" mod entry under the "Patcher Output" section in MO2.
+  * How do I change resolution or the Framerate limit? - These are both controlled by the SSEDisplayTweaks.ini contained within the "Tuxborn - Settings" mod entry under the "Patcher Output" section in MO2.
 
 
 # Conclusion and Thanks
