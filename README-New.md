@@ -8,21 +8,13 @@
 
 # Introduction
 
-### <ins>IMPORTANT</ins>
-
-Only a Public Test build of Tuxborn is currently installable, due to a mod used in the previously stable version vanishing from Nexus Mods.
-
-We are working as fast as we can to bring this public test to a final, stable 1.0 release. Unfortunately, we cannot at this time guarantee that saves will be compatible between this Public Test build, and the final release.
-
-Thank you for your understanding.
-
 ### <ins>About Tuxborn</ins>
 
-Introducing **Tuxborn**, a performance-focused Wabbajack Modlist, with profiles tailored for both handheld devices and Laptops/Desktop PCs.
+Introducing **Tuxborn**, a performance/content-focused Wabbajack Modlist, with profiles tailored for both handheld devices and Laptops/Desktop PCs.
 
 If you need support or wish to chat about Tuxborn, join the [Aetherius Modding Discord](https://discord.gg/xRrHRsb5e9) , grab the Tuxborn role from Channels & Roles and look for us in the #txbn-general channel - support queries can be directed to the #txbn-support discord forum. Or if you just want to chat about Wabbajack Modlists on Steam Deck/Linux in general, then drop by the #unofficial-linux-help channel of the [Official Wabbajack Discord](https://discord.gg/wabbajack).
 
-Inspired by the likes of Septimus, Eldryn and Redoran, Tuxborn was initially created to fill a gap in the Wabbajack Modlist landscape – A Modlist that specifically targets the performance profile of the Valve Steam Deck. Since inception, Tuxborn has evolved to become a great option for those using less powerful PCs or laptops, as well as the full range of handheld PCs that are now on the market.
+Inspired by the likes of Septimus, Eldryn and Redoran, Tuxborn was initially created to fill a gap in the Wabbajack Modlist landscape – A Modlist that at a minimume targets the performance profile of the Valve Steam Deck and midrange pc on the higher end. Since inception, Tuxborn has evolved to become a great option for those using less powerful PCs or laptops, as well as the full range of handheld PCs that are now on the market.
 
 Tuxborn supports only the Anniversary Edition of Skyrim on Steam, updated to **v1.6.1170**. You **must own Skyrim Anniversary Edition** to run Tuxborn.
 
@@ -35,11 +27,11 @@ Tuxborn supports only the Anniversary Edition of Skyrim on Steam, updated to **v
 While Tuxborn was initially *designed* for the performance profile of the Steam Deck, that doesn’t mean it’s limited to that platform! It’s also a great, content-, lightweight (in terms of performance) list for less powerful systems. There are no less than six Performance Profiles included that you can choose from, depending on if you wish to play with BFCO (Combat Animation Framework), your desired performance target, or system specs (if not the Steam Deck):
 
 **Tuxborn – Deck:** This profile aims for a locked 40FPS experience on the Steam Deck.  
-**Tuxborn - Deck CS:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile.  
+**Tuxborn - Handheld:** This profile aims for additional visual, with the cost of more ram/vram. It will work on the Steam Deck, but you will sometimes run into issue, systems with 24/32gb will be fine.  
 **Tuxborn – Desktop:** This profile is for slightly more powerful PCs, has an expanded Community Shaders suite and higher INI settings. Performance of this profile will depend on your system specs.  
 
 **Tuxborn – Deck BFCO:** This profile aims for a locked 40FPS experience on the Steam Deck, and includes the BFCO Combat Animation Framework.  
-**Tuxborn - Deck CS BFCO:** This profile aims for a locked 30FPS experience on the Steam Deck, but with the additional visual benefits of the Community Shaders mod and profile, and includes the BFCO Combat Animation Framework.  
+**Tuxborn - Handheld:** This profile aims for additional visual, with the cost of more ram/vram. It will work on the Steam Deck, but you will sometimes run into issue, systems with 24/32gb will be fine. And includes the BFCO Combat Animation Framework.  
 **Tuxborn – Desktop BFCO:** This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO Combat Animation Framework. Performance of this profile will depend on your system specs.  
 
 While the Deck and Deck CS profiles _target_ a locked FPS, **they are not capped at those figures**. Instead, it is expected that Deck users use the frame limiting feature of the Steam Deck to cap the FPS. Frame limits can be set via SSEDisplayTweaks - See the FAQ section for details on how to do this.
@@ -102,7 +94,7 @@ We've done the xEdit bit for you, but you will still have to set your fallback p
 **Tuxborn Combat Controller Keys:** Controller button mapping for the BFCO profiles. Disable if you are playing on Keyboard and Mouse.  
 **Combat Keyboard Keys:** Keyboard button mapping for the BFCO profiles. Disable if y ou are playing on controller.  
 **Small HUD:** Makes the HUD smaller in scale.  
-**Skyrim Upscaler:** DLSS FSR2 XeSS: more FPS or longer battery life with the help of FSR upscaling.  
+**Framegen:** A framegen mod that will ad more ai frames, doesn't work with Proton/Linux at the moment.  
 **Lower Render Resolution:** An optional mod that lowers the render scaling to 0.75 to help with performance on handhelds that have 1080p and higher screen resolutions.  
 **Enemy (R)Evolution of Skyrim:** EEOS: gives npc more perks and spells to use against you.  
 **Masculine Animations for Female PCs/Feminine Animations for Male PCs:** changes some animations for the Player Character.  
@@ -252,7 +244,7 @@ Quests Mods
 **VIGILANT:** After level 25 in the Windpeak Inn.  
 **GLENMORIL:** After level 30 at the maingate of Falkreath.  
 **UNSLAAD:** After level 40, by touching the doll in the High Hrothgar courtyard.  
-**Gray Cowl:** After level 10, be the dragonborn and finish the thieves guild. Steal something to start.  
+**Gray Cowl:** After level 10, be the dragonborn and steal something to start.  
 **Moonpath:** Part of Lotd, will start when collected enough for the museum and after the Way of the Voice.  
 **Moon and Star:** After the Way of the Voice in any settlment in Skyrim.  
 **AHO:** Visit the Braidwood Inn and investigate a suspicious orc at Mixwater Mill.  
@@ -277,7 +269,7 @@ Boot Time of the game - Modded Skyrim can take an awfully long time to boot on S
 
 
 # Reporting a bug or issue
-Please report bugs or issues to the appropriate Discord channel, as described at the top of this page. To file a bug report, you must have NO **ADDITIONAL MODS OR HAVE MADE ANY CHANGES TO THE MODLIST**. Always include which profile you are running (Deck/TuxBFCO - Deck, Deck CS/TuxBFCO - Deck CS or Desktop/TuxBFCO - Desktop)
+Please report bugs or issues to the appropriate Discord channel, as described at the top of this page. To file a bug report, you must have NO **ADDITIONAL MODS OR HAVE MADE ANY CHANGES TO THE MODLIST**. Always include which profile you are running (Deck/TuxBFCO - Deck, Handheld/TuxBFCO - Handheld or Desktop/TuxBFCO - Desktop)
 
 CTD/freezing - Please include the following information:
 - Is it repeatable or not?
@@ -312,9 +304,9 @@ Unless otherwise stated, generally Modlist version 0.0.X updates are save-safe, 
 
 Steam Deck users that used the Wabbajack on Windows plus transfer method to get Tuxborn onto the Deck, can either use Wabbajack directly on the deck to update the list, or use an application such as WinSCP to correctly update the Tuxborn data on deck. See [this guide](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/SyncToDeck/#updating-tuxborn) for details.
 
-### <ins>Installing your own mods</ins>
+### <ins>Installing your own mods and rule 11</ins>
 
-You are free to install you own mods into Tuxborn, but this voides your offical support. If you do still want/need help look for the #modlist-modifications channel in the Aetherius discord. It's higly recomand that you look at these guides before you make any changes [Lively's modding wiki](https://github.com/LivelyDismay/Learn-To-Mod/wiki) and [Althro's resources](https://github.com/The-Animonculory/Modding-Resources)
+You are free to install you own mods into Tuxborn, but this voides your offical support. This includes changing any settings, unless other wise stated. If you do still want/need help look for the #modlist-modifications channel in the Aetherius discord. It's higly recomand that you make a new profile and look at these guides before you make any changes [Lively's modding wiki](https://github.com/LivelyDismay/Learn-To-Mod/wiki) and [Althro's resources](https://github.com/The-Animonculory/Modding-Resources)
 ---
 
 # FAQ
@@ -331,7 +323,7 @@ You are free to install you own mods into Tuxborn, but this voides your offical 
 
   * It's too dark at night! - This can be a side effect of the lighting mods. The best option here is to craft a lantern and attach it to your character.
 
-  * Using Survival mode, I have levelled up but didn't get the option to increase my skills! - This is part of Static Skill Levelling. Once you sleep, you will be able to apply the skill points.
+  * Using Survival mode, I have levelled up but didn't get the option to increase my skills! - This is part of SSurvival mode. Once you sleep, you will be able to apply the skill points.
 
   * How do I change resolution or the Framerate limit? - These are both controlled by the SSEDisplayTweaks.ini contained within the "Tuxborn - Settings" mod entry under the "Patcher Output" section in MO2.
 
