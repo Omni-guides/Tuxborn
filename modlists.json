@@ -30,7 +30,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_Banner1.0.png",
+      "image": "https://raw.githubusercontent.com/Omni-guides/Tuxborn/refs/heads/main/images/Tuxborn_Banner1.0.png",
       "readme": "https://github.com/Omni-guides/Tuxborn/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
       "machineURL": "machineURL",
