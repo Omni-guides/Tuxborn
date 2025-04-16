@@ -296,7 +296,7 @@ Please note that Pull Requests to this github for small issues may have the sugg
 
 ### <ins>Updating the Modlist</ins>
 
-Before updating please backup your saves and any personal CharGen presets, just in case. Repeat the same steps with Wabbajack from the Installation section.
+Before updating please backup your saves and any personal CharGen presets, just in case. You should also delete your "overwrite" directory inside the Tuxborn directory. Repeat the same steps with Wabbajack from the Installation section.
 
 Unless otherwise stated, generally Modlist version 0.0.X updates are save-safe, any others are not.
 
