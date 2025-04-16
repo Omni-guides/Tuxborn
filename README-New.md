@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_Banner.png" width="800">
+<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_Banner1.0.png" width="800">
 </p>
 
 <div align="center">
@@ -14,9 +14,9 @@ Introducing **Tuxborn**, a performance/content-focused Wabbajack Modlist, with p
 
 If you need support or wish to chat about Tuxborn, join the [Aetherius Modding Discord](https://discord.gg/xRrHRsb5e9) , grab the Tuxborn role from Channels & Roles and look for us in the #txbn-general channel - support queries can be directed to the #txbn-support discord forum. Or if you just want to chat about Wabbajack Modlists on Steam Deck/Linux in general, then drop by the #unofficial-linux-help channel of the [Official Wabbajack Discord](https://discord.gg/wabbajack).
 
-Inspired by the likes of Septimus, Eldryn and Redoran, Tuxborn was initially created to fill a gap in the Wabbajack Modlist landscape – A Modlist that at a minimume targets the performance profile of the Valve Steam Deck and midrange pc on the higher end. Since inception, Tuxborn has evolved to become a great option for those using less powerful PCs or laptops, as well as the full range of handheld PCs that are now on the market.
+Inspired by the likes of Septimus, Eldryn and Redoran, Tuxborn was initially created to fill a gap in the Wabbajack Modlist landscape – A Modlist that at a minimume targets the performance profile of the Valve Steam Deck and midrange pc on the higher end. Since inception, Tuxborn has evolved to become a great option for those using less powerful PCs or laptops, as well as the full range of handheld PCs that are now on the market. 
 
-Tuxborn supports only the Anniversary Edition of Skyrim on Steam, updated to **v1.6.1170**. You **must own Skyrim Anniversary Edition** to run Tuxborn.
+Tuxborn supports only the Anniversary Edition of Skyrim on Steam, updated to **v1.6.1170**. You **must own Skyrim Anniversary Edition** to run Tuxborn. Your CPU must support AVX, which should be fine for most CPUs newer than 2011.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ouruboros)
 
@@ -24,17 +24,17 @@ Tuxborn supports only the Anniversary Edition of Skyrim on Steam, updated to **v
 
 ### <ins>Performance</ins>
 
-While Tuxborn was initially *designed* for the performance profile of the Steam Deck, that doesn’t mean it’s limited to that platform! It’s also a great, content-, lightweight (in terms of performance) list for less powerful systems. There are no less than six Performance Profiles included that you can choose from, depending on if you wish to play with BFCO (Combat Animation Framework), your desired performance target, or system specs (if not the Steam Deck):
+While Tuxborn was *originally designed* for the performance profile of the Steam Deck, that doesn’t mean it’s limited to that platform! It’s also a great, content-full, lightweight (in terms of performance) list for less powerful systems and more powerful PCs alike. There are no less than six Performance Profiles included that you can choose from, depending on if you wish to play with BFCO (Combat Animation Framework), your desired performance target, or system specs (if not the Steam Deck):
 
 **Tuxborn – Deck:** This profile aims for a locked 40FPS experience on the Steam Deck.  
-**Tuxborn - Handheld:** This profile aims for additional visual, with the cost of more ram/vram. It will work on the Steam Deck, but you will sometimes run into issue, systems with 24/32gb will be fine.  
+**Tuxborn - Handheld:** This profile aims for additional visual quality, at the cost of more ram/vram usage. It will work on the Steam Deck, but you will sometimes run into some performance issues. Systems with 24/32GB should be fine.  
 **Tuxborn – Desktop:** This profile is for slightly more powerful PCs, has an expanded Community Shaders suite and higher INI settings. Performance of this profile will depend on your system specs.  
 
 **Tuxborn – Deck BFCO:** This profile aims for a locked 40FPS experience on the Steam Deck, and includes the BFCO Combat Animation Framework.  
-**Tuxborn - Handheld:** This profile aims for additional visual, with the cost of more ram/vram. It will work on the Steam Deck, but you will sometimes run into issue, systems with 24/32gb will be fine. And includes the BFCO Combat Animation Framework.  
+**Tuxborn - Handheld:** This profile aims for additional visual quality, at the cost of more ram/vram usage. It will work on the Steam Deck, but you will sometimes run into some performance issues. Systems with 24/32GB should be fine. Includes the BFCO Combat Animation Framework.  
 **Tuxborn – Desktop BFCO:** This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO Combat Animation Framework. Performance of this profile will depend on your system specs.  
 
-While the Deck and Deck CS profiles _target_ a locked FPS, **they are not capped at those figures**. Instead, it is expected that Deck users use the frame limiting feature of the Steam Deck to cap the FPS. Frame limits can be set via SSEDisplayTweaks - See the FAQ section for details on how to do this.
+While the Deck profile _targets_ a locked FPS, **they are not capped at those figures**. Instead, it is expected that Deck users use the frame limiting feature of the Steam Deck to cap the FPS. On other systems, Frame limits can be set via SSEDisplayTweaks - See the FAQ section for details on how to do this.
 
 Please Note: Due to the need for shader cache building on the Steam Deck, there may be a noticeable stutter in the first 1-2 hours while the cache builds. It should be good after that.
 
@@ -60,13 +60,13 @@ A full list of mods included in the list can be found on the [Load Order Library
 
 **Gameplay Changes (BFCO):** Entirely optional, Tuxborn includes three performance profiles that includes the [BFCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052) bringing modern combat animations and features to Skyrim, including new animations for melee/range weapons, while also  allowing attacks while jumping and swimming. Replaces Blade and Blunt with [Plus Combat](https://www.nexusmods.com/skyrimspecialedition/mods/100915) and [Chocolate Poise Plus](https://www.nexusmods.com/skyrimspecialedition/mods/82091)
 
-**Visual Enhancements:** [Skyrim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/34179), [Azurite Weather and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/42731), [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961), [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) (CS and Desktop Profiles).
+**Visual Enhancements:** [Skyrim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/34179), [Azurite Weather and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/42731), [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961), [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492).
 
-**CharGen Changes:** We have included High Poly Head, CBBE and a whole range of Head, Body,Hair and Eye mods, as well as four sets of Character presets, the options available in Tuxborn should allow you to create your perfect character.
+**CharGen Changes:** We have included High Poly Head, CBBE and a whole range of Head, Body,Hair and Eye mods, as well as three sets of Character presets - the options available in Tuxborn should allow you to create your perfect character.
 
 **NPC Changes:** We have been careful to enhance the visuals for NPCs throughout the game world, without going for the "supermodels everywhere" look. A carefully thought out list of NPC mods and replacers, combined with a hand-picked merge of multiple NPC mods, creates a vast improvement on the Vanilla experience, while maintining immersion in how characters appear.
 
-**Content:** Tuxborn aims to include as much of the good quality quest content and enhancements, including (but not limited to) [Legacy of the Dragonborn (v6)](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [JaySerpa Quest Expansion Series](https://next.nexusmods.com/profile/jayserpa/mods?gameId=1704), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Byeond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008), [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998), [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789), [The Grey Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509), [Falskaar](https://www.nexusmods.com/skyrimspecialedition/mods/2057), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341/) plus a whole load of smaller quest mods!
+**Content:** Tuxborn aims to include as much of the good-quality quest content and enhancements, including (but not limited to) [Legacy of the Dragonborn (v6)](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [JaySerpa Quest Expansion Series](https://next.nexusmods.com/profile/jayserpa/mods?gameId=1704), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Byeond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008), [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998), [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789), [The Grey Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509), [Falskaar](https://www.nexusmods.com/skyrimspecialedition/mods/2057), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341/) plus a whole load of smaller quest mods!
 
 
 ---
@@ -74,9 +74,9 @@ A full list of mods included in the list can be found on the [Load Order Library
 
 ### <ins>Miscellaneous changes</ins>
 
-**Survival:** We've included the Survival Overhaul [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) for those that enjoy the survival gameplay. While not enabled by default, it can be turned on by following the [same steps](https://help.bethesda.net/#en/answer/39919) as enabling Survival mode in Vanilla Skyrim. You can toggle the ability to fast-travel by editing the mod's ini file. More details can be found on the Starfrost Nexus page.
+**Survival:** We've included the Survival Overhaul [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) for those that enjoy the survival gameplay. While not enabled by default, it can be turned on by following the [same steps](https://help.bethesda.net/#en/answer/39919) as enabling Survival mode in Vanilla Skyrim. You can toggle the ability to fast-travel by editing the mod's ini file (Please note that disabling fast travel for Survival Mode will mean that the Airship from LotD cannot work). More details can be found on the Starfrost Nexus page.
 
-Tuxborn includes the [Pronouns](https://www.nexusmods.com/skyrimspecialedition/mods/43816) mod, allowing you to select your preferred pronouns. As per the mod page details
+Tuxborn includes the [Pronouns](https://www.nexusmods.com/skyrimspecialedition/mods/43816) mod, allowing you to select your preferred pronouns. As per the mod page details:
 
 _Selecting they/them pronouns could prevent you from completing certain quests that don't provide gender-neutral dialogue alternatives. To combat this issue, I've developed the Pronouns Patcher, which allows They/Them players to default to fallback pronouns in those cases. Run the Pronouns Patcher via xEdit, then set your fallback pronouns in the MCM._
 
@@ -104,7 +104,7 @@ We've done the xEdit bit for you, but you will still have to set your fallback p
 
 # Installation
 
-For Windows players, follow the Wabbajack instructions below, and once the Wabbajack installation is complete, run the ModOrganizer.exe file located in the Tuxborn install directory you selected in Wabbajack to start and launch the modlist. On Steam Deck, the process is a little more involved, so see below for [Installation instructions](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/TuxbornSteamDeckFullInstall.md), but please read through the below as well as the information still applies. Once You have have completed the Wabbajack Installation on Deck, return to this guide, rejoining at [Starting the Game](https://github.com/Omni-guides/Tuxborn/edit/main/README.md#starting-the-game).
+For Windows players, follow the Wabbajack instructions below, and once the Wabbajack installation is complete, run the ModOrganizer.exe file located in the Tuxborn install directory you selected in Wabbajack to start and launch the modlist. On Steam Deck, the process is a little more involved, so see below for [Installation instructions](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/TuxbornSteamDeckFullInstall.md), but please read through the following as well, as the information still applies. Once You have have completed the Wabbajack Installation on Deck, return to this guide, rejoining at [Starting the Game](https://github.com/Omni-guides/Tuxborn/edit/main/README.md#starting-the-game).
 
 For best results, you should consider fully uninstalling and reinstalling Skyrim from your system prior to installing the Modlist via Wabbajack. This will ensure that there are no additional, unneeded or unclean files that could interrupt or make the Wabbajack installation process fail.
 
@@ -116,7 +116,7 @@ Downloads for Tuxborn are currently ~120GB, and the resulting modlist install si
 
 ### <ins>Wabbajack</ins>
 
-Tuxborn can only be installed using the Wabbajak application. There are different meethods required depending on if you are running the Wabbajack installation on Windows or Linux/Steam Deck.
+Tuxborn can only be installed using the Wabbajak application. There are different methods required depending on if you are running the Wabbajack installation on Windows or Linux/Steam Deck.
 
 
 ### <ins>Steam Deck/Linux</ins>
@@ -195,7 +195,7 @@ After making your Character, PLEASE WAIT until there are no longer any notificat
 
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_In-gameNotifications.png" width="600">
 
-When no more messages are displayed (the finaly message should be "Museum List Build Complete", and does take quite a while to appear, but only needs to happen once), pick up the book ont he table, and then speak to the statue and select your Alternative Startm then sleep in the bed as directed to being your adventure!
+When no more messages are displayed (the final message should be "Museum List Build Complete", and does take quite a while to appear, but this only needs to happen once), pick up the book on the table, and then speak to the statue and select your Alternative Start, then sleep in the bed as directed to being your adventure!
 
 ### <ins>Keybind Changes/Gamepad buttons</ins>
 
@@ -262,7 +262,7 @@ If the mod/quest isn't listed above, please check the orginal mods page for how 
 
 ⚠️ ❗ **Photo Mode:** We've included [PhotoMode](https://www.nexusmods.com/skyrimspecialedition/mods/91701), but unfortunately the button mapping for controlling it is very troublesome on gamepad/deck on the BFCO profiles - you can end up with the camera a bit stuck. To get out of this stuck camera, you need to run "tfc" twice in the in-game console. Unfortunately, this does not work on Steam Deck. Thanks to d for that one. ⚠️ ❗
 
-Boot Time of the game - Modded Skyrim can take an awfully long time to boot on Steam Deck. Even more when you have as much content as Tuxborn does, and have so many methods applied to try and squeeze out every FPS we can. Timing on the original LCD Steam Deck, it takes roughly 10 minutes to fully load the game to the main menu. We have tried to bring this down, but is part of the cost of having so many mods included in the list. If we discover any way to lessen this initial load time, we will absolutely implement it.
+Boot Time of the game - Modded Skyrim can take an awfully long time to boot on Steam Deck. Even more when you have as much content as Tuxborn does, and have so many methods applied to try and squeeze out every FPS we can. Timing on the original LCD Steam Deck, it takes roughly 7-8 minutes to fully load the game to the main menu. We have tried to bring this down, but is part of the cost of having so many mods included in the list. If we discover any way to lessen this initial load time, we will absolutely implement it.
 
 
 ---
@@ -275,7 +275,7 @@ CTD/freezing - Please include the following information:
 - Is it repeatable or not?
 - What were you doing at the time, where are you, with whom?
 - Which proton version have you selected (If running on Steam Deck/Linux)?
-- Always include the crashlog in Documents\My Games\Skyrim Special Edition\SKSE or /home/user/.local/share/Steam/steamapps/compatdata/$APPID/pfx/drive_c/users/steamuser/My Documents/My Games/Skyrim Special Edition/SKSE/crash-$DATE.log if on Deck/Linux. Protontricks will tell you the $APPID.
+- Always include the crashlog in Documents\My Games\Skyrim Special Edition\SKSE or /home/user/.local/share/Steam/steamapps/compatdata/$APPID/pfx/drive_c/users/steamuser/My Documents/My Games/Skyrim Special Edition/SKSE/crash-$DATE.log if on Deck/Linux. Protontricks will tell you the $APPID (`protontricks -l`).
 - Where possible, include your nearest save game. This can be found in Tuxborn/Profiles/[Profile Name]/Saves
 
 World conflict/Weirdness
@@ -296,9 +296,7 @@ Please note that Pull Requests to this github for small issues may have the sugg
 
 ### <ins>Updating the Modlist</ins>
 
-Before updating please backup your saves and CharGen presets, just in case. Repeat the same steps with Wabbajack from the Installation section, but make sure you toggle on the “Overwrite Existing Modlist” checkbox in the bottom right.
-
-<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_WJOverwrite.png" width="600">
+Before updating please backup your saves and any personal CharGen presets, just in case. Repeat the same steps with Wabbajack from the Installation section.
 
 Unless otherwise stated, generally Modlist version 0.0.X updates are save-safe, any others are not.
 
@@ -311,13 +309,13 @@ You are free to install you own mods into Tuxborn, but this voides your offical 
 
 # FAQ
 
- * It takes ages to load the game! - Yes, especially on handhelds, it can take 10 minutes to fully load. Sadly this is unavoidable with the mount of content and the hardware of most handheld devices.
+ * It takes ages to load the game! - Yes, especially on handhelds, it can take 7-8 minutes to fully load. Sadly this is unavoidable with the mount of content and the hardware of most handheld devices.
 
  * An update has been released, how do I update Tuxborn? - Windows users can see [here](https://github.com/Omni-guides/Tuxborn/blob/main/README.md#updating-the-modlist) for guidance on updating the list, while Steam Deck users can see [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/SyncToDeck/#updating-tuxborn)
 
   * On Steam Deck, Mod Organizer closes instantly when I press play! - Mod Organizer will crash if you use the touchscreen while in Desktop mode on the Deck. We do not know why, but will implement a solution if one is found.
 
-  * How do I disable Stamina drain on Sneak? - This is part of Blade and Blunt. You can disable this feature but adding the following line to the Bladeandblunt.ini file contained within the "Tuxborn - Settings" mod entry under the "Patcher Output" section in MO2:
+  * How do I disable Stamina drain on Sneak? - This is part of Blade and Blunt. You can disable this feature by adding the following line to the Bladeandblunt.ini file contained within the "Tuxborn - Settings" mod entry under the "Patcher Output" section in MO2:
 
     ```bEnableSneakStaminaCost = false```
 
@@ -330,7 +328,7 @@ You are free to install you own mods into Tuxborn, but this voides your offical 
 
 # Conclusion and Thanks
 
-Omni and Ouroboros would like to thank the entire Wabbajack community for being so awesome, but with a special mention for Althro, Cacophony, Arnold, Foamimi, colinswrath, Diana TES GotH, Styyx and Zooey, who have been a great help in us getting this far.
+Omni and Ouroboros would like to thank the entire Wabbajack community for being so awesome, but with a special mention for Althro, Cacophony, Arnold, Foamimi, colinswrath, Diana TES GotH, Styyx, Zooey and annathepiper, who have been a great help in us getting this far.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ouruboros)
 
