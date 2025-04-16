@@ -9,8 +9,21 @@
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "testing",
-      "<any tags you want in the UI, each in its own string"
+      "AE",
+      "Anniversary Edition",
+      "BFCO",
+      "Creation Club",
+      "EnaiRim",
+      "Legacy of the Dragonborn",
+      "LotD",
+      "Nevernude",
+      "New Quests",
+      "New Content",
+      "New Creatures",
+      "Performance",
+      "Performance Friendly",
+      "Steam Deck",
+      "SimonRim"
     ],
     "nsfw": false,
     "image_contains_title": true,
