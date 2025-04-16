@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Tuxborn",
+    "description": "Introducing Tuxborn, a performance and content-focused Wabbajack Modlist, with profiles tailored for both handheld devices and Laptops/Desktop PCs.",
+    "author": "Omni and Ouroboros",
+    "maintainers": [
+      "github/Ouruboros"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "testing",
+      "<any tags you want in the UI, each in its own string"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_Banner1.0.png",
+      "readme": "https://github.com/Omni-guides/Tuxborn/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "machineURL",
+      "discordURL": "https://discord.com/invite/xRrHRsb5e9"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "1.0"
+  }
+]
+
