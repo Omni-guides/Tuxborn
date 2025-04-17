@@ -10,11 +10,11 @@
 
 ### <ins>About Tuxborn</ins>
 
-Introducing **Tuxborn**, a performance/content-focused Wabbajack Modlist, with profiles tailored for both handheld devices and Laptops/Desktop PCs.
+Introducing **Tuxborn**, a Performance & Content-focused Wabbajack Modlist, with profiles tailored for both handheld devices and Laptops/Desktop PCs.
 
-If you need support or wish to chat about Tuxborn, join the [Aetherius Modding Discord](https://discord.gg/xRrHRsb5e9) , grab the Tuxborn role from Channels & Roles and look for us in the #txbn-general channel - support queries can be directed to the #txbn-support discord forum. Or if you just want to chat about Wabbajack Modlists on Steam Deck/Linux in general, then drop by the #unofficial-linux-help channel of the [Official Wabbajack Discord](https://discord.gg/wabbajack).
+If you need support or wish to chat about Tuxborn, join the [Aetherius Modding Discord](https://discord.gg/xRrHRsb5e9), grab the Tuxborn role from Channels & Roles and look for us in the #txbn-general channel - support queries can be directed to the #txbn-support discord forum. Or if you just want to chat about Wabbajack Modlists on Steam Deck/Linux in general, then drop by the #unofficial-linux-help channel of the [Official Wabbajack Discord](https://discord.gg/wabbajack).
 
-Inspired by the likes of Septimus, Eldryn and Redoran, Tuxborn was initially created to fill a gap in the Wabbajack Modlist landscape – A Modlist that at a minimume targets the performance profile of the Valve Steam Deck and midrange pc on the higher end. Since inception, Tuxborn has evolved to become a great option for those using less powerful PCs or laptops, as well as the full range of handheld PCs that are now on the market. 
+Inspired by the likes of Septimus, Eldryn and Redoran, Tuxborn was initially created to fill a gap in the Wabbajack Modlist landscape – A Modlist that at a minimum targets the performance profile of the Valve Steam Deck, and midrange PCs on the higher end. Since inception, Tuxborn has evolved to become a great option for those using less powerful PCs or laptops, as well as the full range of handheld PCs that are now on the market. 
 
 Tuxborn supports only the Anniversary Edition of Skyrim on Steam, updated to **v1.6.1170**. You **must own Skyrim Anniversary Edition** to run Tuxborn. Your CPU must support AVX, which should be fine for most CPUs newer than 2011.
 
@@ -34,7 +34,7 @@ While Tuxborn was *originally designed* for the performance profile of the Steam
 **Tuxborn - Handheld:** This profile aims for additional visual quality, at the cost of more ram/vram usage. It will work on the Steam Deck, but you will sometimes run into some performance issues. Systems with 24/32GB should be fine. Includes the BFCO Combat Animation Framework.  
 **Tuxborn – Desktop BFCO:** This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO Combat Animation Framework. Performance of this profile will depend on your system specs.  
 
-While the Deck profile _targets_ a locked FPS, **they are not capped at those figures**. Instead, it is expected that Deck users use the frame limiting feature of the Steam Deck to cap the FPS. On other systems, Frame limits can be set via SSEDisplayTweaks - See the FAQ section for details on how to do this.
+While the Deck profile _targets_ a locked FPS, **they are not capped at those figures**. Instead, it is expected that Deck users use the frame limiting feature of the Steam Deck to cap the FPS. On other systems, Frame limits for other systems can be set via SSEDisplayTweaks - See the FAQ section for details on how to do this.
 
 Please Note: Due to the need for shader cache building on the Steam Deck, there may be a noticeable stutter in the first 1-2 hours while the cache builds. It should be good after that.
 
