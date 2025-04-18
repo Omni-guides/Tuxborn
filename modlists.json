@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Tuxborn",
-    "description": "Introducing Tuxborn, a performance and content-focused Wabbajack Modlist, with profiles tailored for both handheld devices and Laptops/Desktop PCs.",
+    "description": "Tuxborn is a performance & content-focused Wabbajack modlist, with profiles tailored for both handheld devices and laptops/desktop PCs. Using a combination of mods from Enairim and Simonrim with optional modern combat based on BFCO.",
     "author": "Omni and Ouroboros",
     "maintainers": [
       "github/Ouruboros"
@@ -32,20 +32,21 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Omni-guides/Tuxborn/refs/heads/main/images/Tuxborn_Banner1.0.png",
       "readme": "https://github.com/Omni-guides/Tuxborn/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "download": "https://authored-files.wabbajack.org/Tuxborn.wabbajack_061c9080-520d-4a01-8086-20b9a71320e0",
       "machineURL": "machineURL",
       "discordURL": "https://discord.com/invite/xRrHRsb5e9"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "dqeZt+vme5I=",
+      "Size": 2142086738,
+      "NumberOfArchives": 1807,
+      "SizeOfArchives": 156375693713,
+      "NumberOfInstalledFiles": 382791,
+      "SizeOfInstalledFiles": 219301190437,
+      "TotalSize":375676884150
     },
-    "version": "1.0"
+    "version": "1.0.0"
   }
 ]
 
