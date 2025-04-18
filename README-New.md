@@ -104,7 +104,7 @@ We've done the xEdit bit for you, but you will still have to set your fallback p
 
 # Installation
 
-For Windows players, follow the Wabbajack instructions below, and once the Wabbajack installation is complete, run the ModOrganizer.exe file located in the Tuxborn install directory you selected in Wabbajack to start and launch the modlist. On Steam Deck, the process is a little more involved, so see below for [Installation instructions](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/TuxbornSteamDeckFullInstall.md), but please read through the following as well, as the information still applies. Once You have have completed the Wabbajack Installation on Deck, return to this guide, rejoining at [Starting the Game](https://github.com/Omni-guides/Tuxborn/edit/main/README.md#starting-the-game).
+For Windows players, follow the Wabbajack instructions below, and once the Wabbajack installation is complete, run the ModOrganizer.exe file located in the Tuxborn install directory you selected in Wabbajack to start and launch the modlist. On Steam Deck, the process is a little more involved, so see below for [Installation instructions](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Skyrim:-Tuxborn), but please read through the following as well, as the information still applies. Once You have have completed the Wabbajack Installation on Deck, return to this guide, rejoining at [Starting the Game](https://github.com/Omni-guides/Tuxborn/edit/main/README.md#starting-the-game).
 
 For best results, you should consider fully uninstalling and reinstalling Skyrim from your system prior to installing the Modlist via Wabbajack. This will ensure that there are no additional, unneeded or unclean files that could interrupt or make the Wabbajack installation process fail.
 
@@ -121,7 +121,7 @@ Tuxborn can only be installed using the Wabbajak application. There are differen
 
 ### <ins>Steam Deck/Linux</ins>
 
-As mentioned above, it is now possible to run Wabbajack directly on the Steam Deck (or any Linux system), though this method is still considered experimental until we get more data with regards to full success rates. If you wish to use this method, see the [Steam Deck Install Guide](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/TuxbornSteamDeckFullInstall.md). Alternatively, you can download Tuxborn using a Windows system using the below Windows instructions, and then transfer the Modlist Install Directory to the Deck (see [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/SyncToDeck) for some methods of transferring the data to the Steam Deck).
+As mentioned above, it is now possible to run Wabbajack directly on the Steam Deck (or any Linux system), though this method is still considered experimental until we get more data with regards to full success rates. If you wish to use this method, see the [Steam Deck Install Guide](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Skyrim:-Tuxborn). Alternatively, you can download Tuxborn using a Windows system using the below Windows instructions, and then transfer the Modlist Install Directory to the Deck (see [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/SyncToDeck) for some methods of transferring the data to the Steam Deck).
 
 ### <ins>Windows</ins>
 
