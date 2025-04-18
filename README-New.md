@@ -31,12 +31,12 @@ While Tuxborn was *originally designed* for the performance profile of the Steam
 **Tuxborn – Desktop:** This profile is for slightly more powerful PCs, has an expanded Community Shaders suite and higher INI settings. Performance of this profile will depend on your system specs.  
 
 **Tuxborn – Deck BFCO:** This profile aims for a locked 40FPS experience on the Steam Deck, and includes the BFCO Combat Animation Framework.  
-**Tuxborn - Handheld:** This profile aims for additional visual quality, at the cost of more ram/vram usage. It will work on the Steam Deck, but you will sometimes run into some performance issues. Systems with 24/32GB should be fine. Includes the BFCO Combat Animation Framework.  
+**Tuxborn - Handheld BFCO:** This profile aims for additional visual quality, at the cost of more ram/vram usage. It will work on the Steam Deck, but you will sometimes run into some performance issues. Systems with 24/32GB should be fine. Includes the BFCO Combat Animation Framework.  
 **Tuxborn – Desktop BFCO:** This profile is for slightly more powerful PCs, has a full Community Shaders suite, higher INI settings, and includes the BFCO Combat Animation Framework. Performance of this profile will depend on your system specs.  
 
 While the Deck profile _targets_ a locked FPS, **they are not capped at those figures**. Instead, it is expected that Deck users use the frame limiting feature of the Steam Deck to cap the FPS. On other systems, Frame limits for other systems can be set via SSEDisplayTweaks - See the FAQ section for details on how to do this.
 
-Please Note: Due to the need for shader cache building on the Steam Deck, there may be a noticeable stutter in the first 1-2 hours while the cache builds. It should be good after that.
+Please Note: **All** profiles now include Community Shaders. Due to the need for shader cache building on the Steam Deck, there may be a noticeable stutter in the first 1-2 hours while the cache builds. It should be good after that.
 
 
 ---
@@ -94,7 +94,7 @@ We've done the xEdit bit for you, but you will still have to set your fallback p
 **Tuxborn Combat Controller Keys:** Controller button mapping for the BFCO profiles. Disable if you are playing on Keyboard and Mouse.  
 **Combat Keyboard Keys:** Keyboard button mapping for the BFCO profiles. Disable if y ou are playing on controller.  
 **Small HUD:** Makes the HUD smaller in scale.  
-**Framegen:** A framegen mod that will ad more ai frames, doesn't work with Proton/Linux at the moment.  
+**Framegen:** A framegen mod that will add more ai frames, doesn't work with Proton/Linux at the moment.  
 **Lower Render Resolution:** An optional mod that lowers the render scaling to 0.75 to help with performance on handhelds that have 1080p and higher screen resolutions.  
 **Enemy (R)Evolution of Skyrim:** EEOS: gives npc more perks and spells to use against you.  
 **Masculine Animations for Female PCs/Feminine Animations for Male PCs:** changes some animations for the Player Character.  
