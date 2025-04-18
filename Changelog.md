@@ -34,13 +34,21 @@
 
  * Casual Dog Animations (DAR-OAR)
  * Conditional Dog Barking (OAR)
+ * Creation Club Open Helmets 2.0 Patches
  * Dragonborn Reskin - Modern Wait Menu
  * Dragonborn Reskin - SkyUI Active Effects Icons
  * Dragonborn Reskin - SkyUI Inventory Category Icons
  * Dragonborn Reskin - Tween Menu
  * Embers XD Patched meshes for Light Placer
+ * Eris - Chooey's Choice
+ * Eris Tavern Animation Lite (Light and Shade - ezPG)
  * Freyr Patch for Static Skill Leveling
+ * Improved Follower Dialogue Lydia - Light and Shade minor patch
+ * Light and Shade SE
+ * Nessa - Chooey's Choice
+ * Nessa SE
  * OBody Next Generation
+ * Quill - Realistic Font Replacer - REVISED
  * Skyland Landscapes Complex Parallax
  * Skyrim Upscaler - DLSS FSR2 XeSS
  * SSE FPS Stabilizer - 40FPS
@@ -48,8 +56,6 @@
  * The Common Guy - SerketHetyt's HIMBO Bodyslide Preset
  * The Common Lass - SerketHetyt's 3BA and Hands Redone Bodyslide Preset
  * UNDERDOG - Death Animations OAR
- * Nessa
- * Light and Shade
 
 ----------------------------------
 
