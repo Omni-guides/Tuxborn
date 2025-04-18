@@ -48,6 +48,8 @@
  * The Common Guy - SerketHetyt's HIMBO Bodyslide Preset
  * The Common Lass - SerketHetyt's 3BA and Hands Redone Bodyslide Preset
  * UNDERDOG - Death Animations OAR
+ * Nessa
+ * Light and Shade
 
 ----------------------------------
 
