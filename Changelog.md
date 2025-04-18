@@ -2,6 +2,55 @@
 
 ----------------------------------
 
+### 1.0 Full Release
+
+### Added:
+
+ * Achievement Injector Add-On
+ * CS Desktop
+ * CS Handheld
+ * Custom Skills Menu Add-On
+ * Daedric Shrines AIO by Xtudo - The Gray Cowl 10th
+ * Draugr Battleaxe and Warhammer Attack Animation
+ * Draugr Greatsword Animation
+ * Draugr One-handed Attack Animation
+ * DynDOLOD DLL NG
+ * DynDOLOD Resources SE
+ * DynDOLOD TexGen Fixes
+ * Favorites Menu Effects Description
+ * Iron Bodyslide Patches
+ * Legacy V6.9.0 window fix
+ * Lod Model Library for DynDOLOD
+ * New Draugr Unarmed Attack Animation
+ * Olenveld Revoiced
+ * Quest Journal Overhaul
+ * Sepolcri - DynDOLOD patch
+ * Tuxborn - DynDOLOD Output
+ * Tuxborn - ParallaxGen Output
+ * Tuxborn - TexGen Output
+ * Tween Menu Overhaul
+
+### Removed:
+
+ * Casual Dog Animations (DAR-OAR)
+ * Conditional Dog Barking (OAR)
+ * Dragonborn Reskin - Modern Wait Menu
+ * Dragonborn Reskin - SkyUI Active Effects Icons
+ * Dragonborn Reskin - SkyUI Inventory Category Icons
+ * Dragonborn Reskin - Tween Menu
+ * Embers XD Patched meshes for Light Placer
+ * Freyr Patch for Static Skill Leveling
+ * OBody Next Generation
+ * Skyland Landscapes Complex Parallax
+ * Skyrim Upscaler - DLSS FSR2 XeSS
+ * SSE FPS Stabilizer - 40FPS
+ * Terrain Shadows - Hight Data
+ * The Common Guy - SerketHetyt's HIMBO Bodyslide Preset
+ * The Common Lass - SerketHetyt's 3BA and Hands Redone Bodyslide Preset
+ * UNDERDOG - Death Animations OAR
+
+----------------------------------
+
 ### 1.0 Public Test 2a
 
 #### Added:
