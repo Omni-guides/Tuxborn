@@ -325,6 +325,8 @@ You are free to install you own mods into Tuxborn, but this voides your offical 
 
   * How do I change resolution or the Framerate limit? - These are both controlled by the SSEDisplayTweaks.ini contained within the "Tuxborn - Settings" mod entry under the "Patcher Output" section in MO2.
 
+ * How do I change the FOV? - FOV can be changed in the MCM for Alternitive Conversation Camera, while in-game.
+
 
 # Conclusion and Thanks
 
