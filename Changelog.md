@@ -2,7 +2,7 @@
 
 ----------------------------------
 
-### 1.0 Full Release
+### 1.0 Full Release - 18th April 2025
 
 ### Added:
 
