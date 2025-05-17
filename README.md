@@ -16,7 +16,7 @@ If you need support or wish to chat about Tuxborn, join the [Aetherius Modding D
 
 Inspired by the likes of Septimus, Eldryn and Redoran, Tuxborn was initially created to fill a gap in the Wabbajack Modlist landscape – A Modlist that at a minimum targets the performance profile of the Valve Steam Deck, and midrange PCs on the higher end. Since inception, Tuxborn has evolved to become a great option for those using less powerful PCs or laptops, as well as the full range of handheld PCs that are now on the market. 
 
-Tuxborn supports only the Anniversary Edition of Skyrim on Steam, updated to **v1.6.1170**. You **must own Skyrim Anniversary Edition** to run Tuxborn. Your CPU must support AVX, which should be fine for most CPUs newer than 2011.
+Tuxborn supports only the Anniversary Edition of Skyrim on Steam, updated to **v1.6.1170**. You **must own Skyrim Anniversary Edition** to run Tuxborn, and the language **must be set to English**. Your CPU must support AVX, which should be fine for most CPUs newer than 2011.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ouruboros)
 
