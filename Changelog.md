@@ -2,6 +2,33 @@
 
 ----------------------------------
 
+### 1.1.0 Update - 24th May 2025
+
+### Added:
+
+ * Cave Mesh Fix
+ * Foamimi's Glenmoril NPC Visual Overhaul
+ * Splendor - Dragon Variants SE
+ * Tales Of Skyrim - Berserkyr - 3BA Conversion
+
+### Removed:
+
+ * Achievement Injector
+ * Achievement Injector Add-On
+ * Achievement Injector - Unofficial Achievements and Patches
+ * Achievements for Various Mods
+ * Dragon War - A Dragon Overhaul
+ * GLENMORIL - NPC Overhaul
+ * Gourmet - Teldryn Serious
+ * Legacy of the Dragonborn Achievements
+ * SIRENROOT - Achievement Injector
+ * Steam Keyboard Integration (for Big Picture)
+ * Teldryn Serious - A Teldryn Sero Backstory Quest SSE
+ * Teldryn Serious Patch
+ * Unofficial Trainwiz Achievements
+ * Unslaad - Achievement Injector Patch
+ * Vigilant - Achievement Injector Patch
+
 ### 1.0 Full Release - 18th April 2025
 
 ### Added:
