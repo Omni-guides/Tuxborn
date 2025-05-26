@@ -21,21 +21,21 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Omni-guides/Tuxborn/main/images/Splash.png",
       "readme": "https://github.com/Omni-guides/Tuxborn/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tuxborn.wabbajack_c318ae50-725b-412e-9dd1-65c8cf1ef824",
+      "download": "https://authored-files.wabbajack.org/Tuxborn.wabbajack_b96e8113-3dd1-4257-afcd-5a7cb984fb6b",
       "machineURL": "Tuxborn",
       "discordURL": "https://discord.com/invite/xRrHRsb5e9"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "GKsH2/rNuBg=",
-      "Size": 2885127226,
-      "NumberOfArchives": 1792,
-      "SizeOfArchives": 147456056127,
-      "NumberOfInstalledFiles": 381249,
-      "SizeOfInstalledFiles": 218924571439,
-      "TotalSize":366380627566
+      "Hash": "HfNfLXqrCz4",
+      "Size": 2885126721,
+      "NumberOfArchives": 1791,
+      "SizeOfArchives": 147453912353,
+      "NumberOfInstalledFiles": 381247,
+      "SizeOfInstalledFiles": 218926457577,
+      "TotalSize":366380369930
     },
-    "version": "1.1.0"
+    "version": "1.1.1"
   }
 ]
 
