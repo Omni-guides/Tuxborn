@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-<a href="https://discord.gg/xRrHRsb5e9">Discord</a> | <a href="https://github.com/Omni-guides/Tuxborn/blob/main/Changelog.md">Changelog</a> | <a href="https://www.nexusmods.com/skyrimspecialedition/mods/114206">Nexus</a>
+<a href="https://discord.gg/xRrHRsb5e9">Discord</a> | <a href="https://github.com/Omni-guides/Tuxborn/blob/main/Changelog.md">Changelog</a> | <a href="https://loadorderlibrary.com/lists/tuxborn">Mod List & Load Order</a> | <a href="https://www.nexusmods.com/skyrimspecialedition/mods/114206">Nexus</a>
 </div>
 
 # Introduction
@@ -50,7 +50,7 @@ Using the brilliant Anvil Modlist as a base, Tuxborn creates a balance of game f
 
 Downloading a Wabbajack Modlist gives you everything you need - **you do not need to install ModOrganizer yourself, or copy mods to the Vanilla Skyrim directory, everything is already done for you!**.
 
-A full list of mods included in the list can be found on the [Changelog](Changelog.md), but as a brief overview, Tuxborn utilises the following:
+A full list of mods included in the list can be found on the [Load Order Library](a href="https://loadorderlibrary.com/lists/tuxborn), but as a brief overview, Tuxborn utilises the following:
 
 **Gameplay Changes (Simonrim):** [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191/), [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839), [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138), [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) & [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659)
 
