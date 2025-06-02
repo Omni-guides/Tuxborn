@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-<a href="https://discord.gg/xRrHRsb5e9">Discord</a> | <a href="https://github.com/Omni-guides/Tuxborn/blob/main/Changelog.md">Changelog</a> | <a href="https://loadorderlibrary.com/lists/tuxborn">Mod List & Load Order</a> | <a href="https://www.nexusmods.com/skyrimspecialedition/mods/114206">Nexus</a>
+<a href="https://discord.gg/xRrHRsb5e9">Discord</a> | <a href="https://github.com/Omni-guides/Tuxborn/blob/main/Changelog.md">Changelog</a> | <a href="https://loadorderlibrary.com/lists/tuxborn">Mod List & Load Order</a> | <a href="https://loadorderlibrary.com/lists/tuxborn-bfco">Mod List & Load Order (BFCO)</a> | <a href="https://www.nexusmods.com/skyrimspecialedition/mods/114206">Nexus</a>
 </div>
 
 # Introduction
