@@ -1,13 +1,13 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Tuxborn",
-    "description": "Tuxborn is a performance & content-focused Wabbajack modlist, with profiles tailored for both handheld devices and laptops/desktop PCs. Using a combination of mods from Enairim and Simonrim with optional modern combat based on BFCO.",
+    "description": "Tuxborn is a performance \u0026 content-focused Wabbajack modlist, with profiles tailored for both handheld devices and laptops/desktop PCs. Using a combination of mods from Enairim and Simonrim with optional modern combat based on BFCO.",
     "author": "Omni and Ouroboros",
     "maintainers": [
       "github/Ouruboros"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "DLC Required",
       "SFW",
@@ -15,27 +15,30 @@
       "Steam"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Omni-guides/Tuxborn/main/images/Splash.png",
       "readme": "https://github.com/Omni-guides/Tuxborn/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tuxborn.wabbajack_b96e8113-3dd1-4257-afcd-5a7cb984fb6b",
+      "download": "https://authored-files.wabbajack.org/Tuxborn.wabbajack_fc5c4851-0fef-4067-ae82-887ec9175a5e",
       "machineURL": "Tuxborn",
-      "discordURL": "https://discord.com/invite/xRrHRsb5e9"
+      "discordURL": "https://discord.com/invite/xRrHRsb5e9",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "HfNfLXqrCz4",
-      "Size": 2885126721,
-      "NumberOfArchives": 1791,
-      "SizeOfArchives": 147453912353,
-      "NumberOfInstalledFiles": 381247,
-      "SizeOfInstalledFiles": 218926457577,
-      "TotalSize":366380369930
+      "Hash": "qIRulUoiw+g=",
+      "Size": 2041731794,
+      "NumberOfArchives": 1788,
+      "SizeOfArchives": 146506648306,
+      "NumberOfInstalledFiles": 380933,
+      "SizeOfInstalledFiles": 218892909958,
+      "TotalSize": 365399558264
     },
-    "version": "1.1.1"
+    "version": "1.1.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-07-08T17:07:57.9349311Z",
+    "repositoryName": ""
   }
 ]
-
