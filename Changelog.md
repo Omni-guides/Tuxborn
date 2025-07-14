@@ -6,11 +6,11 @@
 
 #### Added Mods
 
-Creation Club Open Helmets 2.0 Patches
-King Olaf's Fire Festival Not Ending Fix
-Mfg Fix
-Sound Fix for Large Sector Drives
-SSE FPS Stabilizer - 40FPS
+ * Creation Club Open Helmets 2.0 Patches
+ * King Olaf's Fire Festival Not Ending Fix
+ * Mfg Fix
+ * Sound Fix for Large Sector Drives
+ * SSE FPS Stabilizer - 40FPS
 
 #### Removed Mods
 
