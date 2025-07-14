@@ -19,6 +19,12 @@ Vibrant weapons - No Shock Lights
 
 ----------------------------------
 
+### 1.1.1 Update - 26th May 2025
+
+#### Updated:
+
+ * Resurrection API for Skyrim 1.6
+
 ### 1.1.0 Update - 24th May 2025
 
 #### Added:
