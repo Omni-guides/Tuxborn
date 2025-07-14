@@ -2,16 +2,33 @@
 
 ----------------------------------
 
+### 1.1.2 Update - 8th July 2025
+
+#### Added Mods
+
+Creation Club Open Helmets 2.0 Patches
+King Olaf's Fire Festival Not Ending Fix
+Mfg Fix
+Sound Fix for Large Sector Drives
+SSE FPS Stabilizer - 40FPS
+
+#### Removed Mods
+
+Vibrant weapons - Fire Frost Shock
+Vibrant weapons - No Shock Lights
+
+----------------------------------
+
 ### 1.1.0 Update - 24th May 2025
 
-### Added:
+#### Added:
 
  * Cave Mesh Fix
  * Foamimi's Glenmoril NPC Visual Overhaul
  * Splendor - Dragon Variants SE
  * Tales Of Skyrim - Berserkyr - 3BA Conversion
 
-### Removed:
+#### Removed:
 
  * Achievement Injector
  * Achievement Injector Add-On
@@ -29,9 +46,11 @@
  * Unslaad - Achievement Injector Patch
  * Vigilant - Achievement Injector Patch
 
+----------------------------------
+
 ### 1.0 Full Release - 18th April 2025
 
-### Added:
+#### Added:
 
  * Achievement Injector Add-On
  * CS Desktop
@@ -57,7 +76,7 @@
  * Tuxborn - TexGen Output
  * Tween Menu Overhaul
 
-### Removed:
+#### Removed:
 
  * Casual Dog Animations (DAR-OAR)
  * Conditional Dog Barking (OAR)
