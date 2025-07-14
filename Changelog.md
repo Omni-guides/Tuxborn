@@ -14,8 +14,8 @@
 
 #### Removed Mods
 
-Vibrant weapons - Fire Frost Shock
-Vibrant weapons - No Shock Lights
+ * Vibrant weapons - Fire Frost Shock
+ * Vibrant weapons - No Shock Lights
 
 ----------------------------------
 
