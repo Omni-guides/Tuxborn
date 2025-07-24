@@ -86,7 +86,7 @@ We've done the xEdit bit for you, but you will still have to set your fallback p
 
 **Main Menu:** A Custom Tuxborn Main Menu.  
 **Custom Presets Go in Here:** An empty folder to put any custom racemenu presets in (.jslot file format).  
-[**Static Skill Levelling:](https://www.nexusmods.com/skyrimspecialedition/mods/89940)**  Alternative Skill Leveling system (cannot be enabled/disabled mid-save).
+**[Static Skill Levelling:](https://www.nexusmods.com/skyrimspecialedition/mods/89940)**  Alternative Skill Leveling system (cannot be enabled/disabled mid-save).  
 **SSE FPS Stabilizer:** A SKSE plugin that dynamically changes settings based on a performance target, can be disabled if you run into weird performance issues.  
 **Resurrection API:** An API for reliable, instant & bugless resurrection mods. Required for Shades of Mortality (to disable, remove all active effects and then disable with other Resurrection API mod, and Shades of Mortality).  
 **Resurrection API for Skyrim 1.6:** An API for reliable, instant & bugless resurrection mods. Required for Shades of Mortality (to disable, remove all active effects and then disable with other Resurrection API mod, and Shades of Mortality).  
