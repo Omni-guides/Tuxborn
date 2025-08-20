@@ -216,8 +216,8 @@ Dpad Down = Sneak
 V = Block with 1h+Spell  
 Alt = Dodge/Sprint  
 G = Heavy Attack  
-M1 = Block everything else  
-M2 = Light Attack  
+M1 = Light Attack  
+M2 = Block everything else  
 
 (Keyboard users on the BFCO profile will need to select the Combat Keyboard Keys under optionals and disable Tuxborn Combat Controller Input in MO2.)
 
