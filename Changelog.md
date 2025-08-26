@@ -2,6 +2,12 @@
 
 ----------------------------------
 
+### 1.1.3 Update - 31st July 2025
+
+ * A minor update re-enabling one esp, and a minor edit to another
+
+----------------------------------
+
 ### 1.1.2 Update - 8th July 2025
 
 #### Added Mods
