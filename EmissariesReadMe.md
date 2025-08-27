@@ -24,7 +24,7 @@ Please Note: Due to the need for shader cache building on the Steam Deck, there 
 
 ### <ins>Deck/Linux</ins>
 
-TBA - Is being worked on but Omni has a lot of plates spinning at the moment. If you are a bit more experienced with Linux gaming you can set up the list now using these instruction: https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/General-Linux-Guide-(Anvil), with the these launch options https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/FNVTemp#step-5---set-the-required-launch-options-in-steam - replace 22380 with 976620.
+TBA - Is being worked on but Omni has a lot of plates spinning at the moment. If you are a bit more experienced with Linux gaming you can set up the list now using these instructions: https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/General-Linux-Guide-(Anvil), with the these launch options https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/FNVTemp#step-5---set-the-required-launch-options-in-steam - replace 22380 with 976620.
 
 ### <ins>Optional Mods</ins>
 
@@ -38,7 +38,7 @@ TBA - Is being worked on but Omni has a lot of plates spinning at the moment. If
 
 **Masculine Animations for Female PCs/Feminine Animations for Male PCs:** changes some animations for the Player Character.
 
-**Story Mode - not safesave:** Makes the game easier for those that want it, as Enderal is more changeling then default Skyrim. This will only work properly on a new save, make sure you enable all the esps - they are fine at the bottom.
+**Story Mode - not safesave:** Makes the game easier for those that want it, as Enderal is more challenging then default Skyrim. This will only work properly on a new save, make sure you enable the esp - it's to keep it at the bottom of the loadorder.
 
 ### <ins>Beginner Tips for Enderal</ins>
 
@@ -52,7 +52,7 @@ Food is your friend and will give you long lasting healing, be sure to collect a
 
 Focus on 3-4 main skills and 1-2 crafting skills when making your character
 
-Enderal has it own [Wiki](https://en.wiki.sureai.net/Enderal) if you feel stuck or want to check something
+Enderal has its own [Wiki](https://en.wiki.sureai.net/Enderal) if you feel stuck or want to check something
 
 ### <ins>Keybind Changes/Gamepad buttons</ins>
 
@@ -65,8 +65,8 @@ The racemenu camera can be a bit claustrophobic, you can tweak the camera in one
 
 Sometimes you still get the heromenu tutorial at higher levels, you can turn this off in the Enderal mcm.
 
-Chest lack opening animations that is because Medieval Chests doesn't have them at this point in time.
+Chests lack opening animations that is because Medieval Chests doesn't have them at this point in time.
 
 ### <ins>Installing your own mods</ins>
 
-You are free to install you own mods into Emissaries of Tux, but this voides your offical support. If you do still want/need help look for the modlist-modifications channel in the discord. It's higly recomand that you look at these guides before you make any changes [Lively's modding wiki](https://github.com/LivelyDismay/Learn-To-Mod/wiki) and [Althro's resources](https://github.com/The-Animonculory/Modding-Resources)
+Your are free to install you own mods into Emissaries of Tux, but this voids your offical support. If you do still want/need help look for the modlist-modifications channel in the discord. It's highly recommended that you look at these guides before you make any changes [Lively's modding wiki](https://github.com/LivelyDismay/Learn-To-Mod/wiki) and [Althro's resources](https://github.com/The-Animonculory/Modding-Resources)
