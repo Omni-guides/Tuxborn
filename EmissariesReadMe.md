@@ -40,6 +40,16 @@ TBA - Is being worked on but Omni has a lot of plates spinning at the moment. If
 
 **Story Mode - not safesave:** Makes the game easier for those that want it, as Enderal is more challenging then default Skyrim. This will only work properly on a new save, make sure you enable the esp - it's to keep it at the bottom of the loadorder.
 
+### <ins>Downloads that some times fail</ins>
+
+If wabbajack fails to grab these files use the links below and place the files in your seleceted download folder
+
+Mod.Organizer-2.5.2.7z - https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z
+
+Synthesis.zip - https://github.com/Mutagen-Modding/Synthesis/releases/download/0.34.0/Synthesis.zip
+
+EnderalSEEdit - https://www.nexusmods.com/enderalspecialedition/mods/78?tab=files&file_id=2793
+
 ### <ins>Beginner Tips for Enderal</ins>
 
 After meeting Jespar, go check out the camp/region you just came from and after that go directly to Riverville. Swimming in the river is the safest way.
