@@ -77,6 +77,8 @@ Sometimes you still get the heromenu tutorial at higher levels, you can turn thi
 
 Chests lack opening animations that is because Medieval Chests doesn't have them at this point in time.
 
+Controlers sometimes don't seem to work with Eot on windows, hit the XBOX/GUIDE or similar button ones when in game and that will fix it. 
+
 ### <ins>Installing your own mods</ins>
 
 Your are free to install you own mods into Emissaries of Tux, but this voids your offical support. If you do still want/need help look for the modlist-modifications channel in the discord. It's highly recommended that you look at these guides before you make any changes [Lively's modding wiki](https://github.com/LivelyDismay/Learn-To-Mod/wiki) and [Althro's resources](https://github.com/The-Animonculory/Modding-Resources)
