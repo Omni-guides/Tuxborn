@@ -40,5 +40,42 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-07-31T07:01:30.6931158Z",
     "repositoryName": ""
+  },
+{
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Emissaries of Tux",
+    "description": "Emissaries of Tux is a performance friendly Wabbajack list for the steam version of Enderal SE, aiming to give the world of Vyn a more unique feel over skyrim, targething at minimum the hardware of the Steamdeck.",
+    "author": "Ouroboros",
+    "maintainers": [
+      "github/Ouruboros"
+    ],
+    "game": "EnderalSpecialEdition",
+    "tags": [
+      "Vanilla+",
+      "SFW",
+      "Steam Deck",
+      "Steam"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Omni-guides/Tuxborn/main/images/EoT2.png",
+      "readme": "https://github.com/Omni-guides/Tuxborn/blob/main/EmissariesReadMe.md",
+      "download": "https://authored-files.wabbajack.org/Emissaries%20of%20Tux.wabbajack_0ba9c820-4fca-4ae2-8df3-69fad18dd215",
+      "machineURL": "EofTux",
+      "discordURL": "https://discord.com/invite/xRrHRsb5e9"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "TBjHtiELb4I=",
+      "Size": 358299274,
+      "NumberOfArchives": 612,
+      "SizeOfArchives": 46757783449,
+      "NumberOfInstalledFiles": 73043,
+      "SizeOfInstalledFiles": 60454119828
+    },
+    "version": "2.0.2"
   }
 ]
