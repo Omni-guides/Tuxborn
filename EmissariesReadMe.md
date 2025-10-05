@@ -16,7 +16,9 @@ As noted above, Emissaries of Tux is designed for the performance profile of the
 
 **Emissaries of Tux -  Deck:** This profile aims for a locked 40FPS experience on the Steam Deck. Comes with part of the CS set-up.
 
-**Emissaries of Tux - CS:** Same as Deck, but with all the CS addons that are released at this point in time.This profile is for more powerful PCs.
+**Emissaries of Tux - CS:** Same as Deck, but with all the CS addons that are released at this point in time. This profile is for more powerful PCs.
+
+**Emissaries of Tux - CS lite:** A profile in between Deck and CS.
 
 **Emissaries of Tuxborn – ENB:** Replaces CS with Ambrosia ENB, where this one or CS will run better will be system dependent. 
 
@@ -34,11 +36,23 @@ TBA - Is being worked on but Omni has a lot of plates spinning at the moment. If
 
 **Bigger HUD:** Makes the HUD bigger in scale for small screens.
 
-**Frame Generation - Community Shaders/ENB Frame Generation:** A in engine frame gen option, don’t use it together with any other sources like lossless scaling or AFMF.
+**Frame Generation - ENB Frame Generation:** A in engine frame gen option, don’t use it together with any other sources like lossless scaling or AFMF.
 
 **Masculine Animations for Female PCs/Feminine Animations for Male PCs:** changes some animations for the Player Character.
 
 **Story Mode - not safesave:** Makes the game easier for those that want it, as Enderal is more challenging then default Skyrim. This will only work properly on a new save, make sure you enable the esp - it's to keep it at the bottom of the loadorder.
+
+### <ins>Framegen and Upscalling with CS</ins>
+
+To toggle these on  you need to use the CS menu in game by hitting END key, see here how to do that with controller/handhelds: https://github.com/Omni-guides/Tuxborn/wiki/Community-Shaders-on-handheld-devices. On the left you will see a list of options, you want upscalling under the header display. Where you see TAA is where you can toggle upscalling between FSR and DLSS, lower down on the page you have options for framegen.
+
+**When to use upscalling:**
+Upscalling renders the game at a lower resolution and then uses ai to make it look higher res. You should use this if you aren't getting a stable 30fps (if you are running consistently below that switch to another profile) or you want to conserve some power when you are running on a handheld/laptop. 
+
+**When to use framegen:**
+Framegen uses ai to add fake frames to make the game feel more smooth, at the cost of higher input latency. You should only use this when you are already running between 40-50fps. It should roughly double your fps, when you use this on a screen that runs lower than 120fps you also need to toggle the force framegen option. 
+
+You can use CS upscalling and framegen together, but you should expect to see some artifacting. DON’T use them together with external sources, like lossless scaling. 
 
 ### <ins>Downloads that some times fail</ins>
 
