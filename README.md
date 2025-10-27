@@ -153,7 +153,7 @@ Downloading any Wabbajack Modlist can take a while - how quickly it completes wi
 # Starting the Game
 
 
-**Steam Deck Users:** If you plan to use one of the BFCO profiles, due to a clash between RaceMenu, Steam Input and Bethesda "helping", you will need to add `steamdeck=0 %command%` to the launch options in Steam:
+**Steam Deck Users:** If you plan to use one of the BFCO profiles, due to a clash between RaceMenu, Steam Input and Bethesda "helping", you will need to add `SteamDeck=0 %command%` to the launch options in Steam:
 
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_SteamDeck0.png" width="600">
 
@@ -184,7 +184,7 @@ YOU WILL BREAK MANY MANY THINGS. DO NOT PRESS THE BUTTON! ⚠️ ❗
 Press A followed by X, and X again on Deck/Gamepad, or Enter, Escape, Escape on keyboard. You do not have to re-download the CC Content.
 
  * Lack of some controls during Character Creation - restart Tuxborn one last time
- * Can't name Character on BFCO Profiles - see [above guidance](https://github.com/Omni-guides/Tuxborn/blob/main/README.md#starting-the-game) for adding `steamdeck=0` to launch options.
+ * Can't name Character on BFCO Profiles - see [above guidance](https://github.com/Omni-guides/Tuxborn/blob/main/README.md#starting-the-game) for adding `SteamDeck=0` to launch options.
 
 ### <ins>In-Game</ins>
 
