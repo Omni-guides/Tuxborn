@@ -18,6 +18,18 @@ Lastly Tuxborn is a curated modlist, there are things we set-up for you to tweak
 
 ---
 
+### <ins>In game</ins>
+
+Tuxborn makes use of the [Alternate Start - Life another life SSE](https://www.nexusmods.com/skyrimspecialedition/mods/272) mod - this allows you to select an alternative location or settings to start your journey. **We have deliberately removed some of the alternate start options as they proved to be buggy or cause issues further into a save.**
+
+After making your Character, PLEASE WAIT until there are no longer any notification messages show in the top-left of the screen.
+
+<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_In-gameNotifications.png" width="600">
+
+When no more messages are displayed (the final message should be "Museum List Build Complete", and does take quite a while to appear, but this only needs to happen once), pick up the book on the table, and then speak to the statue and select your Alternative Start, then sleep in the bed as directed to being your adventure!
+
+---
+
 ### <ins>Asking for help</ins>
 
 Below this you can kind find a lot of infomation on the content of the list to help you along, but you might run into a issue, bug or maybe there is something that is not covered. That is what the discord is for LINK, for small general question you can use #txbn-general anything else goes to #txbn-support. Before you post in there look at this document for the inform we need from you: , this way we can help you the best.
@@ -27,3 +39,21 @@ Below this you can kind find a lot of infomation on the content of the list to h
 ### <ins>The quest for more knowledge</ins>
 
 This is a big list and so there is also a lot to know, to not overwell you with have spilt that information up and the section below will point you on you way. 
+
+**Tuxborn technical things**
+
+Keybinds:
+Tweaking settings and Optional Mods:
+Updating the list:
+Survival mode:
+Handheld information:
+Modding/rule11 (removes support):
+
+**Content**
+
+The wiki is the place to find out more abouth the conetent of the list and how to get there, togethere with the nexus pages of the mod itself. Here are some important highlight, but not everthing.
+
+First time tips:
+Quest:
+Gameplay overhauls:
+
