@@ -1,8 +1,10 @@
 You might get stuck durring the install of Tuxborn if that is the case you can ask for help in the discord in #txbn-support, but have a look a the anoucment before you make a post the might be a general issue breaking the install. Always include you newest wabbajack log in the post, you can find that in Wabbajack/X.X.X.X/logs. Before you do that just try to run wabba again and log in to your nexus acount again, some mods are know the fail downloading you can find links for them here: LINK.     
 
-### <ins>Windows</ins>
+### <ins>Prepping your install of Skyrim</ins>
 
-Prepping your install of Skyrim  
+If you have modded Skyrim before or used Vortrex/NMM you need to clean you install, go to you documents folder - my game - skyrim se and dellet everthing but you saves. After that go to Steam and select Skyrim, click on the gear on the right - manage - browse local files and dellet everthing in there. After that go back to the gear, this time select properties go to - installed files and click verify integrity. Stean will now download the game files again.
+
+Next boot up skyrim, you should get a promt to install CC content in game if you haven't downloaded them already. If you haven't downloaded them already and don't get a promt, select Creations from the main menu, in the menu at the botum you should have a option to install al owned creation clud content -> click that. 
 
 ### <ins>Windows</ins>
 
