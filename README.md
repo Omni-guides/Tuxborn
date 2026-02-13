@@ -57,7 +57,7 @@ If you want a overview on what is in Tuxborn look at the Loadorder Libary linked
 
 ### <ins>Requirements</ins>
 
-**Skyrim: Special Edition** on Steam updated to **v1.6.1170** with the **Anniversary Edition** DLC, and the language **must be set to English**.    
+**Skyrim: Special Edition** on Steam updated to **v1.6.1170** with the **Anniversary Edition** DLC owned by your acount famiely sharing won't work with Wabbajack, and the language **must be set to English**.    
 
 Hardware: Your CPU must support AVX, which should be fine for most CPUs newer than 2011. 
           Minimum specs for the low/deck profile are the same specs as a Steamdeck, the desktop equivelent in performance are roughly 
