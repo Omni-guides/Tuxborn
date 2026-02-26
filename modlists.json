@@ -64,23 +64,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Omni-guides/Tuxborn/main/images/EoT2.png",
       "readme": "https://github.com/Omni-guides/Tuxborn/blob/main/EmissariesReadMe.md",
-      "download": "https://authored-files.wabbajack.org/Emissaries of Tux.wabbajack_7ec4641e-f190-418c-b164-beceae34b45e",
+      "download": "https://authored-files.wabbajack.org/Emissaries of Tux.wabbajack_0590264f-fa04-4871-9f40-7cd96531adbf",
       "machineURL": "EofTux",
       "discordURL": "https://discord.com/invite/xRrHRsb5e9",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "PbC5rbq27yk=",
-      "Size": 350974920,
+      "Hash": "wbTfCmb75SY=",
+      "Size": 350979272,
       "NumberOfArchives": 620,
-      "SizeOfArchives": 46819541387,
-      "NumberOfInstalledFiles": 73081,
-      "SizeOfInstalledFiles": 60570309606,
-      "TotalSize": 107389850993
+      "SizeOfArchives": 46857864868,
+      "NumberOfInstalledFiles": 73196,
+      "SizeOfInstalledFiles": 60680560959,
+      "TotalSize": 107538425827
     },
-    "version": "2.0.3",
+    "version": "2.0.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-01-14T15:47:32.8547796Z",
+    "dateUpdated": "2026-02-26T09:21:03.8765489Z",
     "repositoryName": ""
   }
 ]
