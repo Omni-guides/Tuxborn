@@ -75,9 +75,9 @@ In addition you need XXXgb of free space to install the list, the install needs 
 The steps for installation of the list will depend on the platform you are using to play this list on, to make this as frictionless as possible we have split these instuctions in there own section.<br/>
 
 **Windows Desktop:** https://github.com/Omni-guides/Tuxborn/blob/main/WinInstall.md <br/>
-**Windows Handhelds:** <br/>
-**Linux Desktop:** <br/>
-**Linux Handheld:** <br/>
+**Windows Handhelds:** https://github.com/Omni-guides/Tuxborn/blob/main/WinHandInstall.md <br/>
+**Linux with Nexus Premium:** https://github.com/Omni-guides/Tuxborn/blob/main/LinuxNexusPremium.md <br/>
+**Linux without Nexus Premium:** https://github.com/Omni-guides/Tuxborn/blob/main/LinuxInstall.md <br/>
 
 If you are looking to update your install of Tuxborn look here instead: <br/>
 If you are looking for the post install info look here: https://github.com/Omni-guides/Tuxborn/blob/main/afterinstall.md 
