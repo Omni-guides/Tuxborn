@@ -47,7 +47,9 @@ Introducing **Tuxborn**, a Performance & Content-focused Wabbajack Modlist, with
 
 If you need support or wish to chat about Tuxborn, join the [Aetherius Modding Discord](https://discord.gg/xRrHRsb5e9), grab the Tuxborn role from Channels & Roles and look for us in the #txbn-general channel - support queries can be directed to the #txbn-support discord forum. Or if you just want to chat about Wabbajack Modlists on Steam Deck/Linux in general, then drop by the #unofficial-linux-help channel of the [Official Wabbajack Discord](https://discord.gg/wabbajack).
 
-Inspired by the likes of Septimus, Eldryn and Redoran, Tuxborn was initially created to fill a gap in the Wabbajack Modlist landscape – A Modlist that at a minimum targets the performance profile of the Valve Steam Deck, and midrange PCs on the higher end. Since inception, Tuxborn has evolved to become a great option for those using less powerful PCs or laptops, as well as the full range of handheld PCs that are now on the market. <ins>With options for both regulare skyrim combat and moderne 3rd person action combat based on MCO, using a combination of Simonrim and Enairim overhauls. Enhanced by new perk trees, statice leveling and a large amount of new content to play.</ins> (enough or does more need to be added). 
+Inspired by the likes of Septimus, Eldryn and Redoran, Tuxborn was initially created to fill a gap in the Wabbajack Modlist landscape – A Modlist that at a minimum targets the performance profile of the Valve Steam Deck, and midrange PCs on the higher end. Since inception, Tuxborn has evolved to become a great option for those using less powerful PCs or laptops, as well as the full range of handheld PCs that are now on the market. With options for both regulare skyrim combat and moderne 3rd person action combat based on MCO, using a combination of Simonrim and Enairim overhauls. Enhanced by new perk trees, statice leveling and a large amount of new content to play.
+
+There are two version of the list you can install, the main version you can find on Nexus and Wabbajack this comes with every profile the list has. Secondly there is a Deck/Low only version on Nexus, this version removes all the large textures mods that are used for this profile for a smaller install size. 
 
 If you want a overview on what is in Tuxborn look at the Loadorder Libary linked above or check out our own wiki with even more detail information on what is in the list and how to use it/accese it. 
 
@@ -65,8 +67,10 @@ Hardware: Your CPU must support AVX, which should be fine for most CPUs newer th
           CPU: Intel Core i3-10100 or Ryzen 3 3100
           GPU: GTX 1050 Ti or Radeon RX 550
           RAM: 16gb
+          VRAM: 6gb or more for Medium or High with PBR
           
 In addition you need XXXgb of free space to install the list, the install needs to be on a SSD - download can be on what ever makes you happy
+For Deck/Low this is XXXgb
 
 ---
 
