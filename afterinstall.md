@@ -6,6 +6,11 @@ If everthing went as planned you should now have a succesvol install of Tuxborn 
 
 Skyrim is a game that is great for modding but isn't know for it's stabiliet or being over all well made under the hood, we do a lot to reduce any issues related to this but there is still some important limmitations you need to know about. 
 
+**Profiles:** 
+- MCO is a animation overhaul that changes the flow of combat to be more action based
+- The other options are based on peformance, all have the same content
+- For save compatibitly see here: LINK
+
 **Fps:** Skyrim runs a lot of stuff in the background, to make sure that is happing corectly the game needs to run @ 30fps without the use of framegen. So choise a performance profile where that is the case.
 
 **Saving:** Skyrim saving system is kind of bad and it's quite easy to break, so make sure to only save when it's save to do so. Don't save during or direclty after ending combat, when a lot is happing, just after a loading screen or when you fps is below 30 and no auto saves. Do try to save regulary around every 20-40 min is good target, quicksave key make regulare saves now and never save scum.    
@@ -42,6 +47,29 @@ Below this you can kind find a lot of infomation on the content of the list to h
 - You have made no edits or additions to the list
 
 Do your best to add context to the issue, what were you doing at the time in the game helps diagnose the issue. Or add a screenshot, an image can say a thousand words. Don’t make us have to hunt stuff down, details are important. 
+
+---
+### <ins>Keybinds</ins>
+This is for MCO only, any other keybind is the skyrim defaul
+
+Controller
+
+    X = Dodge/Sprint
+    LB = Block with 1h+Spell
+    LT = Block everything else
+    RB = Heavy Attack
+    RT = Light Attack
+    L3 = Shout/Power
+    Dpad Left = Sheath Weapon
+    Dpad Down = Sneak
+
+Keyboard
+
+    V = Block with 1h+Spell
+    Alt = Dodge/Sprint
+    G = Heavy Attack
+    M1 = Light Attack
+    M2 = Block everything else
 
 ---
 
