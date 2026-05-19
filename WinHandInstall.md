@@ -11,4 +11,4 @@ XBOX: Open the XBOX app and go to the libary tab, in the to right you will find 
 Steam: Open Steam on go to your libary, in the bottom left the is a plus - click on that. Add a none-steam game -> choose the browse option, go to your Tuxborn install and select the ModOrganizer.exe. If you want to add a custom icon you can do so, right click on Tuxborn shortcut in your libary and go down to properties. In the menu that opens go to custumize, you can find images for it SteamIcons folder that is a part of your Tuxborn install.  
 
 If everthing went well you should now have a completed install of Tuxborn, but before you start your playthrough you need to go here: https://github.com/Omni-guides/Tuxborn/blob/main/afterinstall.md.
-And go here for our handheld performance guide: LINK. 
+And go here for our handheld performance guide: https://github.com/Omni-guides/Tuxborn/wiki/Other-PC-Handhelds. 
