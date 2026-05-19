@@ -83,7 +83,7 @@ The steps for installation of the list will depend on the platform you are using
 **Linux with Nexus Premium:** https://github.com/Omni-guides/Tuxborn/blob/main/LinuxNexusPremium.md <br/>
 **Linux without Nexus Premium:** https://github.com/Omni-guides/Tuxborn/blob/main/LinuxInstall.md <br/>
 
-If you are looking to update your install of Tuxborn look here instead: <br/>
+If you are looking to update your install of Tuxborn look here instead: https://github.com/Omni-guides/Tuxborn/wiki/Upgrading-Tuxbornhttps://github.com/Omni-guides/Tuxborn/wiki/Upgrading-Tuxborn <br/>
 If you are looking for the post install info look here: https://github.com/Omni-guides/Tuxborn/blob/main/afterinstall.md 
 
 
