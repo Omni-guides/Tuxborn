@@ -2,6 +2,924 @@
 
 ----------------------------------
 
+### 1.2.0 Release Candidate - 14th July 2026
+
+#### Added Mods:
+
+  * 3BA Colovian Prince  
+  * 4thUnknown's Clannfear retexture  
+  * A-Pose Bug Fix - Universal Behavior Runtime  
+  * ADXP I MCO Dragons Dogma Daggers moveset  
+  * ADXP I MCO Floating Sword Command Moveset  
+  * ADXP I MCO I BFCO Elden Rim Dual Wield moveset collection  
+  * ADXP I MCO I BFCO Radiant Vanguard (SCAR)  
+  * ADXP I MCO Valhalla Greatsword Animation Polished (SCAR)  
+  * ADXP MCO 1.6.0.6 Bug Fixes  
+  * ADXP MCO Attack Data Transition Fix (ADTF)  
+  * Adamant - Wintersun Consistency Patch  
+  * Additional Clockwork  
+  * Adventurers Tunic - Vanilla HIMBO CBBE -  
+  * Almost Vanilla - A HIMBO Bodyslide Preset  
+  * Am Chubby - Realistic Bodyslide Preset 3ba V2  
+  * Am Crossfit - Bodyslide Preset 3ba  
+  * Ambient Templates for Lighting Mods  
+  * Ancient Imperial Armor SE  
+  * Ancient Imperial Armour SE 3BA  
+  * Ancient Nord Armors and Weapons Retexture SE  
+  * Apollo's Favor - HIMBO Bodyslide Preset  
+  * Arena - An Encounter Zone Overhaul  
+  * Arena - Harder Easy Spawns  
+  * Assorted Behavior Fixes  
+  * Attack MCO-DXP  
+  * Auri - Wintersun Patch  
+  * Auto Skeleton Patch - Universal Behaviour Runtime  
+  * AutoBody AE - Configurable Randomized Bodies  
+  * AutoBody VR-NG - Configurable Randomized Bodies  
+  * B612 - my little asteroid of useful UI components  
+  * BSHeartland - CC The Contest Spider Patch  
+  * Banekins- Mihail Monsters and Animals (SE-AE version) (''eso daedra'')  
+  * Bard Fix Extended Edition  
+  * Behavior Data Injector  
+  * Behavior Data Injector Universal Support  
+  * Behind and Beyond - Quest Mod  
+  * Better Dynamic Snow SE  
+  * Better Grabbing  
+  * Beyond Reach - Some Better Meshes  
+  * Beyond Reach TnE - Delayed Quest Start  
+  * Beyond Reach TnE - Shields and Cloaks  
+  * Beyond Skyrim - Assets PBR  
+  * Beyond Skyrim - Bruma - Unofficial Fixes  
+  * Beyond Skyrim - Bruma PBR  
+  * Bone Cultist Armor  
+  * Bonebound - NPC enemies - Compatibility Patch  
+  * Bonebound - Summonable Skeleton Variants  
+  * CBBE 3BA (3BBB) - Race Scale Fix  
+  * CBBE 3BA BodySlide Files  
+  * CBBE 3BA Bodyslide Files - Chevalier's Armor  
+  * CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy  
+  * CC Bone Colossus Skeleton Fix  
+  * CHIEFTAIN - Body Preset for HIMBO  
+  * CS - Deck  
+  * CS Settings - Desktop  
+  * CS Settings - Handheld  
+  * Call Of The Deep  
+  * Cathedral - Plants  
+  * Cathedral Landscapes  
+  * Chainmail Armour  
+  * Chainmail Armour - CBBE Bodyslide  
+  * Chainmail Armour - HIMBO Bodyslide  
+  * Chainmail Armour - Hotfix  
+  * Chevalier's Armor Set HDT-SMP  
+  * Children of Dawn's Beauty - A Resource for Certain Mods  
+  * Children of the Ash - A Dunmer NPC Overhaul  
+  * Children of the Hist - An Argonian NPC Overhaul  
+  * Children of the Wave - A Redguard NPC Overhaul  
+  * Chooey's Dint Ears Edit  
+  * Clannfears SSE  
+  * Clockwork PBR  
+  * Cloud Shadows - Community Shaders  
+  * College of Winterhold Quest Start Fixes  
+  * Colovian Prince Set  
+  * Colovian Prince Set - HIMBO  
+  * Combat Pathing Revolution  
+  * Combat Pathing Revolution AE  
+  * Common Clothing Expansion  
+  * Common Clothing Expansion - CBBE 3BA  
+  * Comprehensive Attack Rate Patch - SKSE  
+  * Conditional Armor Type Animations for Sneak  
+  * Constellations - Additional Player Skills  
+  * Constellations - MCO Perks  
+  * Constellations for Simonrim  
+  * Container Distribution Framework  
+  * Core Impact Framework (CIF)  
+  * CotH - CBBE 1k  
+  * CotH - SoS-HIMBO 1k  
+  * Creation Club Skeleton Enemy Integrated  
+  * Cultural Bards - A Bard Themed Clothing and Accessory Collection  
+  * Cyrodiilic Thief Armor  
+  * Cyrodiilic Thief Armor - Female Version  
+  * Cyrodiilic Thief Armor - Female Version CBBE Refit  
+  * Cyrodiilic Thief Armor - HIMBO Refit  
+  * DAC0DA - English Translation  
+  * DAc0da - CoMAP Addon  
+  * DAc0da - Delayed Start  
+  * DAc0da - ElevenLabs Voiced  
+  * DAc0da - HIMBO Refits  
+  * DAc0da Paper Map for FWMF by Limon  
+  * DD_FighterMoveset  
+  * DEAD - Draugr Enemy Asset Diversity  
+  * Dac0da  
+  * Dac0da PBR  
+  * Daedric Shrines - All in One - My Patches by Xtudo - WINTERSUN fixes  
+  * Daedric Shrines - Wintersun Patch  
+  * Daedric Shrines AIO by Xtudo - There Is No Umbra  
+  * Dawnguard Music Overhaul - Epilogue Module  
+  * Deadlands Xivilais- Mihail Monsters and Animals (SE-AE version)  
+  * Deadly Dragons  
+  * Deadly Dragons - Legacy Settings Loader  
+  * Deadly Dragons SE Patches  
+  * Death Defiance System  
+  * Demon of Dream  
+  * Description Framework Patch Hub  
+  * Destroy The Dark Brotherhood - Quest Expansion  
+  * Distinct Interiors - Embers XD patch  
+  * Diverse NPC Movesets  
+  * Dragon Voiced Word Walls  
+  * Dragons Actually Fall Down  
+  * Draugr 2HW Attack Animation  
+  * Draugr Magic Casting Animation  
+  * Draugr One-Handed Movement  
+  * Draugr Two-Handed Movement  
+  * Draugr Unarmed Attack Animation  
+  * Dwarven Defenders- Mihail Monsters and Animals (SE-AE version) (''dwemer'')  
+  * Dwarven Magetta- Mihail Monsters and Animals (SE-AE version) (''dragon ball'')  
+  * Dwemer - SE by Xtudo - Fixes ESL  
+  * Dwemer Spectres or Immersive Creatures - Remiel Patch  
+  * Dynamic (Locational) Armor and Weapon Impacts  
+  * Dynamic Interior Ambient Lighting (DIAL)  
+  * Dynamic Torch Idle Animations  
+  * East Empire Company Armor - 3BA  
+  * Edgar Bodyslide preset for HIMBO  
+  * Elden Ring Nightreign Duchess I MCO I BFCO I DAGGER  
+  * Elden Sword Definitive I Sword Moveset Mashup (MCO I SCAR I BFCO)  
+  * Elemental Golems- Mihail Monsters and Animals (SE-AE version)  
+  * Elven Armors and Weapons Retexture SE  
+  * Elven Enforcer Armor  
+  * Elven Enforcer Armor - 3ba  
+  * Elven Enforcer Armor - HIMBO Refit  
+  * Extended Cut - Saints and Seducers PBR  
+  * FB - Master Thief 2k Textures  
+  * FB - Master Thief HIMBO Files  
+  * FaceGenFixes  
+  * Faction Armors and Weapons Retexture SE  
+  * Faithful Markarth PBR  
+  * Faithful Markarth PBR - RCI  
+  * Falskaar - Landscape Texture Fix  
+  * Farmhouse Wall Remake - PBR or Complex Material  
+  * Fashions Of Forsworn CBBE 3BA Bodyslides  
+  * Faultier's PBR Clutter low res  
+  * Faultier's PBR College of Winterhold 2k  
+  * Faultier's PBR DLC01 architecture 2k  
+  * Faultier's PBR DLC02 architecture 2k  
+  * Faultier's PBR High Hrothgar 2k  
+  * Faultier's PBR Nordic Ruins 2k  
+  * Faultier's PBR Road Signs - English  
+  * Faultier's PBR Ships 2k  
+  * Faultier's PBR Skyhaven 2k  
+  * Faultier's PBR Soul Cairn 2k  
+  * Faultier's PBR Sovngarde 2k  
+  * Faultier's PBR orc architecture 2k  
+  * First person magic hand light fix  
+  * Fishermen Fish  
+  * Fishermen Fish - Shadows over Ilinata patch  
+  * Fishermen Fish - Whispers of the Depths  
+  * Floating Sword Command movement animation  
+  * Foamimi's Orlando Visual Overhaul - GLENMORIL  
+  * Foamimi's Orlando Visual Overhaul - UNSLAAD  
+  * Foamimi's Orlando Visual Overhaul - VIGILANT  
+  * Forsworn Fashions - HIMBO V5  
+  * Forsworn Fashions CBBE 3BA Slider fix  
+  * Forsworn Fashions- More Variety for forsworn (Armor Pack- BHUNP CBBE 3BA and HIMBO)  
+  * Fur-lined Steel Armor  
+  * Fur-lined Steel Armor - 3ba  
+  * Fur-lined Steel Armor - HIMBO  
+  * Fuse00 - Scout Armor 3BA UBE SMP  
+  * GLEN-MORIL - ElvenLabs Voiced  
+  * GLENMORIL ALL RIFLES REANIMATION  
+  * Gargoyle Overhaul- Mihail Monsters and Animals (SE-AE version)  
+  * Gearshout's Rogue Nord Armor CBBE 3BA bodyslide  
+  * Gesture Animation Remix (OAR)  
+  * Gesture Animation Remix (OAR) - shield patch  
+  * Giantesses- Mihail Monsters and Animals (SE-AE version) (''giant'')  
+  * Glenmoril HIResPack Architecture and Landscape  
+  * Glenmoril HIResPack Armors and Weapons  
+  * Glenmoril HIResPack Creatures  
+  * Glowrious Keys and Dungeon Levers - ESP based integration  
+  * Glowrious Keys and Dungeon Levers - Green  
+  * Glowrious Keys and Dungeon Levers - Green-Purple  
+  * Glowrious Keys and Dungeon Levers - RGB  
+  * Grahls and Frost Giants - Mihail Monsters and Animals (SE-AE version)  
+  * Grain Mill Animation Fix  
+  * Grave of the Toucouleur - A Dungeon Mod  
+  * HDR - Community Shaders  
+  * HDT-SMP Infantry Armor - 3BA  
+  * HIMBO - Ancient Imperial Armor  
+  * HIMBO BodySlide Files  
+  * HIMBO Bodyslide Files - Chevalier's Armor  
+  * HLT Patch  
+  * Hair Specular - Community Shaders  
+  * Hammet Dungeon Pack 2 SE  
+  * Hammet's Dungeon Pack 1 - Unique Rewards by Xtudo SE  
+  * Hammet's Dungeon Pack 1 SE  
+  * Hammet's Dungeon Pack 2 - Unique Rewards by Xtudo SE  
+  * Hammet's Pack 1 - SE by Xtudo - Darkmire Statue  
+  * Hammets Dungeons1 - 3DNPC Patch  
+  * Happy Little Trees  
+  * Haugbui - A Draugr Overhaul  
+  * Haugbui - CC Fishing Patch  
+  * Haugbui - Cannibal Draugr Patch  
+  * Haugbui - Legacy of the Dragonborn Patch  
+  * Haugbui - SimonRim Patch  
+  * Havocrels- Mihail Monsters and Animals (SE-AE version) (''eso'')  
+  * Heart of Ice  
+  * Heart of Ice - Astrid 3BA bodyslide  
+  * Heartwood Mill Quest Complement - Flight Or Fight Vanilla Quest Tweak  
+  * High Gate Ruins Puzzle Reset Fix  
+  * Hokoron - SimonRim Patch  
+  * Homonculus- Mihail Monsters and Animals (SE-AE version) (''arena'')  
+  * House of Horrors Quest Expansion - Patches  
+  * Hunters Not Bandits  
+  * IA Asdasfa - LOTD Patch  
+  * ISL Helper SKSE  
+  * Icy Mesh Remaster - IcyFixes  
+  * Icy Mesh Remaster - Meshes  
+  * Identity Crisis - Wintersun Patch  
+  * Immersive Armors Refitted and Reinforced  
+  * Immersive Armors Retexture CBBE  
+  * Immersive Armours - SSE CBBE 3BA BodySlide  
+  * Immersive Fishing  
+  * Immersive Illusion Spells  
+  * Immersive Nurelion Dying  
+  * Imperial Battlemage Robes CBBE BodySlide  
+  * Imperial Battlemage Robes for Imperial Battlemages  
+  * Imperial Battlemage SPID  
+  * Imperial Castles of Skyrim  
+  * Imperial Castles of Skyrim Patch  
+  * Imperial Forts Remake - PBR or Complex Material  
+  * Imperial Forts Remake PBR LOD helper  
+  * Imps - Mihail Monsters and Animals (SE-AE version) (''oblivion'')  
+  * Infantry Armor SE  
+  * Infantry Armor SMP - HIMBO  
+  * JellyFishFP CROSSBOW (1st person animations series)  
+  * JellyFishFP DAGGER (1st person animations series)  
+  * JellyFishFP Sneak Killmove Dagger (1st person animations series)  
+  * JellyFishFP TORCH (1st person animations series)  
+  * Knockback SKSE (For BFCO and MCO Users)  
+  * Kozakowy's 1660 Gown - SSE CBBE BodySlide  
+  * Krovaxis - Wintersun Patch  
+  * Kvetchi Mercenary Armour 3BA with HDT-SMP Cloth Physics  
+  * Kvetchi Mercenary Set  
+  * Kvetchi Mercenary Set - HIMBO  
+  * LOTD PBR Odds and Ends  
+  * LOTD Unofficial Unslaad TCC Patch  
+  * Leather Armors Retexture SE  
+  * Lexicon SKSE  
+  * Logical Rope Bridges - Suspension of Spans  
+  * Luma Utility  
+  * MCO I BFCO Eskyrim's Sprint Attacks  
+  * MCO Universal Support  
+  * Mage Clothing Expansion  
+  * Mage Clothing Expansion - 3BA Uniboob  
+  * Mage Clothing Expansion Expanded (and Skypatched)  
+  * Magic Student (WIChangeLocation04) Quest Fix  
+  * Main Menu Video  
+  * Majestic Dragons - Beauty  
+  * Majestic Dragons - Larger and immersive proportions  
+  * Male Giant Variety- Mihail Monsters and Animals (SE-AE version)  
+  * Mara - My patches SE by Xtudo - Dawnguard DLC  
+  * Mari's flora  
+  * Master Thief Armor 3BA-BHUNP-UNP-CBBE-HIMBO-Vanilla  
+  * Medieval Towers of Skyrim  
+  * Merchantress Outfits (hdtSMP - Vanilla Body - CBBE - HIMBO)  
+  * Merchantress Outfits - CBBE  
+  * Merchantress Outfits - HIMBO  
+  * Meridia's Order - Patch FOMOD  
+  * Miasma  
+  * Midnight Sun  
+  * Midnight Sun - Update  
+  * Midnight Sun - Vanilla Lighting Herald  
+  * Midnight Sun Paper Map for FWMF by Limon  
+  * Molten Forgemaster Replacer - Chakra's Creatures  
+  * Murmurs and Mead  
+  * Neloth's Experimental Subject Quest (DLC2TTR4a) Fix  
+  * New Creature Animation - Dwarven Centurion - SCAR2.0 - MCO - Nemesis or Pandora  
+  * New Creature Animation - Gargoyle  
+  * New Creature Animation - Spider  
+  * New Leather Armor  
+  * Nilheim QE - USSEP patch  
+  * No Compass In Dialogue  
+  * No More Blinding Fog - SSE Port  
+  * Noble Pathfinder (CBBE 3BA HIMBO)  
+  * Nord Tribal Armor - Clothing  
+  * OWBody - Athletic  
+  * OWBody - Natural  
+  * OWBody - Ordinary  
+  * OWBody - Petite  
+  * Obsidian CS  
+  * Obsidian Weathers and Seasons  
+  * Offset Movement Animation - Nemesis - Modders Resource  
+  * Ogre Diversity  
+  * Ogres and Ettins - My optimized textures SE by Xtudo  
+  * Once We Were Here - Quest Mod  
+  * One Click Power Attack NG  
+  * Orcish Armors and Weapons Retexture SE  
+  * Orcish Orc Strongholds - Creation Club Orcish Armors Integrated  
+  * Overencumbrance Tweaks  
+  * Pandora Behaviour Engine Plus  
+  * Pandora Behaviour Engine Plus MCO  
+  * Paradigm - A Quick Start Overhaul  
+  * Paradigm - A Quick Start Overhaul Extended  
+  * Paradigm Reborn  
+  * Paradigm Reborn Extended  
+  * Parallax Terrain - Vigilant SE HD  
+  * Parallax Textures - AE Creation Club  
+  * Parallax Textures - Interesting NPC SE (3DNPC)  
+  * Parry for all  
+  * Patch with Betalille's Hammerfell Quest Bundle  
+  * Perk Entry Point Extender  
+  * Pirates in the Desert - The Gray Cowl of Nocturnal  
+  * Precision - NPC Combat Fix  
+  * Primitive Nord Armor Male Meshes Fix  
+  * PrivateProfileRedirector SE - Faster game start (INI file cacher)  
+  * Project Gap Close - NPC Sprint Attacks and Dynamic Combat Pathing Revolution  
+  * Publican Outfits for Innkeepers (Vanilla Body - CBBE - HIMBO)  
+  * Publican Outfits for Innkeepers - CBBE 3BA  
+  * QAPP - Extended Cut Saints and Seducers  
+  * QAPP - Patches  
+  * QAPP - Quests Award Perk Points  
+  * Realistic Halberd Poleaxe Animation(MCO SCAR)  
+  * Realistic Northern Battleaxe Animation(MCO SCAR)  
+  * Redcap CC Goblins Commentary and Gogh Interactions  
+  * Redcap Description Framework Addon  
+  * Redcap the Riekling - A Fully Voice-Acted Immersive Follower and Quest  
+  * Redeeming Fultheim - A Blades Quest Addon  
+  * Reimagined Mountain Flowers  
+  * Remiel - ESO Scrap replacer by Xtudo  
+  * Remiel Missing Voice Lines  
+  * Remove Interior Fog  
+  * Remove Small Rocks - Depths of Skyrim Compatibility Patch  
+  * Remove Small Rocks - Folkvangr Grass and Landscape Compatibility Patch  
+  * Resurrection API for Skyrim 1.6  
+  * Rogue Nord Armor  
+  * Rogue Nord Armor - HIMBO Refit  
+  * Royal Elven Armor Set  
+  * Royal Elven Armor Set - HIMBO  
+  * Ruins Clutter Improved PBR  
+  * Ruins Clutter Improved SE  
+  * SCAR 2.0  
+  * SIGMA - Archery animations - 1st person  
+  * SIGMA - Battleaxe animations - 1st person  
+  * SIGMA - Dagger animations - 1st person  
+  * SIGMA - Fisting animations - 1st person  
+  * SIGMA - Greatsword animations - 1st person  
+  * SIGMA - Mace animations - 1st person  
+  * SIGMA - Magic animations - 1st person  
+  * SIGMA - Shield animations - 1st person  
+  * SIGMA - Sword animations - 1st person  
+  * SIGMA - Waraxe animations - 1st person  
+  * SIGMA - Warhammer animations - 1st person  
+  * SIRENROOT - HD Texture Pack  
+  * SKSE Menu Framework  
+  * Sa'chil - Custom Voiced Khajiit Follower  
+  * Sa'chil Body Patches  
+  * Sa'chil Official Patch Hub  
+  * Sabre Cat Attack Animations  
+  * Saints and Seducers - Rare Curios - PBR  
+  * Saints and Seducers Retexture SE  
+  * Save Reminder SSE  
+  * Save and Load Accelerator for SKSE Cosaves - S.L.A.C.K  
+  * Scale Nord Armor  
+  * Scale Nord Armor - 3BA Bodyslide  
+  * Scale Nord Armor - HIMBO Refit  
+  * Scamps SE  
+  * Scout HDT-SMP Armor  
+  * Scout HDT-SMP Armor for HIMBO and BHUNP  
+  * Screen Space Global Illumination (SSGI) - Community Shaders  
+  * SearchUI - Get Any Item Instantly  
+  * Seasoned Traveller Armor SE by Xtudo  
+  * Seasoned Traveller CBBE  
+  * Seasoned Traveller HIMBO  
+  * See Through Portals and Oblivion Gates - Myrwatch - The Cause - Base Object Swapper  
+  * Shades of Mortality - Death Alternative SKSE  
+  * Shield-Brother Physique - SerketHetyt's HIMBO Bodyslide Preset  
+  * Show Player In Inventory  
+  * Shroom Beetles (Creature Series pt.6) SE  
+  * SigmaJelly - Katana animations - 1st person  
+  * Silver Armor - 3BA  
+  * Silver Armor - My patches and fixes SE by Xtudo  
+  * Silver Armor SE  
+  * Silver Armor SE - HIMBO  
+  * Simple Follower Framework  
+  * Sirene Wispmother - A SIRENROOT Replacer  
+  * Skald's Mail - A Courier Alternative  
+  * Skuldafn Paper Map for FWMF by Limon  
+  * Sky Sync - Community Shaders  
+  * Skylighting - Community Shaders  
+  * Skyrim freeze fix NG  
+  * Sons of Skyrim - SE by Xtudo - LOTD patch  
+  * Sons of Skyrim 3BA Unibody Conversion ESL Plugin and Wrye Bash Tags  
+  * Sons of Skyrim v1.5.0 - My patches and fixes SE by Xtudo  
+  * Sorcerer - A Staff and Scroll Overhaul  
+  * Sorcerer Outfits  
+  * Sorcerer Outfits Bodyslide Conversions BHUNP 3BA HIMBO  
+  * Spellsword Cuirass SSE - 2  
+  * Spellsword Cuirass SSE - CBBE and HIMBO  
+  * Sprint Swim Redux SKSE  
+  * Squire's Plate  
+  * Squire's Plate - 3ba  
+  * Squire's Plate - HIMBO  
+  * Standalone Dwarven Sphere Elite  
+  * Standalone Dwarven Spider Elite  
+  * Static Skill Leveling Rewritten  
+  * Static Skill Leveling for Constellations  
+  * Steel Armors and Weapons Retexture SE  
+  * Strongman - HIMBO Bodyslide Preset  
+  * Styles of Skyrim - Alchemist Outfit Variations  
+  * Styles of Skyrim - Monk and Priest Robes Variations  
+  * Survival Mode No Prompt  
+  * Swamp Skeletons - Chakra's Creatures  
+  * Swiftly Order Squad - Follower Commands UI  
+  * Swiftly Order Squad - Tween Menu Overhaul  
+  * TINU Floating Sword Moveset Change  
+  * Tamrielic Distribution - Civil War Champions  
+  * Tamrielic Distribution - Moon and Star  
+  * Tamrielic Distribution - Redguard Elite  
+  * Temper hotfix  
+  * Terrain Blending - Community Shaders  
+  * Terrain Variation - Community Shaders  
+  * Thalmor Ceykynd Armors  
+  * Thalmor Ceykynd Armors - HIMBO Refit  
+  * Thalmor Ceykynd Armors CBBE 3BA  
+  * The Breathing Abyss - Lovecraft Inspired Mod  
+  * The Common Guy - SerketHetyt's HIMBO Bodyslide Preset  
+  * The Common Lass - SerketHetyt's 3BA and Hands Redone Bodyslide Preset  
+  * The Devil's in the Details - Quest Mod  
+  * The Devils in the Details - NPC Plus  
+  * The Frozen Heart  
+  * The Frozen Heart Paper Map for FWMF by Limon  
+  * The Gray Cowl of Nocturnal  
+  * The Gray Cowl of Nocturnal - Map Markers  
+  * The Gray Cowl of Nocturnal SE - Retexture  
+  * The Gray Cowl of Nocturnal SE - Retexture - Parallax  
+  * The Heart's Toll - Quest Mod  
+  * The Hinterland Ranger - (CBBE - 3BA - HIMBO) - (SMP Tunic)  
+  * The Hinterland Ranger - HDT-SMP  
+  * The Nightmare Paper Map for FWMF by Limon  
+  * The Only Cure Quest Expansion - Patches  
+  * The Practical Dwemechanic - A Remiel Replacer  
+  * The Southbound Scouts - HDT-SMP  
+  * The Southbound Scouts - My patches SE by Xtudo  
+  * The Wheels of Lull - Vanilla Texture Paths  
+  * Tomato's PBR Farmhouses  
+  * Tomato's Riften and Ratway - PBR or Complex Material  
+  * Tomato's Solitude Remastered - PBR  
+  * Tomato's Whiterun Remake - PBR  
+  * Tomato's Windhelm - PBR or Complex Material  
+  * Toughened Traveler 3BA Bodyslide  
+  * Traveler's Armor Pack - 3BA Conversion  
+  * Traveler's Armor Pack - Main File  
+  * Travelling Priest Robes - Vanilla HIMBO CBBE -  
+  * True Light  
+  * Tux the Penguin Follower  
+  * Tuxborn - Lodgen Deck  
+  * Tuxborn - PGPatcher Output  
+  * Tuxborn - Pandora MCO  
+  * Tuxborn - Pandora Output  
+  * Tuxborn - Texgen Deck  
+  * Tuxborn Menu Video  
+  * UBF - Navmesh Patch - LOTD  
+  * UNSLAAD - ElevenLabs Voiced  
+  * USSEP Nemesis or Pandora Patch  
+  * Udefrykte Replacer- Mihail Monsters and Animals (SE-AE version)  
+  * Ultimate MCO and BFCO Attack Speed Fix SKSE  
+  * Unlocked 1st Person Combat  
+  * Unmarked Locations Pack - Apocrypha  
+  * Unmarked Locations Pack - The Gray Cowl of Nocturnal Addon  
+  * Unmarked Locations Pack - Wyrmstooth Addon  
+  * Unslaad - HIMBO Refits  
+  * Unslaad CBBE (3BA) Bodyslide  
+  * Unslaad PBR  
+  * Unslaad Paper Maps for FWMF by DaroKhiyla  
+  * Unslaad Revised Scripts for MCO  
+  * Upscaling - Community Shaders  
+  * Useful Sweep Perk for Precision - Adamant  
+  * VIGILANT - CoMAP Addon  
+  * VIGILANT - HiRes Pack 4K Landscape  
+  * VIGILANT HiRes Pack 181  
+  * VIGILANT Revised Scripts for MCO  
+  * Val Serano  
+  * Vampire Armor Expansion-3BA BodySlide  
+  * Vampire Clothing Expansion  
+  * Vanaheimr - Landscapes - AIO - PBR  
+  * Vanaheimr - Mines and Caves - Complex Material - PBR  
+  * Vanaheimr - Ore Veins - Complex Material - PBR  
+  * Vanilla Attack Annotation Fix  
+  * Vanilla Hair Flow Maps  
+  * Vanilla Texture Paths for Mihail's Dwarven Automatons Pack  
+  * Varinia - Custom Voiced Retired Spy and Companion  
+  * Varinia Follower - Visual Replacer by AlenVex ESL  
+  * Vestal Body 3BA - Lazarus Bodyslide Presets  
+  * Vigilant - Wintersun Patch  
+  * Vigilant Arachne replacer - aka no Topless Spider women  
+  * Vigilant Paper Map for FWMF by Limon  
+  * Volumetric Mists  
+  * Waking Nightmare - Wintersun Patch  
+  * Wandering Mercenary Armor  
+  * Wandering Mercenary Armor - 3BA Bodyslide patch  
+  * Wandering Mercenary Armor for BHUNP - HIMBO  
+  * Water Mod  
+  * Wetness Effects - Community Shaders  
+  * Whelp to Warrior - HIMBO Bodyslide Preset  
+  * Widescreen Scale Removed for 1-6-1130 and higher  
+  * Widow Daedra- Mihail Monsters and Animals (SE-AE) (''spider daedra'')  
+  * Wild Witch  
+  * Wintersun - Faiths of Skyrim  
+  * Wintersun - Gallows Hall  
+  * Wintersun - Ghosts of the Tribunal  
+  * Wintersun - Moon and Star Patch  
+  * Wintersun - Tweaks and Enhancements  
+  * Wintersun Skillrate Alternative  
+  * Wolf Armor and Weapons Retexture SE  
+  * Wyrmstooth - PBR  
+  * Wyrmstooth Dragonborn Compatibility Patch  
+  * Wyrmstooth Paper Map for FWMF by Limon  
+  * Xelzaz Miasma Patch  
+  * Zooey's Tuxborn Presets  
+  * clannfear  
+  * daedroths (requires CC Rare Curios)  
+  * eFPS - Miscellaneous Patches  
+  * invisible rune explosion fix  
+  * morrowind creatures (requires CC Rare Curios)  
+  * scamps (requires CC Rare Curios)  
+  * wraiths 
+
+#### Removed Mods:
+
+  * 3BA and HIMBO Bodyslide for Imperial Armors and Weapons Retexture SE  
+  * ADXP l MCO Desert Race Animation Complete Pack  
+  * ADXP l MCO Imperium Animation Complete Pack  
+  * ADXP l MCO Nordic Animation Complete Pack  
+  * Alik'r Warriors wear CC Redguard Elite Armaments (SPID)  
+  * Alternate Start - Live Another Life - SSE  
+  * Ancient Automatons  
+  * Ancient Dwemer Metal  
+  * Ancient Dwemer Metal - My patches - ANNIVERSARY EDITION  
+  * Ancient Dwemer Metal - My patches - C.O.I.N  
+  * Ancient Dwemer Metal - My patches - CC Hopesfire  
+  * Ancient Dwemer Metal - My patches - Clockwork  
+  * Ancient Dwemer Metal - My patches - Common Clothes and Armors  
+  * Ancient Dwemer Metal - My patches - Converted meshes  
+  * Ancient Dwemer Metal - My patches - ElSopa Quiv 2K  
+  * Ancient Dwemer Metal - My patches - FINAL SE VERSION  
+  * Ancient Dwemer Metal - My patches - FINAL SE VERSION Update v7  
+  * Ancient Dwemer Metal - My patches - Immersive Armors  
+  * Ancient Dwemer Metal - My patches - Moon and Star SE  
+  * Ancient Dwemer Metal - My patches - Project AHO  
+  * Ancient Dwemer Metal - My patches - Security Overhaul SKSE - Lock Variations  
+  * Ancient Dwemer Metal - My patches - Security Overhaul SKSE - Regional Locks  
+  * Ancient Dwemer Metal - My patches - Skyland Bits  
+  * Ancient Dwemer Metal - My patches - Skyland Dragonborn  
+  * Ancient Dwemer Metal - My patches - Skyrim Sewers  
+  * Ancient Dwemer Metal - My patches - Sons of Skyrim  
+  * Ancient Dwemer Metal - My patches - The Forgotten City  
+  * Ancient Dwemer Metal - My patches - The Tools of Kagrenac  
+  * Ancient Dwemer Metal - My patches - The Wheel of Time  
+  * Ancient Dwemer Metal - My patches - The Wheels of Lull SE  
+  * Ancient Dwemer Metal - Spider Gem Restored  
+  * Ancient Falmer Armors and Weapons Retexture SE  
+  * Anima Nera - SerketHetyt's Serana Overhaul  
+  * AnnaTweaks-Unfaltered  
+  * Armor Rating Rescaled SKSE Remake  
+  * Arnima - Armor Fixes 2  
+  * Arnima - Dertasso's Tweaks  
+  * Arnima - Dragonstar Armor Fix-67765-1-0-1683624908  
+  * Arnima - Dunlain Falls Building Fix  
+  * Arnima - Infant Ogre Fix  
+  * Arnima - Kredans Forsworn Textures  
+  * Arnima - Last King temp fix  
+  * Arnima - NPC and Seeker Fix  
+  * Arnima - Nord Reach Fix  
+  * Arnima - Shaman Mesh Fix  
+  * Arnima - Stroti Mill texture fix  
+  * Arnima - Troll Hotfix  
+  * Arnima - Wool Plate Armor Fixes  
+  * Auri - Follower Framework Patch  
+  * Axarien's Animations - Auri  
+  * Axarien's Animations - Inigo  
+  * Axarien's Animations - Lucien  
+  * Axarien's Animations - Teldryn Sero  
+  * Axarien's Animations - The Companions - Vilkas Farkas Aela  
+  * Axarien's Animations - The Nightingales - Karliah Brynjolf  
+  * Azurite III - HDR  
+  * Azurite Weathers and Seasons  
+  * BENDr Cleaned Skyrim SE Textures  
+  * BENDr Mrf's Solitude  
+  * BFCO - Attack Behavior Framework  
+  * BFCO - elden rim moveset collection (SCAR) - Wood Elf and Argonien  
+  * BFCO Universal Support  
+  * Beyond Reach - Creation Club Zombies  
+  * Beyond Reach - Dialogue Conditions Fix  
+  * Beyond Reach - Improved Meshes  
+  * Beyond Reach - Missing Landscape Texture Fix (workaround)  
+  * Beyond Reach - Shields and Cloaks  
+  * Beyond Reach - Temper Recipes  
+  * Beyond Reach - Tweaks and Enhancements  
+  * Beyond Skyrim - Bruma - Unofficial Patch  
+  * Blended Roads - Simplicity of Snow Patch  
+  * Bogmort - Mud Monsters of Morthal Swamp  
+  * Bosmer NPCs have Antlers  
+  * Breton NPCs Have Elven Ears  
+  * CDB - More Dialogue Options Patch  
+  * CS Deck  
+  * CS Desktop  
+  * CS Handheld  
+  * Cathedral - 3D Mountain Flowers  
+  * Cathedral - 3D Mountain Flowers Hearthfire Patch  
+  * Cathedral - Plants and Mari's flora  
+  * Cathedral 3D Mountain Flowers - Alternate Textures  
+  * Cave Mesh Fix  
+  * Centurion I Sword moveset for NPCs (MCO I SCAR)  
+  * Chocolate Poise  
+  * Chocolate Poise Plus - Addons and Rebalancing  
+  * Chooey's Choice Requirements  
+  * Civil War Champions Outfits for Officers (SPID)  
+  * Cleaned Skyrim Special Edition Textures - Fixes  
+  * Cloud Shadows  
+  * Common Clothes and Armors  
+  * Common Clothes and Armors - HIMBO conversion  
+  * Common Clothes and Armors -3BA- Bodyslide  
+  * Companions Dialogue Bundle  
+  * Companions Dialogue Bundle - Dialogue Fix  
+  * Comprehensive First Person Animation Overhaul - CFPAO  
+  * Crafting Recipe Distributor  
+  * Creation Club Backpacks to NPCs - SPID  
+  * DAC - Dragon skeleton with smaller bumper  
+  * DAaWR ADM SE by Xtudo - CC Brawler 2K  
+  * DAaWR ADM SE by Xtudo - CC Dwarven Mail 2K  
+  * DAaWR ADM SE by Xtudo - CC Dwarven Mudcrab 2K  
+  * DAaWR ADM SE by Xtudo - CC Dwarven Plate 2K  
+  * DAaWR ADM SE by Xtudo - CC Fishing 2K  
+  * DAaWR ADM SE by Xtudo - CC Forgotten Seasons 2K  
+  * DAaWR ADM SE by Xtudo - CC Wraithguard Sunder 2K  
+  * DAaWR ADM SE by Xtudo - Dwarven Armor 2K  
+  * DAaWR ADM SE by Xtudo - Dwarven Weapons 2K  
+  * Daedric Shrines - All in One - My Patches by Xtudo - Azura Loading Screen  
+  * Daedroths SE - English  
+  * Dark Brotherhood Armors Retexture SE  
+  * Dawnguard Armors and Weapons Retexture SE  
+  * Dead Man's Dread Outfits for Pirates and Sailors (SPID)  
+  * Destroy The Dark Brotherhood - Kidnapping Only  
+  * Disable Character Lighting  
+  * Diverse Dragon Priests - Restless Dead  
+  * Divines Prayer Animations  
+  * Draugr Battleaxe and Warhammer Attack Animation  
+  * Dunmeri Outfits for Skyrim Dunmers (SPID)  
+  * Dwarven Mail Outfits for Dwemer Enthusiasts (LOTD)  
+  * Dwemer Armor - Ancient Dwemer Metal patch  
+  * Dwemer Armor SE - My patches and fixes by Xtudo  
+  * ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On  
+  * Ebony Warrior - Ultimate Moveset Overhaul (MCO I SCAR)  
+  * Edgemaster Animations For MCO - For High and Dark Elves  
+  * Eivor - ADXP I MCO Sprint Attacks  
+  * Elden RIM I Unarmed claws moveset for beast races (MCO I SCAR)  
+  * Elder Creed - Odyssey Dual Wield Dagger Moveset  
+  * Elmlock Armor - Color Variants  
+  * Elmlock Armor and Blade - ESP Update  
+  * Elven Weapons for Silence SE  
+  * Emperor Penguins- Mihail Monsters and Animals (SE-AE version) (''bird'')  
+  * Environs - Abandoned Abodes  
+  * Environs - Abandoned Abodes - Patch Collection  
+  * Eskyrim I Aggressive greatsword moveset for SKILLED NPCs (MCO I SCAR)  
+  * Eskyrim I Fancy sword moveset for SKILLED NPCs (MCO I SCAR)  
+  * Face Discoloration Fix  
+  * Falmer Armors and Weapons Retexture SE  
+  * Falskaar - Survival Mode Warmth Fix  
+  * Feral - Claw Unarmed Attacks for Beast Races - Vampires - Werewolves  
+  * Fix Note icon for SkyUI (SKSE64 plugin)  
+  * Foamimi's Tuxborn Character Presets  
+  * For Honor in SKYRIM I Conqueror I Mace and shield  
+  * For Honor in SKYRIM I Peacekeeper I Sword and Dagger  
+  * For Honor in Skyrim I Gryphon I Battleaxes  
+  * For Honor in Skyrim I Warden I Greatsword  
+  * FormList Manipulator - FLM  
+  * Forsworn Armors and Weapons Retexture SE  
+  * Frame Generation (Readme for deck setup)  
+  * Frost Giant Overhaul- Mihail Monsters and Animals (SE-AE version) (''karstaag'')  
+  * G.R.I.M  
+  * G.R.I.M - Fixed .esp for LOD generation  
+  * GLENMORIL CBBE 3BA Patch  
+  * GRAHL - The Ice Troll (Bloodmoon Creature Restoration Project) SE  
+  * Glenmoril Unslaad and the unvoiced parts of Vigilant xVASynth Voiced  
+  * Gore - Paarthurnax Quest Expansion Patch  
+  * Gore - Romance Dialogue Expansion  
+  * Gore - Saints and Seducers Extended Cut  
+  * Gore x Vigilant  
+  * Gourmet - MidwoodIsle patch  
+  * Gourmet - Moonpath patch  
+  * Gourmet - Vigilant  
+  * Grass Collision  
+  * Grass Lighting  
+  * Gryphon I Battleaxe moveset for NPCs (MCO I SCAR)  
+  * Guards and Stormcloaks Armors Retexture - 3BA and HIMBO bodyslides  
+  * GuardsTalk  
+  * Half-Moon Mill COTN Addon - Shadow Song Patch  
+  * Happy Little Trees Esp thing  
+  * Helgen Reborn's Keepers of Hattu Retexture SE  
+  * Holmgang - ADXP I MCO Moveset for NPCs (OAR)  
+  * IA Asdasfa - Sekhmet13 Patch  
+  * Icy Mesh Remaster  
+  * Icy Mesh Remaster - ENB Addon  
+  * Identity Crisis - Bruma Patch  
+  * Immersive Armors - Primitive Nord Armor Male Meshes Fix  
+  * Immersive Armors - Replacer and Patches  
+  * Immersive Death Cycle  
+  * Immersive Dragons  
+  * Imperium Animation for Player - Dagger  
+  * Imps and Homonculus- Mihail Monsters and Animals (SE-AE version)  
+  * Infinite Dragon Variants  
+  * Iron Bodyslide Patches  
+  * Knight of the North  
+  * Konahrik's Accoutrements  
+  * Konahrik's Accoutrements - Fixed Esp  
+  * Konahrik's Accoutrements - Improved Closefaced Helmets (ICH) Patch  
+  * Lamenthia's RaceMenu Presets  
+  * Legacy V6.9.0 window fix  
+  * Legacy of The Dragonborn - Cathedral 3D Mountain Flowers Patch  
+  * Light Limit Fix  
+  * Lively's Dwemer Gates No Respawn Patches  
+  * Lower Render Resolution  
+  * Madmen - A Forsworn Overhaul  
+  * Madmen - DBM - Patch  
+  * Madmen - Patch FOMOD  
+  * Madmen - Spell Knight Armor  
+  * Madmen - Wyrmstooth  
+  * Madmen Simonrim  
+  * Madmen-ReducedPoison  
+  * Main Menu  
+  * Mara - My patches SE by Xtudo - ASLAL  
+  * Meridia's Order - Pilgrim Synergy Patch  
+  * Meridia's Order - Vigilant Synergy Patch  
+  * Mihail's Frost Giant Overhaul - Cleaned and Upscaled Textures  
+  * Moon and Star - Undeath Remastered Compatibility Patch  
+  * More Werewolves  
+  * More Werewolves - No City and Town Attacks  
+  * Morrowind Creatures SE - Fixes by Xtudo  
+  * Mrf's Solitude  
+  * Necromantic Grimoire - Mysticism Rebalance  
+  * Nemesis Creature Behaivour - WereWolf Addon  
+  * Nemesis Creatures BEHAVIOUR compatibility  
+  * New Draugr Unarmed Attack Animation  
+  * Nightingale Armor and Weapons Retexture SE  
+  * Nord Tribal Armor  
+  * Nordic Carved Armors and Weapons Retexture SE  
+  * Nordic Combat Animations for Player - Mace Dual Wield and Misc Dual Wield  
+  * Northern Ravager Moveset - Warhammer  
+  * Nyghtfall - Dark Fantasy Music  
+  * Object Categorization Framework  
+  * On a Crimson Trail  
+  * One More Music Merge  
+  * One More Music Merge - Hun Lovaas  
+  * Paper Coldharbour Map for VIGILANT (FWMF)  
+  * PhotoMode  
+  * Pig Iron - SE by Xtudo - Fixes Non-HDT  
+  * Pig Iron Set  
+  * Pilgrim - A Religion Overhaul  
+  * Pilgrim - Daedric Shrines AIO and Sithis Patch  
+  * Pilgrim HD  
+  * Pilgrim Skillrate Alternative  
+  * Placed Light  
+  * Plus Combat - A Modern Combat Overhaul  
+  * Praedy's Blackreach deposits glowing rocks and falmer cave ceiling glow  
+  * Prelude to Purgatory - A Lich Custom Skill Tree  
+  * Prelude to Purgatory - CSF 3 JSON  
+  * Project New Reign - Nemesis Unlimited Behavior Engine Combat  
+  * Quest Journal Fixes  
+  * Quest Journal Overhaul  
+  * QuickLoot IE - A QuickLoot EE Fork  
+  * RAE - Quest Requirements - ECSS Patch  
+  * RMB SPIDified - Core  
+  * RMB SPIDified - Lunar Guard Armor  
+  * RMB SPIDified - Nord Tribal Armor  
+  * RMB SPIDified - Toughened Traveler  
+  * Rebalancing Anniversary Edition - Quest Requirements  
+  * Remiel 1.7.3 Hotfix  
+  * Remiel replacer by Araviss  
+  * Remove Small Rocks - Verdant Compatibility Patch  
+  * Restless Dead - Konahrik's Accoutrements  
+  * Restless Dead - Legacy of the Dragonborn  
+  * Restless Dead Patch Compendium - Ancient Nord Stalhrim  
+  * Resurrection API for Skyrim 1.6 (Disable Together - remove all effects before hand on a running save)  
+  * SCAR - Skyrim Combos AI Revolution  
+  * SCAR AE Support  
+  * SMIM - Assorted Mesh Fixes Patch  
+  * SOS V2.0 - SE by Xtudo - Fixes  
+  * SOS V2.0 - SE by Xtudo - LOTD patch  
+  * SOS V2.0 - SE by Xtudo - Smaller Shields  
+  * SSE Engine Fixes - Save Corrupt Fix AE (1130-1170)  
+  * Saints and Seducers - Mysticism Rebalance  
+  * Scamps and Banekins- Mihail Monsters and Animals (SE-AE version) (''daedra'')  
+  * Screen Space Global Illumination (SSGI)  
+  * Screen-Space Shadows  
+  * Seasoned Traveller Armor SE-AE by Xtudo  
+  * Seasoned Traveller Refits for HIMBO  
+  * Shaders of Solstheim - Ash and Moss - Parallax Meshes  
+  * Shades of Mortality - Death Alternative SKSE (Disable Together - remove all effects before hand on a running save)  
+  * Simple Snow Improvements - Giant Obelisk Fixes (BOS)  
+  * Simple Snow Improvements - Skyrim Fixes (BOS)  
+  * Simple Snow Improvements - Snow Forts (BOS)  
+  * Simple Snow Improvements - Solstheim Ruins (BOS)  
+  * Simplicity of Snow - Parallax Meshes  
+  * Skuldafn Paper Map for FWMF  
+  * SkyUI - Ghost Item Bug Fix  
+  * SkyUI 5.2 SE Plugin with Master Added  
+  * SkyUI SE - Difficulty Persistence Fix  
+  * Skyland Bits and Bobs - A Clutter Overhaul  
+  * Skyland Bits and Bobs - Blacksmith Smelter Embers XD Patch  
+  * Skyland Bits and Bobs Complex Material  
+  * Skyland Complex Parallax Material  
+  * Skylighting  
+  * Skyrim Children Refine (NPC Appearance Overhaul - Eye Colors - Skin Details - Fixes)  
+  * Skyrim Extended Cut - Saints and Seducers - My optimized textures by Xtudo  
+  * Skyrim Sewers - Radiant Quests Enabled  
+  * Smooth Moveset  
+  * Sons of Skyrim v2.0 - 3BA  
+  * Sons of Skyrim v2.0 - My patches and fixes by Xtudo SE  
+  * Spaghetti's Bards College - Undeath Patch  
+  * Spaghetti's Castle Dour - Undeath Patch  
+  * Splashes Of Storms  
+  * Starfrost - A Survival Overhaul  
+  * Starfrost Skillrate Alternative  
+  * Static Skill Leveling Rewritten (Remeber to check the LO Libary when enabling this mod (not save safe))  
+  * Stations of Sorcerers  
+  * Subsurface Scattering  
+  * Survival Mode Improved - SKSE  
+  * TK Dodge NG  
+  * Tales Of Skyrim - Berserkyr - 3BA Conversion  
+  * Tales of Skyrim - Berserkyr  
+  * Tales of Skyrim - Berserkyr Patch Collection  
+  * Terrain Shadows  
+  * The Breathing Abyss - Lovecraftian Inspired Quest  
+  * The Cause - Mysticism Rebalance  
+  * The Elder Songs  
+  * The Gray Cowl of Nocturnal - 10th anniversary  
+  * The New Stormcloaks (DAR MCO)  
+  * The Restless Dead (A Draugr and Skeleton Overhaul)  
+  * The Restless Dead - Believable Weapons Patch  
+  * The Restless Dead - CC Fishing  
+  * The Restless Dead - Cannibal Draugr  
+  * The Restless Dead - USSEP  
+  * The Restless Dead SE Update v1.2.5  
+  * The Shadow Song  
+  * Thieves Guild Requirements SE  
+  * Thieves Guild Requirements SE - Settings Loader  
+  * Top Surgery Scars Overlay - SE  
+  * Toughened Traveler Outfit (3BA) with Alternate (CBBE Bodyslide)  
+  * Trade and Barter  
+  * Trade and Barter - Patches  
+  * Trade and Barter - Settings Loader  
+  * Traveler's Armor Pack - CBBE Bodyslide files  
+  * Traveler's Armor Pack - Visually Upgradeable Outfit - Vanilla - CBBE  
+  * Tuxborn - Nemesis BFCO Output  
+  * Tuxborn - Nemesis Output  
+  * Tuxborn - ParallaxGen Output  
+  * UCL - The Cause Ayleid Lich Model Patch  
+  * Udefrykte. Uderfrykte. Udyrfrykte. (Bloodmoon Creature Restoration Project)  
+  * Umbra - MCO Patch  
+  * Undeath - Classical Lichdom  
+  * Undeath - XPMSSE - Strange Runes - Skeleton Patch  
+  * Undeath Remastered  
+  * Underwhelming Multiple Followers  
+  * Unfaltered Virtue - A Penitus Oculatus Story  
+  * Unladen Resurrected I Sword Moveset Mashup (MCO I SCAR I BFCO)  
+  * Unslaad 3.0.2  
+  * Update for Coldharbour Paper Map for FWMF  
+  * Update for Skuldafn Paper Map for FWMF  
+  * VIGILANT - Arachnophobia  
+  * VIGILANT - NPC Overhaul Update  
+  * Valhalla Combat  
+  * Valkyrie I Sword and Shield moveset for NPCs (MCO I SCAR)  
+  * Vampire Armor Expansion - Hotfix  
+  * Vampire Armor Expansion - SPID  
+  * Vampire Armors and Weapons Retexture SE  
+  * Vampire Claws I Unarmed moveset for vampires (MCO I SCAR)  
+  * Vigilant - Pilgrim Patch  
+  * Vigilant CBBE (3BA) Bodyslide  
+  * Vigilant CBBE Patch - Covered Female Robes  
+  * Voiced Narrative - Bloodchill Manor (Creation Club)  
+  * Voiced Narrative - Ghosts of the Tribunal (Creation Club)  
+  * Voiced Narrative - Redguard Elite Armaments (Creation Club)  
+  * Warden I Greatsword moveset for NPCs (MCO I SCAR)  
+  * Warden of the Coast - The Cause CC - Consistency Patch  
+  * Water Effects  
+  * Wearable Horns - Proper RaceMenu Integration  
+  * Wearable Horns - SE  
+  * Weathered Nordic Bodypaints -Special Edition- RaceMenu Overlays and Warpaints  
+  * Wetness Effects  
+  * Wigfrids Tree Replacer  
+  * Wolfpaint - Face - Facepaint Collection for Racemenu Overlays  
+  * Wraiths - My patches SE-AE - 2K textures  
+  * Xavbio Dragon Armors - 3BA  
+  * Xavbio Dragon Armors - HIMBO  
+  * Yyvengar Bodypaint - Designs of the Lupine - RaceMenu Overlays  
+  * Zooey's Eldryn Presets  
+  * [RMB SPIDified] Moon Monk Robes  
+  * aMidianBorn Book of Silence - Armors  
+  * aMidianBorn Book of Silence - Weapons  
+  * magicAttachAshPileOnDeath and Disintegrate Perk Fix  
+  * mihailemperorpenguin - CCSurvival  
+
+----------------------------------
+
 ### 1.1.3 Update - 31st July 2025
 
  * A minor update re-enabling one esp, and a minor edit to another
