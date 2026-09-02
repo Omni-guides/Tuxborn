@@ -92,7 +92,7 @@ If you are looking to update your install of Tuxborn, see the [Upgrading Tuxborn
 
 Once the installation is complete, you can move on to the [Post Install information](https://github.com/Omni-guides/Tuxborn/blob/main/afterinstall.md).
 
-# Conclusion and Thanks
+### <ins>Conclusion and Thanks</ins>
 
 Omni and Ouroboros would like to thank the [Tuxborn Team](https://tuxborn.org/the-tuxborn-team/) for their dedication and hard work, the entire Wabbajack community for being so awesome, but with a special mention for Althro, Cacophony, Arnold, Foamimi, colinswrath, Diana TES GotH, Styyx, and Zooey, who have been a great help in us getting this far.
 
