@@ -41,9 +41,9 @@ To start Tuxborn, make sure “Tuxborn” is selected in the top right of MO2, a
 
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_ClickPlay.png" width="600">
 
-> [!IMPORTANT]
-> ⚠️ ❗ UNDER NO CIRCUMSTANCES PRESS THE “UNLOCK” BUTTON WHEN YOU HAVE LOADED SOMETHING THROUGH MOD-ORGANIZER.
-> YOU WILL BREAK MANY MANY THINGS. DO NOT PRESS THE BUTTON! ⚠️ ❗
+> [!WARNING]
+> **UNDER NO CIRCUMSTANCES CLICK THE "UNLOCK" BUTTON.**
+> Shortly after clicking Run, an Unlock button will appear in Mod Organizer 2. Clicking it will break your modlist installation. Do not click it.
 
 ### <ins>In-Game</ins>
 
