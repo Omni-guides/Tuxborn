@@ -143,22 +143,5 @@ _Selecting they/them pronouns could prevent you from completing certain quests t
 
 We've done the xEdit bit for you, but you will still have to set your fallback pronoun via the MCM in-game.
 
-### <ins>Optional Mods</ins>
-
-**Main Menu:** A Custom Tuxborn Main Menu.  
-**Custom Presets Go in Here:** An empty folder to put any custom racemenu presets in (.jslot file format).  
-**[Static Skill Levelling:](https://www.nexusmods.com/skyrimspecialedition/mods/89940)**  Alternative Skill Leveling system (cannot be enabled/disabled mid-save).  
-**SSE FPS Stabilizer:** A SKSE plugin that dynamically changes settings based on a performance target, can be disabled if you run into weird performance issues.  
-**Resurrection API for Skyrim 1.6:** An API for reliable, instant & bugless resurrection mods. Required for Shades of Mortality (to disable, remove all active effects and then disable with Shades of Mortality).  
-**Shades of Mortality:** A death alternative mod that prevents death by inflicting injuries with penalties to health, magicka regeneration, and stamina regeneration (to disable, remove all active effects and disable the mod along with Resurrection API).  
-**Tuxborn Combat Controller Keys:** Controller button mapping for the MCO profiles. Disable if you are playing on Keyboard and Mouse.  
-**Combat Keyboard Keys:** Keyboard button mapping for the MCO profiles. Disable if y ou are playing on controller.  
-**Small HUD:** Makes the HUD smaller in scale.  
-**Framegen:** A framegen mod that will add more ai frames, doesn't work with Proton/Linux at the moment. Set FramerateLimit = to match your display.   
-**Lower Render Resolution:** An optional mod that lowers the render scaling to 0.75 to help with performance on handhelds that have 1080p and higher screen resolutions.  
-**Enemy (R)Evolution of Skyrim:** EEOS: gives npc more perks and spells to use against you.  
-**Masculine Animations for Female PCs/Feminine Animations for Male PCs:** changes some animations for the Player Character.  
-
-
 
 
