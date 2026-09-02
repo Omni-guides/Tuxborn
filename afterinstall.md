@@ -103,7 +103,15 @@ This is a big list and so there is also a lot to know. To avoid overwhelming you
 
 ### <ins>Tuxborn technical things</ins>
 
-TO BE ADDED
+More information on these can be found in the wiki here on Github: https://github.com/Omni-guides/Tuxborn/wiki. Here below are some important highlights.  
+
+Optional Mods and what they do: https://github.com/Omni-guides/Tuxborn/wiki/Optional-Mods
+
+Upscaling and framegen: https://github.com/Omni-guides/Tuxborn/wiki/Upscaling-and-framegen 
+
+Support settings changes: https://github.com/Omni-guides/Tuxborn/wiki/Support-settings-changes
+
+PC Handhelds set-up for correct performance: https://github.com/Omni-guides/Tuxborn/wiki/PC-Handhelds-Performance  
 
 ### <ins>Tuxborn Content</ins>
 
