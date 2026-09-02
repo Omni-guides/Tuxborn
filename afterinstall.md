@@ -135,8 +135,6 @@ THIS WILL NEED UPDATED - COPIED FROM OLD README
 
 ### <ins>Miscellaneous changes</ins>
 
-**Survival:** We've included the Survival Overhaul [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) for those that enjoy the survival gameplay. While not enabled by default, it can be turned on by following the [same steps](https://help.bethesda.net/#en/answer/39919) as enabling Survival mode in Vanilla Skyrim. You can toggle the ability to fast-travel by editing the mod's ini file (Please note that disabling fast travel for Survival Mode will mean that the Airship from LotD cannot work). More details can be found on the Starfrost Nexus page.
-
 Tuxborn includes the [Pronouns](https://www.nexusmods.com/skyrimspecialedition/mods/43816) mod, allowing you to select your preferred pronouns. As per the mod page details:
 
 _Selecting they/them pronouns could prevent you from completing certain quests that don't provide gender-neutral dialogue alternatives. To combat this issue, I've developed the Pronouns Patcher, which allows They/Them players to default to fallback pronouns in those cases. Run the Pronouns Patcher via xEdit, then set your fallback pronouns in the MCM._
