@@ -1,51 +1,75 @@
-### <ins>Post install instructions</ins>
+<a href="https://discord.gg/xRrHRsb5e9">Discord</a> | <a href="https://github.com/Omni-guides/Tuxborn/blob/main/Changelog.md">Changelog</a> | <a href="https://loadorderlibrary.com/lists/tuxborn">Mod List & Load Order</a> | <a href="https://loadorderlibrary.com/lists/tuxborn-bfco">Mod List & Load Order (MCO)</a> | <a href="https://www.nexusmods.com/skyrimspecialedition/mods/114206">Nexus</a> | <a href="https://tuxborn.org/">Wiki</a> | <a href="https://github.com/Omni-guides/Tuxborn/blob/main/afterinstall.md">Postinstall info page and FAQ</a>
 
-If everthing went as planned you should now have a succesvol install of Tuxborn on you device, but you aren't done yet there are a couple of things you need to know before we can let you go. Here is a short overview of the profiles.
+
+
+# Post Install Information
+
+### <ins>Profiles</ins>
+
+If everything went as planned, you should now have a successful install of Tuxborn on your device, but you aren't done yet - there are a couple of things you need to know before we can let you begin your adventure. Here is a short overview of the profiles available:
  
-- MCO is a animation overhaul that changes the flow of combat to be more action based, think of games like witcher 3. This profile has some other combat mods that fit this set-up more, but is outside of that the same. 
-- The other options are based on peformance, all have the same content. Skyrim runs a lot of stuff in the background, to make sure that is happing corectly the game needs to run @ 30fps without the use of framegen. So choise a performance profile where that is the case.
-- For save compatibitly see here: https://github.com/Omni-guides/Tuxborn/wiki/Save%E2%80%90safe
+- MCO is a animation overhaul that changes the flow of combat to be more action based - think of games like The Witcher 3. This profile has some other combat mods that fit this set-up more, but is outside of the combat changes, is the same as the non-MCO profiles.
+- The other differences between profiles are based on performance, all have the same content. Skyrim runs **a lot** of stuff in the background, and to make sure that is happening correctly and safely, the game needs to run at a minimum of 30fps **without the use of Frame Generation**. Please make sure you select a performance profile where this minimum will be possible on your hardware.
+- Saves are *not* compatible across all profiles - see the [Save Compatibitly Chart](https://github.com/Omni-guides/Tuxborn/wiki/Save%E2%80%90safe) for more information.
 
-Skyrim is a game that is great for modding but isn't know for it's stabiliet or being over all well made under the hood, we do a lot to reduce any issues related to this but there is still some important limmitations you need to know about. 
+Skyrim is a game that is great for modding, but isn't known for it's stability or being over-all well made under the hood. We do a lot to reduce any issues related to this, but there are still some important limmitations you need to know about. 
 
-**Saving:** Skyrim saving system is kind of bad and it's quite easy to break, so make sure to only save when it's save to do so. Don't save during or direclty after ending combat, when a lot is happing, just after a loading screen or when you fps is below 30 and no auto saves. Do try to save regulary around every 20-40 min is good target, quicksave key make regulare saves now and never save scum.    
+**Saving:** Skyrim saving system is pretty terrible and is quite easy to break. Make sure to only save when it's safe to do so:
+**Don't** save during or direclty after ending combat, when a lot is happing, just after a loading screen or when you fps is below 30fps. Do not enable auto saves and never "save scum".
+**Do** try to save regularly, around every 20-40 min is good target, quick save's are replaced with regular saves. We have included a [Save Reminder](https://www.nexusmods.com/skyrimspecialedition/mods/176475) mod that can be configured to periodically remind you to save the game.
 
 **Something not happing:** Sometime the game trips over it self and nothing happens, if that happens the first thing you should try is reloading a save and trying again.
 
-**Quiting and loading saves:** Skyrim has the bad issue of not properly closing stuff running in the background, here is what you need to know. Don't use quit to menu, always go to desktop. Don't try to load save file to main times in game.
+**Quitting and loading saves:** Skyrim has an issue with not properly closing it's own stuff running in the background when reloading, which can lead to broken saves. To try and avoid this - Don't use quit to menu, always go to desktop. Don't try to load save file to many times in game.
 
-Lastly Tuxborn is a curated modlist, there are things we set-up for you to tweak more on that here: , but if you want to add you own stuff or tweak settings not include in here you are going on your own road and means you won't get any support. We do have some information for you to help make that journey as smooth as possibel here: https://github.com/Omni-guides/Tuxborn/wiki/Help-with-modding-Tuxborn. Any queation related to this topic go in modlist-modifaction.
+Lastly, while Tuxborn is a curated modlist, there are things we set-up that you can tweak to your liking - more on that here: . If you want to add you own mods or tweak settings not include in here, you are on your own road and won't get any support from the Tuxborn staff. If that doesn't put you off, we do have some information to help you make that journey. Check the [Help with modding Tuxborn](https://github.com/Omni-guides/Tuxborn/wiki/Help-with-modding-Tuxborn) wiki page for more information. Any questions related to modifying or making changes to Tuxborn need to be made in the #modlist-modifaction channel on Discord, not the main Tuxborn (#txbn-general) or Tuxborn Support (#txbn-support) channels.
 
 ---
 
-### <ins>In game</ins>
+### <ins>Selecting your Profile and starting the game</ins>
 
-Tuxborn makes use of a quick start mod, that skips the helgen opening. There is no lotd quick start, but if you grab the fishing gear near the 3 standingstone you can skip the opening quest.  
+As noted above, there are six MO2 Profiles to choose from. Select the profile you want to use in the top left of MO2.
 
-After making your Character, make the choices you want in the pop-up, but PLEASE WAIT until there are no longer any messages on screen.
+<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_SelectProfile.png" width="600">
+
+To start Tuxborn, make sure “Tuxborn” is selected in the top right of MO2, and then click Play!
+
+<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_ClickPlay.png" width="600">
+
+> [!IMPORTANT]
+> ⚠️ ❗ UNDER NO CIRCUMSTANCES PRESS THE “UNLOCK” BUTTON WHEN YOU HAVE LOADED SOMETHING THROUGH MOD-ORGANIZER.
+> YOU WILL BREAK MANY MANY THINGS. DO NOT PRESS THE BUTTON! ⚠️ ❗
+
+### <ins>In-Game</ins>
+
+Tuxborn makes use of the [Paradigm - A Quick Start Overhaul Extended](https://www.nexusmods.com/skyrimspecialedition/mods/173151) mod - we have included the starting options of the Helgen cave exit, or the LotD Relic Hunter start.
+
+After making your Character, you will be asked to select your starting class - this doesn't limit how you can play and leel up during the save, but impacts the starting gear and some stats. Once you have made your choice **PLEASE WAIT** until the "Museum List Build Complete" pop up appears. Failure to wait until this appears can break your save. It can take a while to appear, especially on weaker hardware like the Steam Deck, but thankfully it only needs to be completed once.
 
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_In-gameNotifications.png" width="600">
 
-When no more messages are displayed (the final message should be "Museum List Build Complete", and does take quite a while to appear, but this only needs to happen once), pick up the book right od the statue, and then speak to the statue to being your adventure!
+Once the Museum List pop-up has happened, loot the starting room, making sure to grab the Tuxborn book, then interact with the statue to begin your journey!
 
 ---
 
-### <ins>Asking for help</ins>
+### <ins>Asking for Help</ins>
 
-Below this you can kind find a lot of infomation on the content of the list to help you along, but you might run into a issue, bug or maybe there is something that is not covered. That is what the discord is for https://discord.gg/xRrHRsb5e9, for small general question you can use #txbn-general anything else goes to #txbn-support. Your first point of attack should always be closing the game and trying again from an earlier save.
+Below this section, you will find a lot of information about the content of the list to help you get started, and help throughout your playthrough. The [Tuxborn Wiki](https://tuxborm.org) expands on this greatly, and is actively maintained.
 
-- Always include the version of the list and your profile, you can find both at the top of mo2
-- Always include a save file, the consists of two file with the same name
-- Always check the readme and/or wiki to make sure you aren’t missing something
-- Always include a crash log if the issue involves a crash to desktop 
-- Always include you os
-- You have made no edits or additions to the list
+However, you might still run into an issue, bug or something that is not covered. That is what the [Tuxborn Discord](https://discord.gg/xRrHRsb5e9) is for. Small, general questions can go in the #txbn-general channel, anything more in-depth should go to #txbn-support. Your first point of attack should always be closing the game and trying again from an earlier save.
 
-Do your best to add context to the issue, what were you doing at the time in the game helps diagnose the issue. Or add a screenshot, an image can say a thousand words. Don’t make us have to hunt stuff down, details are important. If you don't include the info above we might ingnore your requist.  
+- Always include the version of the list and your profile, you can find both at the top of MO2.
+- Always include a save showing the issue - This consists of two files with the same name (.ess and .skse).
+- Always check the readme and/or wiki to make sure you aren’t missing something.
+- Always include a crash log if the issue involves a crash to desktop .
+- Always include which OS you are using.
+- Confirm you have made no edits or additions to the list.
+
+Do your best to add context to the issue, what were you doing at the time in the game helps diagnose the issue - Or add a screenshot, an image can say a thousand words. Don’t make us have to hunt stuff down, details are important. If you don't include the info above we might ignore your request for help.  
 
 ---
 ### <ins>Keybinds</ins>
-This is for MCO only, any other keybind is the skyrim defaul
+These are for MCO profiles only, any other keybind not listed stays as the Skyrim default.
 
 Controller
 
@@ -68,14 +92,60 @@ Keyboard
 
 ---
 
-### <ins>The quest for more knowledge</ins>
+# The quest for more knowledge
 
-This is a big list and so there is also a lot to know, to not overwell you with have spilt that information up and the section below will point you on you way. 
+This is a big list and so there is also a lot to know. To avoid overwhelming you with information, we have spilt things up into the sections below, which should point you on your way. 
 
-**Tuxborn technical things**
+### <ins>Tuxborn technical things</ins>
 
+TO BE ADDED
 
-**Content**
+### <ins>Tuxborn Content</ins>
+
+THIS WILL NEED UPDATED - COPIED FROM OLD README
+
+**Gameplay Changes (Simonrim):** [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191/), [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839), [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138), [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) & [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659)
+
+**Gameplay Changes (Enairim):** [Mannaz](https://www.nexusmods.com/skyrimspecialedition/mods/87219), [Freyr](https://www.nexusmods.com/skyrimspecialedition/mods/88043), [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408), [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) & [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090)
+
+**Gameplay Changes (Levelling):** Tuxborn utilises [Static Skill Levelling](https://www.nexusmods.com/skyrimspecialedition/mods/89940) that changes the way levelling is handled. After gaining a level, you will be presented with a menu to select the skills you wish to level up. A better description can be found on the Nexus mod page, but essentially instead of gaining Skill XP as you use skills, you gain level XP. Once you level up and sleep, you can allocate points to the skills as you wish - no more min/max'ing, or casting the same spell over and over to level up a specific skill! Please note that this mod is optional and can be disabled *before* starting a new save. It *cannot be disabled mid-save*.
+
+**Gameplay Changes (MCO):** Entirely optional, Tuxborn includes three performance profiles that includes the [MCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052) bringing modern combat animations and features to Skyrim, including new animations for melee/range weapons, while also  allowing attacks while jumping and swimming. Replaces Blade and Blunt with [Plus Combat](https://www.nexusmods.com/skyrimspecialedition/mods/100915) and [Chocolate Poise Plus](https://www.nexusmods.com/skyrimspecialedition/mods/82091)
+
+**Visual Enhancements:** [Skyrim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/34179), [Azurite Weather and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/42731), [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961), [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492).
+
+**CharGen Changes:** We have included High Poly Head, CBBE and a whole range of Head, Body,Hair and Eye mods, as well as a set of Character presets - the options available in Tuxborn should allow you to create your perfect character.
+
+**NPC Changes:** We have been careful to enhance the visuals for NPCs throughout the game world, without going for the "supermodels everywhere" look. A carefully thought out list of NPC mods and replacers, combined with a hand-picked merge of multiple NPC mods, creates a vast improvement on the Vanilla experience, while maintining immersion in how characters appear.
+
+**Content:** Tuxborn aims to include as much of the good-quality quest content and enhancements, including (but not limited to) [Legacy of the Dragonborn (v6)](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [JaySerpa Quest Expansion Series](https://next.nexusmods.com/profile/jayserpa/mods?gameId=1704), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Byeond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008), [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998), [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789), [The Grey Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509), [Falskaar](https://www.nexusmods.com/skyrimspecialedition/mods/2057), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341/) plus a whole load of smaller quest mods!
+
+### <ins>Miscellaneous changes</ins>
+
+**Survival:** We've included the Survival Overhaul [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) for those that enjoy the survival gameplay. While not enabled by default, it can be turned on by following the [same steps](https://help.bethesda.net/#en/answer/39919) as enabling Survival mode in Vanilla Skyrim. You can toggle the ability to fast-travel by editing the mod's ini file (Please note that disabling fast travel for Survival Mode will mean that the Airship from LotD cannot work). More details can be found on the Starfrost Nexus page.
+
+Tuxborn includes the [Pronouns](https://www.nexusmods.com/skyrimspecialedition/mods/43816) mod, allowing you to select your preferred pronouns. As per the mod page details:
+
+_Selecting they/them pronouns could prevent you from completing certain quests that don't provide gender-neutral dialogue alternatives. To combat this issue, I've developed the Pronouns Patcher, which allows They/Them players to default to fallback pronouns in those cases. Run the Pronouns Patcher via xEdit, then set your fallback pronouns in the MCM._
+
+We've done the xEdit bit for you, but you will still have to set your fallback pronoun via the MCM in-game.
+
+### <ins>Optional Mods</ins>
+
+**Main Menu:** A Custom Tuxborn Main Menu.  
+**Custom Presets Go in Here:** An empty folder to put any custom racemenu presets in (.jslot file format).  
+**[Static Skill Levelling:](https://www.nexusmods.com/skyrimspecialedition/mods/89940)**  Alternative Skill Leveling system (cannot be enabled/disabled mid-save).  
+**SSE FPS Stabilizer:** A SKSE plugin that dynamically changes settings based on a performance target, can be disabled if you run into weird performance issues.  
+**Resurrection API for Skyrim 1.6:** An API for reliable, instant & bugless resurrection mods. Required for Shades of Mortality (to disable, remove all active effects and then disable with Shades of Mortality).  
+**Shades of Mortality:** A death alternative mod that prevents death by inflicting injuries with penalties to health, magicka regeneration, and stamina regeneration (to disable, remove all active effects and disable the mod along with Resurrection API).  
+**Tuxborn Combat Controller Keys:** Controller button mapping for the MCO profiles. Disable if you are playing on Keyboard and Mouse.  
+**Combat Keyboard Keys:** Keyboard button mapping for the MCO profiles. Disable if y ou are playing on controller.  
+**Small HUD:** Makes the HUD smaller in scale.  
+**Framegen:** A framegen mod that will add more ai frames, doesn't work with Proton/Linux at the moment. Set FramerateLimit = to match your display.   
+**Lower Render Resolution:** An optional mod that lowers the render scaling to 0.75 to help with performance on handhelds that have 1080p and higher screen resolutions.  
+**Enemy (R)Evolution of Skyrim:** EEOS: gives npc more perks and spells to use against you.  
+**Masculine Animations for Female PCs/Feminine Animations for Male PCs:** changes some animations for the Player Character.  
+
 
 
 
