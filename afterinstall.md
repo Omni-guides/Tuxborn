@@ -2,8 +2,9 @@
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/wip.jpg" width="800">
 </p>
 
+<div align="center">
 <a href="https://discord.gg/xRrHRsb5e9">Discord</a> | <a href="https://github.com/Omni-guides/Tuxborn/blob/main/Changelog.md">Changelog</a> | <a href="https://loadorderlibrary.com/lists/tuxborn">Mod List & Load Order</a> | <a href="https://loadorderlibrary.com/lists/tuxborn-bfco">Mod List & Load Order (MCO)</a> | <a href="https://www.nexusmods.com/skyrimspecialedition/mods/114206">Nexus</a> | <a href="https://tuxborn.org/">Wiki</a> | <a href="https://github.com/Omni-guides/Tuxborn/blob/main/afterinstall.md">Post-install Info and FAQ</a>
-
+</div>
 
 
 # Post Install Information
