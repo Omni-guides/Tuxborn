@@ -45,6 +45,8 @@ To start Tuxborn, make sure “Tuxborn” is selected in the top right of MO2, a
 > **UNDER NO CIRCUMSTANCES CLICK THE "UNLOCK" BUTTON.**
 > Shortly after clicking Run, an Unlock button will appear in Mod Organizer 2. Clicking it will break your modlist installation. Do not click it.
 
+<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/ModlistGuides/Tuxborn/Windows/mo2-unlock-button-warning.png" width="800">
+
 ### <ins>In-Game</ins>
 
 Tuxborn makes use of the [Paradigm - A Quick Start Overhaul Extended](https://www.nexusmods.com/skyrimspecialedition/mods/173151) mod - we have included the starting options of the Helgen cave exit, or the LotD Relic Hunter start.
