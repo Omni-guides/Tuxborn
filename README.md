@@ -49,9 +49,14 @@ If you need support or wish to chat about Tuxborn, join the [Aetherius Modding D
 
 Inspired by the likes of Septimus, Eldryn and Redoran, Tuxborn was initially created to fill a gap in the Wabbajack Modlist landscape – A Modlist that at a minimum targets the performance profile of the Valve Steam Deck, and midrange PCs on the higher end. Since then, Tuxborn has evolved to become a great option for those using less powerful PCs or laptops, as well as the full range of handheld PCs that are now on the market. Tuxborn includes options for both regular Skyrim combat and modern 3rd person action combat based on MCO, and uses a combination of Simonrim and Enairim overhauls, enhanced by new perk trees, static leveling and a large amount of new content to play.
 
-There are two version of the list you can install, the main version you can find on Nexus and Wabbajack/Jackify - this comes with every profile the Tuxborn offers - and optionally there is a "Deck/Low only" version available on NexusMods, this version only includes the mods required for the Deck profiles (e.g does not include the large textures mods that are not used for these profiles), resulting in a smaller install size.
+There are two versions of the list you can install: 
 
-For an overview of the mods included in Tuxborn, check out the Load Order Libary linked at the top of the page, or check out [our own website and wiki](https://tuxborn.org) for even more detailed information on what is in the list, and how to use or access it. 
+* The main version you can find on Nexus and Wabbajack/Jackify - this comes with every profile the Tuxborn offers. 
+* A "Deck/Low only" version available on NexusMods, this version only includes the mods required for the Deck profiles (e.g does not include the large textures mods that are not used for these profiles), resulting in a smaller install size.
+
+There is no difference in terms of game content between the two.
+
+For an overview of the mods included in Tuxborn, check out the Load Order Libary linked at the top of the page, or check out [our own website and wiki](https://tuxborn.org) for even more detailed information about the mods included in the list, and how to use or access it. 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ouruboros)
 
@@ -70,7 +75,7 @@ Minimum specs for the low/deck profile are the same specs as a Steamdeck, the de
           RAM: 16gb
           VRAM: 6gb or more for Medium or High with PBR
           
-In terms of dick space, for the full package you will need a total of XXXGB of free space to install the list - Downloads at XXXGB, Install at XXXGB and the 30GB temporary space that Wabbajack/Jackify will need during the install. The Deck-only version requires XXXGB in total - XXXGB for the Downloads, XXXGB for the Install and the 30GB temporary space.
+In terms of disk space, for the full package you will need a total of XXXGB of free space to install the list - Downloads at XXXGB, Install at XXXGB and roughly 30GB temporary space that Wabbajack/Jackify will need during the install. The Deck-only version requires XXXGB in total - XXXGB for the Downloads, XXXGB for the Install and the 30GB temporary space.
 
 For best performance in game, the **Install** should be on an SSD/NVMe - HDDs are not an option. On Deck, Internal storage is preferred, though SDCard will work. Downloads can be on any drive type, but slower drives will make the installation slightly slower.
 
@@ -94,7 +99,7 @@ Once the installation is complete, you can move on to the [Post Install informat
 
 ### <ins>Conclusion and Thanks</ins>
 
-Omni and Ouroboros would like to thank the [Tuxborn Team](https://tuxborn.org/the-tuxborn-team/) for their dedication and hard work, the entire Wabbajack community for being so awesome, but with a special mention for Althro, Cacophony, Arnold, Foamimi, colinswrath, Diana TES GotH, Styyx, and Zooey, who have been a great help in us getting this far.
+Omni and Ouroboros would like to thank the [Tuxborn Team](https://tuxborn.org/the-tuxborn-team/) for their dedication and hard work, the entire Wabbajack community for being so awesome, but with a special mention for Althro, Cacophony, Arnold, Foamimi, colinswrath, Diana TES GotH, Styyx, and Zooey, who have been a great help in us getting us this far.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ouruboros)
 
