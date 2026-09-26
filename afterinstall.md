@@ -17,6 +17,7 @@ If everything went as planned, you should now have a successful install of Tuxbo
 - The other differences between profiles are based on performance, all have the same content. Skyrim runs **a lot** of stuff in the background, and to make sure that is happening correctly and safely, the game needs to run at a minimum of 30fps **without the use of Frame Generation**. Please make sure you select a performance profile where this minimum will be possible on your hardware.
 - Saves are *not* compatible across all profiles - see the [Save Compatibitly Chart](https://github.com/Omni-guides/Tuxborn/wiki/Save%E2%80%90safe) for more information.
 
+### <ins>Saving</ins>
 Skyrim is a game that is great for modding, but isn't known for it's stability or being over-all well made under the hood. We do a lot to reduce any issues related to this, but there are still some important limmitations you need to know about. 
 
 **Saving:** Skyrim saving system is pretty terrible and is quite easy to break. Make sure to only save when it's safe to do so:
@@ -27,7 +28,7 @@ Skyrim is a game that is great for modding, but isn't known for it's stability o
 
 **Quitting and loading saves:** Skyrim has an issue with not properly closing it's own stuff running in the background when reloading, which can lead to broken saves. To try and avoid this - Don't use quit to menu, always go to desktop. Don't try to load save file to many times in game.
 
-Lastly, while Tuxborn is a curated modlist, there are things we set-up that you can tweak to your liking - more on that here: . If you want to add you own mods or tweak settings not include in here, you are on your own road and won't get any support from the Tuxborn staff. If that doesn't put you off, we do have some information to help you make that journey. Check the [Help with modding Tuxborn](https://github.com/Omni-guides/Tuxborn/wiki/Help-with-modding-Tuxborn) wiki page for more information. Any questions related to modifying or making changes to Tuxborn need to be made in the #modlist-modifaction channel on Discord, not the main Tuxborn (#txbn-general) or Tuxborn Support (#txbn-support) channels.
+Lastly, while Tuxborn is a curated modlist, there are things we set-up that you can tweak to your liking - more on that [here - link to be added](). If you want to add you own mods or tweak settings not include in here, you are on your own road and won't get any support from the Tuxborn staff. If that doesn't put you off, we do have some information to help you make that journey. Check the [Help with modding Tuxborn](https://github.com/Omni-guides/Tuxborn/wiki/Help-with-modding-Tuxborn) wiki page for more information. Any questions related to modifying or making changes to Tuxborn need to be made in the #modlist-modifaction channel on Discord, not the main Tuxborn (#txbn-general) or Tuxborn Support (#txbn-support) channels.
 
 ---
 
@@ -51,7 +52,7 @@ To start Tuxborn, make sure “Tuxborn” is selected in the top right of MO2, a
 
 Tuxborn makes use of the [Paradigm - A Quick Start Overhaul Extended](https://www.nexusmods.com/skyrimspecialedition/mods/173151) mod - we have included the starting options of the Helgen cave exit, or the LotD Relic Hunter start.
 
-After making your Character, you will be asked to select your starting class - this doesn't limit how you can play and leel up during the save, but impacts the starting gear and some stats. Once you have made your choice **PLEASE WAIT** until the "Museum List Build Complete" pop up appears. Failure to wait until this appears can break your save. It can take a while to appear, especially on weaker hardware like the Steam Deck, but thankfully it only needs to be completed once.
+After making your Character, you will be asked to select your starting class - this doesn't limit how you can play and leel up during the save, but impacts the starting gear and some stats. Once you have made your choice **PLEASE WAIT** until the "Museum List Build Complete" pop up appears. Failure to wait until this appears can break your save. It can take a while to appear, especially on weaker hardware like the Steam Deck, but thankfully it only needs to be completed once per character.
 
 <img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/Tuxborn_In-gameNotifications.png" width="600">
 
