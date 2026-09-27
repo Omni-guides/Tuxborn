@@ -120,23 +120,19 @@ Here are some important highlights:
 
 ### <ins>Tuxborn Content</ins>
 
-THIS WILL NEED UPDATED - COPIED FROM OLD README
-
 **Gameplay Changes (Simonrim):** [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191/), [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839), [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138), [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) & [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659)
 
 **Gameplay Changes (Enairim):** [Mannaz](https://www.nexusmods.com/skyrimspecialedition/mods/87219), [Freyr](https://www.nexusmods.com/skyrimspecialedition/mods/88043), [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408), [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) & [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090)
 
-**Gameplay Changes (Levelling):** Tuxborn utilises [Static Skill Levelling](https://www.nexusmods.com/skyrimspecialedition/mods/89940) that changes the way levelling is handled. After gaining a level, you will be presented with a menu to select the skills you wish to level up. A better description can be found on the Nexus mod page, but essentially instead of gaining Skill XP as you use skills, you gain level XP. Once you level up and sleep, you can allocate points to the skills as you wish - no more min/max'ing, or casting the same spell over and over to level up a specific skill! Please note that this mod is optional and can be disabled *before* starting a new save. It *cannot be disabled mid-save*.
+**Gameplay Changes (Levelling):** Tuxborn utilises [Static Skill Levelling](https://www.nexusmods.com/skyrimspecialedition/mods/89940) that changes the way levelling is handled. After gaining a level, you will be presented with a menu to select the skills you wish to level up. A better description can be found on the Nexus mod page, but essentially instead of gaining Skill XP as you use skills, you gain level XP. Once you level up and sleep, you can allocate points to the skills as you wish - no more min/max'ing, or casting the same spell over and over to level up a specific skill!
 
-**Gameplay Changes (MCO):** Entirely optional, Tuxborn includes three performance profiles that includes the [MCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052) bringing modern combat animations and features to Skyrim, including new animations for melee/range weapons, while also  allowing attacks while jumping and swimming. Replaces Blade and Blunt with [Plus Combat](https://www.nexusmods.com/skyrimspecialedition/mods/100915) and [Chocolate Poise Plus](https://www.nexusmods.com/skyrimspecialedition/mods/82091)
+**Gameplay Changes (MCO):** Entirely optional, Tuxborn includes three performance profiles that includes the [MCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052) bringing modern combat animations and features to Skyrim, including new animations for melee/range weapons.
 
-**Visual Enhancements:** [Skyrim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/34179), [Azurite Weather and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/42731), [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961), [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492).
-
-**CharGen Changes:** We have included High Poly Head, CBBE and a whole range of Head, Body,Hair and Eye mods, as well as a set of Character presets - the options available in Tuxborn should allow you to create your perfect character.
-
-**NPC Changes:** We have been careful to enhance the visuals for NPCs throughout the game world, without going for the "supermodels everywhere" look. A carefully thought out list of NPC mods and replacers, combined with a hand-picked merge of multiple NPC mods, creates a vast improvement on the Vanilla experience, while maintining immersion in how characters appear.
+**NPC:** Almost every npc has been overhauled, including a massive custom built armor leveled list and a lot of new clothing. They also have more variation in bodies via autobodies, you can set a key to edit those in the mcm including your own body. 
 
 **Content:** Tuxborn aims to include as much of the good-quality quest content and enhancements, including (but not limited to) [Legacy of the Dragonborn (v6)](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [JaySerpa Quest Expansion Series](https://next.nexusmods.com/profile/jayserpa/mods?gameId=1704), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Byeond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008), [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998), [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789), [The Grey Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509), [Falskaar](https://www.nexusmods.com/skyrimspecialedition/mods/2057), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341/) plus a whole load of smaller quest mods!
+
+For more comprehensive information you can make use of our website, which has a wiki with more information about all the content in the list and how to start them. https://tuxborn.org/wiki/home/   
 
 ### <ins>Miscellaneous changes</ins>
 
