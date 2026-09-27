@@ -25,7 +25,7 @@
       "download": "https://authored-files.wabbajack.org/Tuxborn.wabbajack_b49465c4-f49a-4f3e-9e3d-ddfe8dbac5e2",
       "machineURL": "Tuxborn",
       "discordURL": "https://discord.com/invite/xRrHRsb5e9",
-      "websiteURL": ""
+      "websiteURL": "https://tuxborn.org/"
     },
     "download_metadata": {
       "Hash": "+GgiNCXB6Os=",
@@ -37,6 +37,48 @@
       "TotalSize": 365399603723
     },
     "version": "1.1.3",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-07-31T07:01:30.6931158Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Tuxborn Low Only",
+    "description": "This will only install the Deck/Low profiles, for those that don’t want/need the additional graphical stuff from the full version to save on space. All content is the same as the full version.",
+    "author": "Omni and Ouroboros",
+    "maintainers": [
+      "github/Ouruboros"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "DLC Required",
+      "SFW",
+      "Steam Deck",
+      "Steam"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Omni-guides/Tuxborn/main/images/TuxbornDeck.png",
+      "readme": "https://github.com/Omni-guides/Tuxborn/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Tuxborn%20Low%20Only.wabbajack_559d5ece-e5fd-4bd7-b740-697165aa3d6c",
+      "machineURL": "TuxbornLow",
+      "discordURL": "https://discord.com/invite/xRrHRsb5e9",
+      "websiteURL": "https://tuxborn.org/"
+    },
+    "download_metadata": {
+      "Hash": "C2O4FuvUYd4=",
+      "Size": 1919260227,
+      "NumberOfArchives": 1835,
+      "SizeOfArchives": 140131281709,
+      "NumberOfInstalledFiles": 376560,
+      "SizeOfInstalledFiles": 218803774914,
+      "TotalSize": 358935056623
+    },
+    "version": "1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-07-31T07:01:30.6931158Z",
     "repositoryName": ""
