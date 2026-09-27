@@ -43,7 +43,7 @@ Minimum specs for the low/deck profile are the same specs as a Steamdeck, the de
           RAM: 16gb
           VRAM: 6gb or more for Medium or High with PBR
           
-In terms of disk space, for the full package you will need a total of XXXGB of free space to install the list - Downloads at XXXGB, Install at XXXGB and roughly 30GB temporary space that Wabbajack/Jackify will need during the install. The Deck-only version requires XXXGB in total - XXXGB for the Downloads, XXXGB for the Install and the 30GB temporary space.
+In terms of disk space, for the full package you will need a total of 450GB of free space to install the list - Downloads at 155GB, Install at 265GB and roughly 30GB temporary space that Wabbajack/Jackify will need during the install. The Deck-only version requires 340GB in total - 120GB for the Downloads, 190GB for the Install and the 30GB temporary space. Downloads can be deleted once you are happy everything is working.
 
 For best performance in game, the **Install** should be on an SSD/NVMe - HDDs are not an option. On Deck, Internal storage is preferred, though SDCard will work. Downloads can be on any drive type, but slower drives will make the installation slightly slower.
 
