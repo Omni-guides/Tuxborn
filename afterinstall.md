@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/wip.jpg" width="800">
+<img src="https://github.com/Omni-guides/Tuxborn/blob/main/images/TuxbornBanner1.2a.png" width="800">
 </p>
 
 <div align="center">
