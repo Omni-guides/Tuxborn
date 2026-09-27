@@ -17,12 +17,12 @@ If you need support or wish to chat about Tuxborn, join the [Aetherius Modding D
 
 Inspired by the likes of Septimus, Eldryn and Redoran, Tuxborn was initially created to fill a gap in the Wabbajack Modlist landscape – A Modlist that at a minimum targets the performance profile of the Valve Steam Deck, and midrange PCs on the higher end. Since then, Tuxborn has evolved to become a great option for those using less powerful PCs or laptops, as well as the full range of handheld PCs that are now on the market. Tuxborn includes options for both regular Skyrim combat and modern 3rd person action combat based on MCO, and uses a combination of Simonrim and Enairim overhauls, enhanced by new perk trees, static leveling and a large amount of new content to play.
 
-There are two versions of the list you can install: 
+There are two versions of the list you can install, both versions can be found in the Gallery of Wabbajack/Jackify: 
 
-* The main version you can find on Nexus and Wabbajack/Jackify - this comes with every profile the Tuxborn offers. 
-* A "Deck/Low only" version available on NexusMods, this version only includes the mods required for the Deck profiles (e.g does not include the large textures mods that are not used for these profiles), resulting in a smaller install size.
+* The Full Tuxborn package - this comes with every profile that Tuxborn offers. 
+* A "Deck/Low only" package - A much smaller install size, this version only includes the mods required for the Deck profiles (e.g does not include the large textures mods that are not used for these profiles).
 
-There is no difference in terms of game content between the two.
+**There is no difference in terms of game content between the two.**
 
 For an overview of the mods included in Tuxborn, check out the Load Order Libary linked at the top of the page, or check out [our own website and wiki](https://tuxborn.org) for even more detailed information about the mods included in the list, and how to use or access it. 
 
