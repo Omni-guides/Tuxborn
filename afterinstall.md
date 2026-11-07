@@ -62,7 +62,7 @@ Once the Museum List pop-up has happened, loot the starting room, making sure to
 
 ### <ins>Asking for Help</ins>
 
-Below this section, you will find a lot of information about the content of the list to help you get started, and help throughout your playthrough. The [Tuxborn Wiki](https://tuxborm.org) expands on this greatly, and is actively maintained.
+Below this section, you will find a lot of information about the content of the list to help you get started, and help throughout your playthrough. The [Tuxborn Wiki](https://tuxborn.org) expands on this greatly, and is actively maintained.
 
 However, you might still run into an issue, bug or something that is not covered. That is what the [Tuxborn Discord](https://discord.gg/xRrHRsb5e9) is for. Small, general questions can go in the #txbn-general channel, anything more in-depth should go to #txbn-support. Your first point of attack should always be closing the game and trying again from an earlier save.
 
